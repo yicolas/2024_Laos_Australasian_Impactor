@@ -1,0 +1,9 @@
+﻿,site_info,,,,,,,,,,,,,,,,,,,,,
+site_id,WBEA-,,,,,,,,,,,,,,,,,,,,,
+site_name,"1.395 Ma basalt. Stratigraphic control, magnetostrat - block sample",,,,,,,,,,,,,,,,,,,,,
+site_lat,15.27004,(ºN),,,,,,,,,,,,,,,,,,,,
+site_long,106.34718,(ºE),,,,,,Sun Compass Information,,,,,,,,,Calculated Fields,,,,,
+site_elevation,1166.165,,,,,,,,,,,,,,,,,,,,,
+sample_name,comment,strat_level,magnetic_core_strike,core_dip,bedding_strike,bedding_dip,correct_bedding_using_local_dec,shadow_angle,GMT_offset,year,month,days,hours,minutes,mass,runs,sun_core_strike,calculated_IGRF,IGRF_local_dec,calculated_mag_dec,core_strike,corrected_bedding_strike
+1,mag compass orientation (IGRF corrected),1397,128,93.0,0.0,0.0,no,nan,7.0,2024.0,3.0,15.0,17.0,29.0,1.0,nan,nan,[np.float64(358.64590687291843); np.float64(19.840446129787107); np.float64(43146.84681196494)],-1.354093127081569,insufficient data,126.6,nan
+2,mag compass orientation (IGRF corrected),1397,215,84.0,0.0,0.0,no,nan,7.0,2024.0,3.0,15.0,17.0,42.0,1.0,nan,nan,[np.float64(358.64590541022636); np.float64(19.84044904732128); np.float64(43146.84806297659)],-1.3540945897736378,insufficient data,213.6,nan

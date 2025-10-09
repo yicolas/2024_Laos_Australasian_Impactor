@@ -1,0 +1,9 @@
+﻿,site_info,,,,,,,,,,,,,,,,,,,,,
+site_id,PKSK-,,,,,,,,,,,,,,,,,,,,,
+site_name,insitu flow 407 ka - not block sample,,,,,,,,,,,,,,,,,,,,,
+site_lat,15.24186,(ºN),,,,,,,,,,,,,,,,,,,,
+site_long,106.26,(ºE),,,,,,Sun Compass Information,,,,,,,,,Calculated Fields,,,,,
+site_elevation,1243.279,,,,,,,,,,,,,,,,,,,,,
+sample_name,comment,strat_level,magnetic_core_strike,core_dip,bedding_strike,bedding_dip,correct_bedding_using_local_dec,shadow_angle,GMT_offset,year,month,days,hours,minutes,mass,runs,sun_core_strike,calculated_IGRF,IGRF_local_dec,calculated_mag_dec,core_strike,corrected_bedding_strike
+1,mag compass orientation (IGRF corrected),407,93,28,0,0,yes,nan,7,2024,3,15,15,40,1,nan,nan,[np.float64(358.6565155918202); np.float64(19.77766172209819); np.float64(43141.21355588642)],-1.343484408,insufficient data,91.7,-1.3
+2,mag compass orientation (IGRF corrected),407,242,18,0,0,yes,nan,7,2024,3,15,15,42,1,nan,nan,[np.float64(358.6565153679815); np.float64(19.77766217208389); np.float64(43141.2137485845)],-1.343484632,insufficient data,240.7,-1.3

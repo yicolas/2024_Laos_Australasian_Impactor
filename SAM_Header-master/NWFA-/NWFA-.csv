@@ -1,0 +1,12 @@
+﻿,site_info,,,,,,,,,,,,,,,,,,,,,
+site_id,NWFA-,,,,,,,,,,,,,,,,,,,,,
+site_name,assumed to be in place lava flow in river under bridge aged 518 ka,,,,,,,,,,,,,,,,,,,,,
+site_lat,15.64,(ºN),,,,,,,,,,,,,,,,,,,,
+site_long,106.14,(ºE),,,,,,,,Sun Compass Information,,,,,,,,,Calculated Fields,,,
+site_elevation,232.2576,,,,,,,,,,,,,,,,,,,,,
+sample_name,comment,strat_level,magnetic_core_strike,core_dip,bedding_strike,bedding_dip,correct_bedding_using_local_dec,shadow_angle,GMT_offset,year,month,days,hours,minutes,mass,runs,sun_core_strike,calculated_IGRF,IGRF_local_dec,calculated_mag_dec,core_strike,corrected_bedding_strike
+1,sun compass orientation,518,246.1,59,0,0,no,262,7,2024,3,18,15,47,1,nan,341.1,[np.float64(358.62128709851135); np.float64(20.654631826737706); np.float64(43316.648572057646)],-1.378712901,95,341.1,nan
+2,sun compass orientation,518,269.2,47.5,0,0,no,193,7,2024,3,18,15,59,1,nan,273.2,[np.float64(358.6212857487161); np.float64(20.654634514514573); np.float64(43316.64975128025)],-1.378714251,4,273.2,nan
+3,sun compass orientation,518,307.5,41.5,0,0,no,258,7,2024,3,18,15,5,1,nan,332.5,[np.float64(358.6212918227949); np.float64(20.65462241951744); np.float64(43316.64444477951)],-1.378708177,25,332.5,nan
+4,sun compass orientation,518,245.3,60,0,0,no,172,7,2024,3,18,16,11,1,nan,253.3,[np.float64(358.62128439892086); np.float64(20.654637202291298); np.float64(43316.65093050294)],-1.378715601,8,253.3,nan
+5,sun compass orientation,518,318.3,110,0,0,no,109,7,2024,3,18,16,11,1,nan,190.3,[np.float64(358.62128439892086); np.float64(20.654637202291298); np.float64(43316.65093050294)],-1.378715601,-128,190.3,nan

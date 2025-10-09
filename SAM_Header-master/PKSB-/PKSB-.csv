@@ -1,0 +1,8 @@
+﻿,site_info,,,,,,,,,,,,,,,,,,,,,
+site_id,PKSB-,,,,,,,,,,,,,,,,,,,,,
+site_name,"1 Ma ""shockwave breccia"" coherent basalt flow at base of dam excavation",,,,,,,,,,,,,,,,,,,,,
+site_lat,15.15,(ºN),,,,,,,,,,,,,,,,,,,,
+site_long,106.19,(ºE),,,,,,Sun Compass Information,,,,,,,,,Calculated Fields,,,,,
+site_elevation,1209.142,,,,,,,,,,,,,,,,,,,,,
+sample_name,comment,strat_level,magnetic_core_strike,core_dip,bedding_strike,bedding_dip,correct_bedding_using_local_dec,shadow_angle,GMT_offset,year,month,days,hours,minutes,mass,runs,sun_core_strike,calculated_IGRF,IGRF_local_dec,calculated_mag_dec,core_strike,corrected_bedding_strike
+1,sun compass orientation,1000,117.4,19.5,0,0.0,yes,355,7,2024,3,14,13,14,1.0,nan,41.4,[np.float64(358.6730096456446); np.float64(19.574100005158872); np.float64(43114.496217853084)],-1.3269903543554165,-76.0,41.4,-1.3

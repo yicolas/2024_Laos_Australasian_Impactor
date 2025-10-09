@@ -1,0 +1,15 @@
+﻿,site_info,,,,,,,,,,,,,,,,,,,,,
+site_id,NWFC-,,,,,,,,,,,,,,,,,,,,,
+site_name,"~900 ka - 1.5 Ma basalt boulders in diamicton, cong test",,,,,,,,,,,,,,,,,,,,,
+site_lat,15.41,(ºN),,,,,,,,,,,,,,,,,,,,
+site_long,106.14,(ºE),,,,,,Sun Compass Information,,,,,,,,,Calculated Fields,,,,,
+site_elevation,612.648,,,,,,,,,,,,,,,,,,,,,
+sample_name,comment,strat_level,magnetic_core_strike,core_dip,bedding_strike,bedding_dip,correct_bedding_using_local_dec,shadow_angle,GMT_offset,year,month,days,hours,minutes,mass,runs,sun_core_strike,calculated_IGRF,IGRF_local_dec,calculated_mag_dec,core_strike,corrected_bedding_strike
+1,sun compass orientation,0,286,25,0,0,no,337,7,2024,3,19,10,51,1,nan,286.6,[np.float64(358.6471118430033); np.float64(20.149425651590263); np.float64(43224.58818357999)],-1.352888157,0.6,286.6,-1.4
+2,sun compass orientation,0,273,98,0,0,no,314,7,2024,3,19,10,58,1,nan,266.7,[np.float64(358.64711106070683); np.float64(20.149427226110337); np.float64(43224.58886512852)],-1.352888939,-6.3,266.7,-1.4
+3,sun compass orientation,0,37,20,0,0,no,78,7,2024,3,19,11,4,1,nan,33.6,[np.float64(358.647110390167); np.float64(20.149428575698934); np.float64(43224.58944931301)],-1.35288961,-3.4,33.6,-1.4
+4,sun compass orientation,0,246,11,0,0,no,278,7,2024,3,19,11,15,1,nan,239.7,[np.float64(358.64710916084397); np.float64(20.149431049944575); np.float64(43224.59052031797)],-1.352890839,-6.3,239.7,-1.4
+5,sun compass orientation,0,356,78,0,0,no,28,7,2024,3,19,11,18,1,nan,351.5,[np.float64(358.64710882557404); np.float64(20.149431724738797); np.float64(43224.590812410315)],-1.352891174,-4.5,351.5,-1.4
+6,sun compass orientation,0,284,65,0,0,no,318,7,2024,3,19,11,23,1,nan,284.7,[np.float64(358.64710826679084); np.float64(20.149432849395833); np.float64(43224.59129923078)],-1.352891733,0.7,284.7,-1.4
+7,sun compass orientation,0,326,52,0,0,no,335,7,2024,3,19,11,45,1,nan,318.7,[np.float64(358.64710580814494); np.float64(20.14943779788648); np.float64(43224.59344124122)],-1.352894192,-7.3,318.7,-1.4
+8,sun compass orientation,0,348,41,0,0,no,8,7,2024,3,19,11,34,1,nan,342.7,[np.float64(358.6471070374679); np.float64(20.149435323641228); np.float64(43224.59237023594)],-1.352892963,-5.3,342.7,-1.4

@@ -1,0 +1,10 @@
+﻿,site_info,,,,,,,,,,,,,,,,,,,,,
+site_id,PKSH-,,,,,,,,,,,,,,,,,,,,,
+site_name,"ejecta/cong test of boulders seperated by ~6m/20ft, based on flow elevation thught to capture bruhnes matuyama reversal., H1 and H2 above and H3 is below - not block samples",,,,,,,,,,,,,,,,,,,,,
+site_lat,15.15573,(ºN),,,,,,,,,,,,,,,,,,,,
+site_long,106.19181,(ºE),,,,,,Sun Compass Information,,,,,,,,,Calculated Fields,,,,,
+site_elevation,1233.526,,,,,,,,,,,,,,,,,,,,,
+sample_name,comment,strat_level,magnetic_core_strike,core_dip,bedding_strike,bedding_dip,correct_bedding_using_local_dec,shadow_angle,GMT_offset,year,month,days,hours,minutes,mass,runs,sun_core_strike,calculated_IGRF,IGRF_local_dec,calculated_mag_dec,core_strike,corrected_bedding_strike
+1,sun compass orientation,770,335.5,23.0,0.0,0.0,no,44,7,2024,3,14,9,45,1.0,nan,337.8,[np.float64(358.6722260281377); np.float64(19.586689420742957); np.float64(43115.7852919878)],-1.3277739718623138,2.3000000000000114,337.8,nan
+2,sun compass orientation,770,25.5,5.0,0.0,0.0,no,92,7,2024,3,14,9,53,1.0,nan,27.3,[np.float64(358.6722251380947); np.float64(19.586691226342513); np.float64(43115.78606153214)],-1.3277748619053114,1.8000000000000007,27.3,nan
+3,sun compass orientation,770,245,24.5,0.0,0.0,no,302,7,2024,3,14,10,24,1.0,nan,244.8,[np.float64(358.6722216891781); np.float64(19.586698223040084); np.float64(43115.78904351702)],-1.3277783108218841,-0.19999999999998863,244.8,nan

@@ -1,0 +1,15 @@
+﻿,site_info,,,,,,,,,,,,,,,,,,,,,
+site_id,PKSG-,,,,,,,,,,,,,,,,,,,,,
+site_name,ejecta conglomerate test on hill above coffee plantation and dam site. USE TO BE SITE PKS24-HF - block samples,,,,,,,,,,,,,,,,,,,,,
+site_lat,15.16,(ºN),,,,,,,,,,,,,,,,,,,,
+site_long,106.19,(ºE),,,,,,Sun Compass Information,,,,,,,,,Calculated Fields,,,,,
+site_elevation,1214.018,,,,,,,,,,,,,,,,,,,,,
+sample_name,comment,strat_level,magnetic_core_strike,core_dip,bedding_strike,bedding_dip,correct_bedding_using_local_dec,shadow_angle,GMT_offset,year,month,days,hours,minutes,mass,runs,sun_core_strike,calculated_IGRF,IGRF_local_dec,calculated_mag_dec,core_strike,corrected_bedding_strike
+1,mag compass orientation (IGRF corrected),     0,120,77.0,0.0,0.0,no,nan,7.0,2024.0,3.0,19.0,15.0,54.0,1.0,nan,nan,[np.float64(358.6710548770688); np.float64(19.59784676441775); np.float64(43118.58791909444)],-1.3289451229312021,insufficient data,118.7,nan
+2,mag compass orientation (IGRF corrected),     0,127,91.0,0.0,0.0,no,nan,7.0,2024.0,3.0,19.0,16.0,4.0,1.0,nan,nan,[np.float64(358.67105376449797); np.float64(19.597849021260497); np.float64(43118.58888131364)],-1.3289462355020305,insufficient data,125.7,nan
+3,mag compass orientation (IGRF corrected),     0,92,53.0,0.0,0.0,no,nan,7.0,2024.0,3.0,19.0,16.0,14.0,1.0,nan,nan,[np.float64(358.6710526519272); np.float64(19.59785127810315); np.float64(43118.58984353288)],-1.328947348072802,insufficient data,90.7,nan
+4,mag compass orientation (IGRF corrected),     0,147,69.0,0.0,0.0,no,nan,7.0,2024.0,3.0,19.0,16.0,22.0,1.0,nan,nan,[np.float64(358.67105176187056); np.float64(19.597853083577213); np.float64(43118.59061330837)],-1.328948238129442,insufficient data,145.7,nan
+5,mag compass orientation (IGRF corrected),     0,131,47.0,0.0,0.0,no,nan,7.0,2024.0,3.0,19.0,16.0,27.0,1.0,nan,nan,[np.float64(358.6710512055852); np.float64(19.597854211998445); np.float64(43118.591094418065)],-1.3289487944148277,insufficient data,129.7,nan
+6,mag compass orientation (IGRF corrected),     0,159,94.0,0.0,0.0,no,nan,7.0,2024.0,3.0,19.0,16.0,39.0,1.0,nan,nan,[np.float64(358.6710498705002); np.float64(19.59785692020931); np.float64(43118.59224908141)],-1.3289501294997876,insufficient data,157.7,nan
+7,mag compass orientation (IGRF corrected),     0,137,0.0,0.0,0.0,no,nan,7.0,2024.0,3.0,19.0,16.0,37.0,1.0,nan,nan,[np.float64(358.6710500930144); np.float64(19.597856468840835); np.float64(43118.59205663753)],-1.3289499069855992,insufficient data,135.7,nan
+8,mag compass orientation (IGRF corrected),     0,142,76.0,0.0,0.0,no,nan,7.0,2024.0,3.0,19.0,16.0,45.0,1.0,nan,nan,[np.float64(358.67104920295776); np.float64(19.597858274314703); np.float64(43118.59282641314)],-1.3289507970422392,insufficient data,140.7,nan

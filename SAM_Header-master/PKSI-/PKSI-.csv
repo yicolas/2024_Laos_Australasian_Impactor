@@ -1,0 +1,8 @@
+﻿,site_info,,,,,,,,,,,,,,,,,,,,,
+site_id,PKSI-,,,,,,,,,,,,,,,,,,,,,
+site_name,insitu flow 553 ka - not block sample,,,,,,,,,,,,,,,,,,,,,
+site_lat,15.23282,(ºN),,,,,,,,,,,,,,,,,,,,
+site_long,106.19079,(ºE),,,,,,Sun Compass Information,,,,,,,,,Calculated Fields,,,,,
+site_elevation,1216.762,,,,,,,,,,,,,,,,,,,,,
+sample_name,comment,strat_level,magnetic_core_strike,core_dip,bedding_strike,bedding_dip,correct_bedding_using_local_dec,shadow_angle,GMT_offset,year,month,days,hours,minutes,mass,runs,sun_core_strike,calculated_IGRF,IGRF_local_dec,calculated_mag_dec,core_strike,corrected_bedding_strike
+1,sun compass orientation,553,310,25.0,0,0.0,yes,257,7,2024,3,15,13,51,1.0,nan,316.7,[np.float64(358.6633795473936); np.float64(19.75727562937614); np.float64(43143.4643751556)],-1.3366204526063825,6.699999999999989,316.7,-1.3
