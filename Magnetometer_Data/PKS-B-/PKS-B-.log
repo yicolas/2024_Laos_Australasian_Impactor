@@ -1,0 +1,18 @@
+2024-10-28 13:52:15: PKS-B-1D: : Homed to top but did not hit switch.
+2024-10-28 13:52:20: PKS-B-1D: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-10-28 13:52:38: PKS-B-1D: : Homed to top but did not hit switch.
+2024-10-28 13:52:52: PKS-B-1D: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-10-28 13:53:27: PKS-B-1D: : Homed to top but did not hit switch.
+2024-10-28 13:58:32: PKS-B-1D: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-10-28 14:58:05: PKS-B-1D: : Unacceptable slop on up/down motor moving from   1 to  40000 at speed  5000000.    Target position:  40000  Current position:  6    Execution has been paused. Please check machine.
+2024-10-28 14:58:22: PKS-B-1D: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-10-28 14:59:22: PKS-B-1D: : Unacceptable slop on up/down motor moving from   17287 to  51933 at speed  5000000.    Target position:  51933  Current position:  26139    Execution has been paused. Please check machine.
+2024-10-28 14:59:37: PKS-B-1D: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-10-28 15:00:24: PKS-B-1D: : Unacceptable slop on up/down motor moving from   3 to  17291 at speed  5000000.    Target position:  17291  Current position:  20000    Execution has been paused. Please check machine.
+2024-10-28 15:00:32: PKS-B-1D: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-10-28 15:01:10: PKS-B-1D: : Unacceptable slop on up/down motor moving from   4 to  40000 at speed  5000000.    Target position:  40000  Current position:  8644    Execution has been paused. Please check machine.
+2024-10-28 15:01:17: PKS-B-1D: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-10-28 15:02:20: PKS-B-1D: : Unacceptable slop on up/down motor moving from   1 to  51933 at speed  5000000.    Target position:  51933  Current position:  20000    Execution has been paused. Please check machine.
+2024-10-28 15:02:26: PKS-B-1D: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-10-28 15:03:58: PKS-B-1D: : Unacceptable slop on up/down motor moving from   39996 to  51933 at speed  5000000.    Target position:  51933  Current position:  20498    Execution has been paused. Please check machine.
+2024-10-28 15:04:15: PKS-B-1D: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  

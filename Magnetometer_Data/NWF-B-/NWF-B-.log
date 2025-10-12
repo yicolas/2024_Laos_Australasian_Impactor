@@ -1,0 +1,40 @@
+2024-07-08 17:11:03: NWF-B-1B: : Unacceptable slop moving changer  from hole  17 to hole  20.    Target position: -20202  Current position: -20294    Execution has been paused. Please check machine.
+2024-07-08 17:11:22: NWF-B-1B: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-07-11 13:26:34: NWF-B-1D: : Quartz tube at sample top but homing switch still set. Check for switch failure.
+2024-07-11 13:27:21: NWF-B-1D: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-07-11 13:28:51: NWF-B-1D: : Dropped off sample, but homing switch still set. Check for switch failure.
+2024-07-11 13:29:27: NWF-B-1D: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-07-11 13:31:51: NWF-B-1E: LN2  0 (Dn): Unacceptable slop on up/down motor moving from   15 to  17152 at speed  45000000.    Target position:  17152  Current position:  4188    Execution has been paused. Please check machine.
+2024-07-11 13:31:55: NWF-B-1E: LN2  0 (Dn): Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-10-10 14:02:43: NWF-B-2F: TT  210 (Up): Unacceptable slop on up/down motor moving from   51064 to  39881 at speed  5000000.    Target position:  39881  Current position:  48142    Execution has been paused. Please check machine.
+2024-10-10 14:11:57: NWF-B-2F: TT  210 (Up): Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-10-10 14:18:05: NWF-B-3B: TT  210 (Up): Unacceptable slop on up/down motor moving from   51013 to  39818 at speed  5000000.    Target position:  39818  Current position:  46103    Execution has been paused. Please check machine.
+2024-10-10 14:18:07: NWF-B-3B: TT  210 (Up): Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-10-10 19:23:44: NWF-B-2E: TT  210 (Dn): Unacceptable slop on up/down motor moving from   51098 to  39880 at speed  5000000.    Target position:  39880  Current position:  48333    Execution has been paused. Please check machine.
+2024-10-10 21:46:27: NWF-B-2E: TT  210 (Dn): Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-10-10 21:49:23: NWF-B-2F: TT  210 (Dn): Unacceptable slop on up/down motor moving from   51038 to  39803 at speed  5000000.    Target position:  39803  Current position:  47665    Execution has been paused. Please check machine.
+2024-10-10 21:49:40: NWF-B-2F: TT  210 (Dn): Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-10-10 23:40:23: NWF-B-3B: TT  210 (Dn): Unacceptable slop on up/down motor moving from   51037 to  39822 at speed  5000000.    Target position:  39822  Current position:  47659    Execution has been paused. Please check machine.
+2024-10-10 23:41:10: NWF-B-3B: TT  210 (Dn): Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-10-11 01:15:17: NWF-B-3C: TT  210 (Dn): Unacceptable slop on up/down motor moving from   50945 to  39764 at speed  5000000.    Target position:  39764  Current position:  45708    Execution has been paused. Please check machine.
+2024-10-11 01:15:52: NWF-B-3C: TT  210 (Dn): Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-10-24 20:10:11: NWF-B-2B: : Dropped off sample, but homing switch still set. Check for switch failure.
+2024-10-24 20:10:35: NWF-B-2B: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-10-25 14:39:49: NWF-B-2F: : Unacceptable slop on up/down motor moving from   17288 to  51917 at speed  5000000.    Target position:  51917  Current position:  8644    Execution has been paused. Please check machine.
+2024-10-25 14:40:00: NWF-B-2F: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-10-25 14:40:14: NWF-B-2F: : Unacceptable slop on up/down motor moving from   15 to  17291 at speed  5000000.    Target position:  17291  Current position:  4278    Execution has been paused. Please check machine.
+2024-10-25 14:40:19: NWF-B-2F: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-10-25 14:40:28: NWF-B-2F: : Unacceptable slop on up/down motor moving from   16 to  17291 at speed  5000000.    Target position:  17291  Current position:  2096    Execution has been paused. Please check machine.
+2024-10-25 14:40:30: NWF-B-2F: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-10-25 14:40:37: NWF-B-2F: : Unacceptable slop on up/down motor moving from   16 to  17291 at speed  5000000.    Target position:  17291  Current position:  1007    Execution has been paused. Please check machine.
+2024-10-25 14:40:39: NWF-B-2F: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-10-25 14:41:05: NWF-B-2F: : Unacceptable slop on up/down motor moving from   51915 to  17291 at speed  5000000.    Target position:  17291  Current position:  26411    Execution has been paused. Please check machine.
+2024-10-25 14:41:13: NWF-B-2F: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-10-25 14:42:07: NWF-B-2F: : Unacceptable slop on up/down motor moving from   17287 to  51917 at speed  5000000.    Target position:  51917  Current position:  8646    Execution has been paused. Please check machine.
+2024-10-25 14:42:26: NWF-B-2F: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-10-25 14:42:41: NWF-B-2F: : Unacceptable slop on up/down motor moving from   16 to  17291 at speed  5000000.    Target position:  17291  Current position:  4280    Execution has been paused. Please check machine.
+2024-10-25 14:42:53: NWF-B-2F: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-10-25 14:43:29: NWF-B-2F: : Unacceptable slop on up/down motor moving from   15 to  51917 at speed  5000000.    Target position:  51917  Current position:  8649    Execution has been paused. Please check machine.
+2024-10-25 14:43:39: NWF-B-2F: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-11-11 12:31:28: NWF-B-3H: TT  300 (Dn): Unacceptable slop on up/down motor moving from   51420 to  39924 at speed  5000000.    Target position:  39924  Current position:  48504    Execution has been paused. Please check machine.
+2024-11-11 12:31:53: NWF-B-3H: TT  300 (Dn): Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  

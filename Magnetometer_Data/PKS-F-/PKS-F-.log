@@ -1,0 +1,22 @@
+2024-07-17 19:12:12: PKS-F-0B: NRM  0 (Dn): Unacceptable slop on up/down motor moving from   51193 to  29944 at speed  5000000.    Target position:  29944  Current position:  40051    Execution has been paused. Please check machine.
+2024-07-17 19:44:09: PKS-F-0B: NRM  0 (Dn): Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-07-17 19:48:38: PKS-F-0B: : Unacceptable slop on up/down motor moving from   29998 to  52044 at speed  5000000.    Target position:  52044  Current position:  15004    Execution has been paused. Please check machine.
+2024-07-17 19:48:57: PKS-F-0B: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-07-17 19:50:52: PKS-F-0B: : Unacceptable slop on up/down motor moving from   14 to  17291 at speed  8000000.    Target position:  17291  Current position:  24    Execution has been paused. Please check machine.
+2024-07-17 19:51:11: PKS-F-0B: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-07-17 19:52:12: PKS-F-0B: : Unacceptable slop on up/down motor moving from   5 to  17291 at speed  8000000.    Target position:  17291  Current position:  20    Execution has been paused. Please check machine.
+2024-07-17 19:53:39: PKS-F-0B: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-07-17 20:18:02: PKS-F-0C: : Quartz tube at sample top but homing switch still set. Check for switch failure.
+2024-07-17 20:18:07: PKS-F-0C: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-07-17 20:20:35: PKS-F-0C: : Dropped off sample, but homing switch still set. Check for switch failure.
+2024-07-17 20:20:46: PKS-F-0C: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-07-18 14:37:55: PKS-F-6D: NRM  0 (Up): Unacceptable slop on up/down motor moving from   51308 to  29778 at speed  5000000.    Target position:  29778  Current position:  48369    Execution has been paused. Please check machine.
+2024-07-18 15:19:12: PKS-F-6D: NRM  0 (Up): Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-07-18 15:41:25: PKS-F-7E: NRM  0 (Up): Unacceptable slop on up/down motor moving from   51370 to  29821 at speed  5000000.    Target position:  29821  Current position:  48223    Execution has been paused. Please check machine.
+2024-07-18 16:02:24: PKS-F-7E: NRM  0 (Up): Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-07-19 13:08:47: PKS-F-0B: : Homed to top but did not hit switch.
+2024-07-19 15:06:43: PKS-F-0B: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-07-19 15:06:52: PKS-F-0B: : Unacceptable slop moving changer  from hole  100 to hole  96.    Target position: -97001  Current position: -100732    Execution has been paused. Please check machine.
+2024-07-19 15:07:37: PKS-F-0B: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-07-19 15:11:35: PKS-F-0B: : Dropped off sample, but homing switch still set. Check for switch failure.
+2024-07-19 15:11:40: PKS-F-0B: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
