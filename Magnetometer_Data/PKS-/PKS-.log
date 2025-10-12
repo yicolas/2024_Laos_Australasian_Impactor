@@ -1,2 +1,2 @@
-2024-10-14 15:46:04: PKS-K-2A: TT  300 (Up): Unacceptable slop on up/down motor moving from   51051 to  39877 at speed  5000000.    Target position:  39877  Current position:  45826    Execution has been paused. Please check machine.
-2024-10-14 16:14:36: PKS-K-2A: TT  300 (Up): Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2024-10-14 15:46:04: PKSK-2A: TT  300 (Up): Unacceptable slop on up/down motor moving from   51051 to  39877 at speed  5000000.    Target position:  39877  Current position:  45826    Execution has been paused. Please check machine.
+2024-10-14 16:14:36: PKSK-2A: TT  300 (Up): Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
