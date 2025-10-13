@@ -1,59 +1,92 @@
 tab	samples
-analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	citations	dip	geologic_classes	geologic_types	height	lithologies	method_codes	sample	site
-	251.1	0.0	0.0	90.0	This study	-59.0			518		SO-CMD-NORTH	NWFA-1	NWFA
-	183.2	0.0	0.0	90.0	This study	-47.5			518		SO-CMD-NORTH	NWFA-2	NWFA
-	242.5	0.0	0.0	90.0	This study	-41.5			518		SO-CMD-NORTH	NWFA-3	NWFA
-	163.3	0.0	0.0	90.0	This study	-60.0			518		SO-CMD-NORTH	NWFA-4	NWFA
-	100.3	0.0	0.0	90.0	This study	-110.0			518		SO-CMD-NORTH	NWFA-5	NWFA
-	1.7	0.0	0.0	88.7	This study	-28.0			553		SO-CMD-NORTH	PKSK-1	PKSK
-	150.7	0.0	0.0	88.7	This study	-18.0			553		SO-CMD-NORTH	PKSK-2	PKSK
-	181.2	0.0	0.0	88.7	This study	-13.0			601		SO-CMD-NORTH	PKSJ-1	PKSJ
-	-9.3	0.0	0.0	88.7	This study	-16.0			601		SO-CMD-NORTH	PKSJ-2	PKSJ
-	-41.3	0.0	0.0	88.7	This study	-11.5			601		SO-CMD-NORTH	PKSJ-3	PKSJ
-	-0.4	0.0	0.0	90.0	This study	-22.0			1397		SO-CMD-NORTH	WBEA-1	WBEA
-	78.6	0.0	0.0	90.0	This study	-8.0			1397		SO-CMD-NORTH	WBEA-2	WBEA
-	183.7	0.0	0.0	90.0	This study	-23.5			0		SO-CMD-NORTH	PKSG-1	PKSG
-	93.2	0.0	0.0	90.0	This study	-39.0			0		SO-CMD-NORTH	PKSG-2	PKSG
-	125.7	0.0	0.0	90.0	This study	-29.0			0		SO-CMD-NORTH	PKSG-3	PKSG
-	149.7	0.0	0.0	90.0	This study	-11.0			0		SO-CMD-NORTH	PKSG-4	PKSG
-	49.7	0.0	0.0	90.0	This study	-50.0			0		SO-CMD-NORTH	PKSG-5	PKSG
-	248.7	0.0	0.0	90.0	This study	-82.0			0		SO-CMD-NORTH	PKSG-6	PKSG
-	221.7	0.0	0.0	90.0	This study	-14.0			0		SO-CMD-NORTH	PKSG-7	PKSG
-	209.7	0.0	0.0	90.0	This study	-44.0			0		SO-CMD-NORTH	PKSG-8	PKSG
-	79.4	0.0	0.0	90.0	This study	-55.0			0		SO-CMD-NORTH	PKSF-1	PKSF
-	-8.0	0.0	0.0	90.0	This study	-64.0			0		SO-CMD-NORTH	PKSF-2	PKSF
-	-6.7	0.0	0.0	90.0	This study	-73.0			0		SO-CMD-NORTH	PKSF-3	PKSF
-	31.0	0.0	0.0	90.0	This study	-48.0			0		SO-CMD-NORTH	PKSF-4	PKSF
-	-8.7	0.0	0.0	90.0	This study	-36.0			0		SO-CMD-NORTH	PKSF-5	PKSF
-	-59.4	0.0	0.0	90.0	This study	-38.0			0		SO-CMD-NORTH	PKSF-6	PKSF
-	32.8	0.0	0.0	90.0	This study	-36.0			0		SO-CMD-NORTH	PKSF-7	PKSF
-	-41.0	0.0	0.0	90.0	This study	-28.0			0		SO-CMD-NORTH	PKSF-8	PKSF
-	-37.0	0.0	0.0	90.0	This study	-28.0			0		SO-CMD-NORTH	PKSF-9	PKSF
-	-7.6	0.0	0.0	90.0	This study	-32.0			0		SO-CMD-NORTH	PKSF-0	PKSF
-	17.8	0.0	0.0	90.0	This study	-53.0			0		SO-CMD-NORTH	PKSF-1.	PKSF
-	-48.6	0.0	0.0	88.7	This study	-19.5			1000		SO-CMD-NORTH	PKSB-1	PKSB
-	247.5	0.0	0.0	88.7	This study	-72.0			0		SO-CMD-NORTH	PKQA-1	PKQA
-	214.9	0.0	0.0	88.7	This study	-72.0			0		SO-CMD-NORTH	PKQA-2	PKQA
-	200.7	0.0	0.0	88.7	This study	-49.0			0		SO-CMD-NORTH	PKQA-3	PKQA
-	220.4	0.0	0.0	88.7	This study	-42.0			0		SO-CMD-NORTH	PKQA-4	PKQA
-	189.4	0.0	0.0	88.7	This study	-49.0			0		SO-CMD-NORTH	PKQA-5	PKQA
-	190.7	0.0	0.0	88.7	This study	-54.0			0		SO-CMD-NORTH	PKQA-6	PKQA
-	265.9	0.0	0.0	88.7	This study	-57.0			0		SO-CMD-NORTH	PKQA-7	PKQA
-	248.3	0.0	0.0	88.7	This study	-50.0			0		SO-CMD-NORTH	PKQA-8	PKQA
-	251.0	0.0	0.0	88.7	This study	-56.5			0		SO-CMD-NORTH	PKQA-9	PKQA
-	220.7	0.0	0.0	88.7	This study	-76.0			0		SO-CMD-NORTH	PKQA-0	PKQA
-	15.2	0.0	0.0	90.0	This study	-12.0			0		SO-CMD-NORTH	NWFB-1	NWFB
-	208.2	0.0	0.0	90.0	This study	-52.0			0		SO-CMD-NORTH	NWFB-2	NWFB
-	170.2	0.0	0.0	90.0	This study	-29.0			0		SO-CMD-NORTH	NWFB-3	NWFB
-	247.8	0.0	0.0	90.0	This study	-23.0			770		SO-CMD-NORTH	PKSH-1	PKSH
-	-62.7	0.0	0.0	90.0	This study	-5.0			770		SO-CMD-NORTH	PKSH-2	PKSH
-	154.8	0.0	0.0	90.0	This study	-24.5			770		SO-CMD-NORTH	PKSH-3	PKSH
-	196.6	0.0	0.0	88.6	This study	-51.0			0		SO-CMD-NORTH	NWFC-1	NWFC
-	176.7	0.0	0.0	88.6	This study	-16.0			0		SO-CMD-NORTH	NWFC-2	NWFC
-	-56.4	0.0	0.0	88.6	This study	-26.0			0		SO-CMD-NORTH	NWFC-3	NWFC
-	149.7	0.0	0.0	88.6	This study	-55.0			0		SO-CMD-NORTH	NWFC-4	NWFC
-	261.5	0.0	0.0	88.6	This study	-58.5			0		SO-CMD-NORTH	NWFC-5	NWFC
-	194.7	0.0	0.0	88.6	This study	-63.0			0		SO-CMD-NORTH	NWFC-6	NWFC
-	228.7	0.0	0.0	88.6	This study	-106.0			0		SO-CMD-NORTH	NWFC-7	NWFC
-	252.7	0.0	0.0	88.6	This study	-70.5			0		SO-CMD-NORTH	NWFC-8	NWFC
-	226.7	0.0	0.0	88.7	This study	-25.0			553		SO-CMD-NORTH	PKSI-1	PKSI
+sample	site	specimens	dir_alpha95	dir_comp_name	dir_dec	dir_inc	dir_k	dir_n_specimens	dir_n_specimens_lines	dir_n_specimens_planes	dir_r	dir_tilt_correction	height	geologic_classes	geologic_types	lithologies	analysts	software_packages	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes	result_quality	location	tilt_correction	vgp_dm	vgp_dp	vgp_lat	vgp_lon
+NWFA-1	NWFA	NWFA-1B:NWFA-1C:NWFA-1H	   63.7 	lt	   81.6 	  -37.1 	     5 	3 	3 	0 	2.5852 	0	518					pmagpy-4.3.7: demag_gui.v.3.0	251.1	0.0	0.0	90.0	-59.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFA	0	   74.7	   43.8	    2.1	  218.3
+NWFA-1	NWFA	NWFA-1B:NWFA-1C:NWFA-1D:NWFA-1E:NWFA-1F:NWFA-1G:NWFA-1H	    3.2 	mt	  108.0 	   16.8 	   355 	7 	7 	0 	6.9831 	0	518					pmagpy-4.3.7: demag_gui.v.3.0	251.1	0.0	0.0	90.0	-59.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFA	0	    3.3	    1.7	  -14.7	  182.6
+NWFA-2	NWFA	NWFA-2B:NWFA-2C:NWFA-2D	  180.0 	lt	  261.4 	   34.9 	     1 	3 	3 	0 	1.4740 	0	518					pmagpy-4.3.7: demag_gui.v.3.0	183.2	0.0	0.0	90.0	-47.5	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFA	0	  207.2	  119.3	   -2.7	   36.9
+NWFA-2	NWFA	NWFA-2B:NWFA-2C:NWFA-2D	    2.1 	mt	    8.4 	   28.3 	  3598 	3 	3 	0 	2.9994 	0	518					pmagpy-4.3.7: demag_gui.v.3.0	183.2	0.0	0.0	90.0	-47.5	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFA	0	    2.3	    1.3	   81.9	  198.7
+NWFA-3	NWFA	NWFA-3B		lt	103.5	39.5		1	1	0		0	518					pmagpy-4.3.7: demag_gui.v.3.0	242.5	0.0	0.0	90.0	-41.5	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFA		    0.0	    0.0	   -6.1	  170.8
+NWFA-3	NWFA	NWFA-3B		mt	60.8	32.6		1	1	0		0	518					pmagpy-4.3.7: demag_gui.v.3.0	242.5	0.0	0.0	90.0	-41.5	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFA		    0.0	    0.0	   32.0	  184.7
+NWFA-4	NWFA	NWFA-4B		lt	318.4	42.3		1	1	0		0	518					pmagpy-4.3.7: demag_gui.v.3.0	163.3	0.0	0.0	90.0	-60.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFA		    0.0	    0.0	   50.1	   35.8
+NWFA-4	NWFA	NWFA-4B:NWFA-4C	    0.7 	mt	    9.0 	   23.5 	113504 	2 	2 	0 	2.0000 	0	518					pmagpy-4.3.7: demag_gui.v.3.0	163.3	0.0	0.0	90.0	-60.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFA	0	    0.7	    0.4	   80.7	  215.9
+NWFA-5	NWFA	NWFA-5B:NWFA-5C	    2.8 	lt	  229.9 	   27.0 	  8211 	2 	2 	0 	1.9999 	0	518					pmagpy-4.3.7: demag_gui.v.3.0	100.3	0.0	0.0	90.0	-110.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFA	0	    3.0	    1.7	  -32.3	   44.8
+NWFA-5	NWFA	NWFA-5B:NWFA-5C	    4.5 	mt	  242.7 	   15.4 	  3103 	2 	2 	0 	1.9997 	0	518					pmagpy-4.3.7: demag_gui.v.3.0	100.3	0.0	0.0	90.0	-110.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFA	0	    4.6	    2.4	  -23.6	   32.2
+NWFB-1	NWFB	NWFB-1B:NWFB-1C:NWFB-1D:NWFB-1E:NWFB-1F:NWFB-1G:NWFB-1H	    3.2 	mt	  119.8 	  -41.9 	   363 	7 	7 	0 	6.9835 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	15.2	0.0	0.0	90.0	-12.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFB	0	    3.9	    2.4	  -33.1	  215.0
+NWFB-1	NWFB	NWFB-1B:NWFB-1C:NWFB-1D:NWFB-1E:NWFB-1F:NWFB-1G:NWFB-1H	   83.8 	lt	   39.7 	  -59.4 	     1 	7 	7 	0 	2.9432 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	15.2	0.0	0.0	90.0	-12.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFB	0	  125.7	   94.3	   23.1	  254.0
+NWFB-2	NWFB	NWFB-2F		Fit 2	15.6	-24.9		1	1	0		0	0					pmagpy-4.3.7: demag_gui.v.3.0	208.2	0.0	0.0	90.0	-52.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFB		    0.0	    0.0	   57.4	  256.9
+NWFB-2	NWFB	NWFB-2B:NWFB-2C:NWFB-2D:NWFB-2F	    1.3 	lt	   14.7 	  -25.9 	  4985 	4 	4 	0 	3.9994 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	208.2	0.0	0.0	90.0	-52.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFB	0	    1.4	    0.8	   57.3	  258.8
+NWFB-2	NWFB	NWFB-2B:NWFB-2C:NWFB-2D:NWFB-2E:NWFB-2G	    0.8 	mt	   15.7 	  -25.8 	  9827 	5 	5 	0 	4.9996 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	208.2	0.0	0.0	90.0	-52.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFB	0	    0.9	    0.5	   56.9	  257.2
+NWFB-3	NWFB	NWFB-3C:NWFB-3D	    8.1 	Fit 2	  122.3 	  -72.4 	   955 	2 	2 	0 	1.9990 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	170.2	0.0	0.0	90.0	-29.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFB	0	   14.4	   12.7	  -30.2	  254.4
+NWFB-3	NWFB	NWFB-3B:NWFB-3C:NWFB-3D:NWFB-3E:NWFB-3F:NWFB-3G:NWFB-3H	    5.5 	lt	  244.9 	   40.3 	   121 	7 	7 	0 	6.9502 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	170.2	0.0	0.0	90.0	-29.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFB	0	    6.6	    4.0	  -15.7	   46.0
+NWFB-3	NWFB	NWFB-3B:NWFB-3E:NWFB-3F:NWFB-3G:NWFB-3H	   68.2 	mt	  242.0 	   37.0 	     2 	5 	5 	0 	3.1978 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	170.2	0.0	0.0	90.0	-29.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFB	0	   79.9	   46.8	  -19.2	   45.0
+NWFC-1	NWFC	NWFC-1C		Fit 2	202.0	2.0		1	1	0		0	0					pmagpy-4.3.7: demag_gui.v.3.0	196.6	0.0	0.0	88.6	-51.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFC		    0.0	    0.0	  -62.8	   51.2
+NWFC-1	NWFC	NWFC-1B:NWFC-1C	  180.0 	lt	  234.5 	    4.3 	     2 	2 	2 	0 	1.4741 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	196.6	0.0	0.0	88.6	-51.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFC	0	  180.4	   90.4	  -33.3	   29.3
+NWFC-1	NWFC	NWFC-1B		mt	210.6	2.5		1	1	0		0	0					pmagpy-4.3.7: demag_gui.v.3.0	196.6	0.0	0.0	88.6	-51.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFC		    0.0	    0.0	  -55.5	   42.2
+NWFC-2	NWFC	NWFC-2E:NWFC-2F	   42.1 	mt	  311.6 	  -54.4 	    37 	2 	2 	0 	1.9732 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	176.7	0.0	0.0	88.6	-16.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFC	0	   59.3	   41.8	   21.9	  327.5
+NWFC-2	NWFC	NWFC-2B:NWFC-2C:NWFC-2D:NWFC-2E:NWFC-2F	   31.6 	lt	  335.3 	  -65.0 	     7 	5 	5 	0 	4.4137 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	176.7	0.0	0.0	88.6	-16.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFC	0	   51.0	   41.2	   23.8	  304.2
+NWFC-2	NWFC	NWFC-2B:NWFC-2C:NWFC-2D	    1.8 	Fit 2	  308.6 	  -65.4 	  4540 	3 	3 	0 	2.9996 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	176.7	0.0	0.0	88.6	-16.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFC	0	    2.9	    2.4	   12.1	  318.8
+NWFC-3	NWFC	NWFC-3B:NWFC-3C:NWFC-3D	   12.8 	lt	   40.4 	   29.5 	    94 	3 	3 	0 	2.9787 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	-56.4	0.0	0.0	88.6	-26.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFC	0	   14.2	    7.8	   51.1	  189.9
+NWFC-3	NWFC	NWFC-3C:NWFC-3D	   16.4 	mt	  124.3 	   39.0 	   233 	2 	2 	0 	1.9957 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	-56.4	0.0	0.0	88.6	-26.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFC	0	   19.6	   11.7	  -23.8	  162.9
+NWFC-4	NWFC	NWFC-4C		Fit 2	12.9	-11.8		1	1	0		0	0					pmagpy-4.3.7: demag_gui.v.3.0	149.7	0.0	0.0	88.6	-55.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFC		    0.0	    0.0	   65.1	  254.3
+NWFC-4	NWFC	NWFC-4B:NWFC-4D:NWFC-4E	   57.5 	lt	  358.9 	   -0.8 	     6 	3 	3 	0 	2.6473 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	149.7	0.0	0.0	88.6	-55.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFC	0	   57.5	   28.8	   74.2	  290.1
+NWFC-4	NWFC	NWFC-4B:NWFC-4C:NWFC-4D:NWFC-4E	   29.8 	mt	  347.2 	  -11.6 	    11 	4 	4 	0 	3.7144 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	149.7	0.0	0.0	88.6	-55.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFC	0	   30.3	   15.4	   65.2	  317.9
+NWFC-5	NWFC	NWFC-5B:NWFC-5C:NWFC-5D:NWFC-5E	   11.2 	lt	    5.3 	    3.2 	    68 	4 	4 	0 	3.9560 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	261.5	0.0	0.0	88.6	-58.5	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFC	0	   11.2	    5.6	   75.2	  264.8
+NWFC-5	NWFC	NWFC-5B:NWFC-5C:NWFC-5D:NWFC-5E	    4.5 	mt	    8.5 	   24.4 	   419 	4 	4 	0 	3.9928 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	261.5	0.0	0.0	88.6	-58.5	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFC	0	    4.8	    2.6	   81.4	  212.7
+NWFC-6	NWFC	NWFC-6B:NWFC-6C:NWFC-6D:NWFC-6E	   18.1 	lt	  218.4 	  -45.2 	    27 	4 	4 	0 	3.8874 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	194.7	0.0	0.0	88.6	-63.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFC	0	   22.9	   14.5	  -52.6	  352.0
+NWFC-6	NWFC	NWFC-6B:NWFC-6C:NWFC-6D:NWFC-6E	   14.0 	mt	  224.3 	  -29.2 	    44 	4 	4 	0 	3.9315 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	194.7	0.0	0.0	88.6	-63.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFC	0	   15.4	    8.5	  -47.4	    9.6
+NWFC-7	NWFC	NWFC-7B:NWFC-7C:NWFC-7D:NWFC-7E:NWFC-7F	    2.5 	mt	  216.2 	   25.1 	   922 	5 	5 	0 	4.9957 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	228.7	0.0	0.0	88.6	-106.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFC	0	    2.7	    1.4	  -44.2	   52.8
+NWFC-7	NWFC	NWFC-7B:NWFC-7C:NWFC-7D:NWFC-7E:NWFC-7F	    4.4 	lt	  103.6 	   57.8 	   297 	5 	5 	0 	4.9865 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	228.7	0.0	0.0	88.6	-106.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFC	0	    6.5	    4.8	   -0.7	  155.7
+NWFC-8	NWFC	NWFC-8G		Fit 2	55.8	80.3		1	1	0		0	0					pmagpy-4.3.7: demag_gui.v.3.0	252.7	0.0	0.0	88.6	-70.5	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFC		    0.0	    0.0	   25.3	  123.3
+NWFC-8	NWFC	NWFC-8C:NWFC-8D:NWFC-8E:NWFC-8F:NWFC-8G	    3.3 	lt	   90.7 	   78.2 	   550 	5 	5 	0 	4.9927 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	252.7	0.0	0.0	88.6	-70.5	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFC	0	    6.2	    5.9	   13.9	  129.5
+NWFC-8	NWFC	NWFC-8B:NWFC-8C:NWFC-8D:NWFC-8E:NWFC-8F	    2.8 	mt	    9.9 	   73.7 	   763 	5 	5 	0 	4.9948 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	252.7	0.0	0.0	88.6	-70.5	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	NWFC	0	    5.0	    4.5	   45.1	  113.2
+PKQA-0	PKQA	PKQA-0A:PKQA-0B:PKQA-0D:PKQA-0E	    5.7 	lt	  177.1 	   43.1 	   260 	4 	4 	0 	3.9884 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	220.7	0.0	0.0	88.7	-76.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKQA	0	    7.1	    4.4	  -49.7	  109.9
+PKQA-0	PKQA	PKQA-0A:PKQA-0B:PKQA-0C:PKQA-0D:PKQA-0E:PKQA-0F	    4.2 	mt	  185.4 	   50.1 	   251 	6 	6 	0 	5.9801 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	220.7	0.0	0.0	88.7	-76.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKQA	0	    5.6	    3.8	  -43.7	   99.4
+PKQA-1	PKQA	PKQA-1B:PKQA-1C:PKQA-1D	    6.5 	lt	  308.6 	   60.9 	   363 	3 	3 	0 	2.9945 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	247.5	0.0	0.0	88.7	-72.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKQA	0	    9.9	    7.6	   38.5	   57.8
+PKQA-1	PKQA	PKQA-1B:PKQA-1C:PKQA-1D	    7.5 	mt	  287.8 	   62.5 	   271 	3 	3 	0 	2.9926 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	247.5	0.0	0.0	88.7	-72.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKQA	0	   11.7	    9.1	   23.2	   57.5
+PKQA-2	PKQA	PKQA-2D:PKQA-2E:PKQA-2G:PKQA-2I:PKQA-2K	   58.0 	lt	  317.0 	   78.9 	     3 	5 	5 	0 	3.5185 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	214.9	0.0	0.0	88.7	-72.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKQA	0	  110.0	  104.4	   30.0	   89.1
+PKQA-2	PKQA	PKQA-2B:PKQA-2C:PKQA-2D:PKQA-2E:PKQA-2F:PKQA-2G:PKQA-2H:PKQA-2I:PKQA-2J:PKQA-2K	    4.1 	mt	  297.1 	   68.1 	   137 	10 	10 	0 	9.9343 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	214.9	0.0	0.0	88.7	-72.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKQA	0	    6.9	    5.8	   28.6	   66.4
+PKQA-3	PKQA	PKQA-3B:PKQA-3C:PKQA-3D:PKQA-3E:PKQA-3F	   16.9 	mt	  354.8 	   78.4 	    22 	5 	5 	0 	4.8145 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	200.7	0.0	0.0	88.7	-49.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKQA	0	   31.9	   30.1	   37.3	  103.3
+PKQA-3	PKQA	PKQA-3C:PKQA-3E:PKQA-3F	    9.9 	lt	   24.2 	   73.7 	   156 	3 	3 	0 	2.9871 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	200.7	0.0	0.0	88.7	-49.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKQA	0	   17.8	   16.0	   42.0	  122.0
+PKQA-4	PKQA	PKQA-4B:PKQA-4C:PKQA-4D:PKQA-4E:PKQA-4F:PKQA-4G	   11.4 	lt	  349.9 	   78.8 	    36 	6 	6 	0 	5.8596 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	220.4	0.0	0.0	88.7	-42.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKQA	0	   21.6	   20.5	   36.3	  101.2
+PKQA-4	PKQA	PKQA-4B:PKQA-4C:PKQA-4D:PKQA-4E	  180.0 	mt	  221.1 	   61.9 	     1 	4 	4 	0 	0.8538 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	220.4	0.0	0.0	88.7	-42.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKQA	0	  278.9	  216.1	  -20.7	   74.9
+PKQA-5	PKQA	PKQA-5B:PKQA-5C:PKQA-5D:PKQA-5E:PKQA-5F:PKQA-5G:PKQA-5H:PKQA-5I:PKQA-5J:PKQA-5K:PKQA-5L:PKQA-5M:PKQA-5N:PKQA-5O:PKQA-5P	   20.5 	lt	  121.8 	   28.1 	     4 	15 	15 	0 	11.8548 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	189.4	0.0	0.0	88.7	-49.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKQA	0	   22.5	   12.3	  -25.1	  170.9
+PKQA-5	PKQA	PKQA-5B:PKQA-5C:PKQA-5D:PKQA-5E:PKQA-5F:PKQA-5G:PKQA-5H:PKQA-5I:PKQA-5J:PKQA-5L:PKQA-5M:PKQA-5N:PKQA-5O:PKQA-5P	   71.1 	mt	  124.1 	  -31.3 	     1 	14 	14 	0 	3.8767 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	189.4	0.0	0.0	88.7	-49.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKQA	0	   79.6	   44.6	  -36.4	  205.9
+PKQA-6	PKQA	PKQA-6B:PKQA-6C:PKQA-6D:PKQA-6E:PKQA-6F:PKQA-6G:PKQA-6H:PKQA-6I:PKQA-6J:PKQA-6K	    2.9 	lt	  118.3 	    9.7 	   277 	10 	10 	0 	9.9675 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	190.7	0.0	0.0	88.7	-54.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKQA	0	    2.9	    1.5	  -25.7	  182.6
+PKQA-6	PKQA	PKQA-6B:PKQA-6C:PKQA-6D:PKQA-6E:PKQA-6F:PKQA-6G:PKQA-6H:PKQA-6I:PKQA-6J:PKQA-6K	    4.4 	mt	  142.0 	  -10.0 	   122 	10 	10 	0 	9.9265 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	190.7	0.0	0.0	88.7	-54.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKQA	0	    4.5	    2.3	  -51.3	  184.8
+PKQA-7	PKQA	PKQA-7B:PKQA-7C:PKQA-7D:PKQA-7E:PKQA-7F:PKQA-7G:PKQA-7H:PKQA-7I:PKQA-7J:PKQA-7K	    7.4 	lt	  123.3 	   22.9 	    44 	10 	10 	0 	9.7946 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	265.9	0.0	0.0	88.7	-57.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKQA	0	    7.9	    4.2	  -27.7	  173.3
+PKQA-7	PKQA	PKQA-7B:PKQA-7C:PKQA-7D:PKQA-7E:PKQA-7F:PKQA-7G:PKQA-7H:PKQA-7I:PKQA-7J:PKQA-7K	   13.6 	mt	  121.5 	   36.2 	    14 	10 	10 	0 	9.3368 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	265.9	0.0	0.0	88.7	-57.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKQA	0	   15.8	    9.2	  -22.6	  165.9
+PKQA-8	PKQA	PKQA-8B:PKQA-8C:PKQA-8D:PKQA-8E:PKQA-8F:PKQA-8G:PKQA-8H:PKQA-8I:PKQA-8J:PKQA-8K:PKQA-8L	    5.4 	lt	  132.0 	   43.8 	    72 	11 	11 	0 	10.8616 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	248.3	0.0	0.0	88.7	-50.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKQA	0	    6.7	    4.2	  -28.0	  155.2
+PKQA-8	PKQA	PKQA-8B:PKQA-8C:PKQA-8D:PKQA-8E:PKQA-8F:PKQA-8G:PKQA-8I:PKQA-8J:PKQA-8K:PKQA-8L	   19.8 	mt	  153.5 	   52.5 	     7 	10 	10 	0 	8.6949 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	248.3	0.0	0.0	88.7	-50.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKQA	0	   27.3	   18.8	  -35.6	  133.2
+PKQA-9	PKQA	PKQA-9A:PKQA-9B:PKQA-9C:PKQA-9D:PKQA-9E:PKQA-9F:PKQA-9G	   27.9 	mt	  196.6 	   39.6 	     6 	7 	7 	0 	5.9375 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	251.0	0.0	0.0	88.7	-56.5	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKQA	0	   33.5	   20.1	  -49.1	   82.0
+PKQA-9	PKQA	PKQA-9A:PKQA-9B:PKQA-9C:PKQA-9D:PKQA-9E:PKQA-9F:PKQA-9G	    9.5 	lt	  161.4 	   41.7 	    42 	7 	7 	0 	6.8555 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	251.0	0.0	0.0	88.7	-56.5	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKQA	0	   11.6	    7.1	  -46.9	  131.0
+PKSB-1	PKSB	PKSB-1B:PKSB-1C:PKSB-1D:PKSB-1E:PKSB-1F:PKSB-1G:PKSB-1H	    3.5 	lt	  110.9 	   -4.4 	   302 	7 	7 	0 	6.9801 	0	1000					pmagpy-4.3.7: demag_gui.v.3.0	-48.6	0.0	0.0	88.7	-19.5	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKSB	0	    3.5	    1.8	  -20.7	  192.7
+PKSF-0	PKSF												0						-7.6	0.0	0.0	90.0	-32.0									
+PKSF-1	PKSF												0						79.4	0.0	0.0	90.0	-55.0									
+PKSF-1.	PKSF												0						17.8	0.0	0.0	90.0	-53.0									
+PKSF-2	PKSF												0						-8.0	0.0	0.0	90.0	-64.0									
+PKSF-3	PKSF												0						-6.7	0.0	0.0	90.0	-73.0									
+PKSF-4	PKSF												0						31.0	0.0	0.0	90.0	-48.0									
+PKSF-5	PKSF												0						-8.7	0.0	0.0	90.0	-36.0									
+PKSF-6	PKSF												0						-59.4	0.0	0.0	90.0	-38.0									
+PKSF-7	PKSF												0						32.8	0.0	0.0	90.0	-36.0									
+PKSF-8	PKSF												0						-41.0	0.0	0.0	90.0	-28.0									
+PKSF-9	PKSF												0						-37.0	0.0	0.0	90.0	-28.0									
+PKSG-1	PKSG	PKSG-1B:PKSG-1C:PKSG-1D:PKSG-1E:PKSG-1F:PKSG-1G	    1.9 	lt	  185.6 	   28.8 	  1198 	6 	6 	0 	5.9958 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	183.7	0.0	0.0	90.0	-23.5	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKSG	0	    2.1	    1.2	  -58.9	   95.7
+PKSG-2	PKSG	PKSG-2A:PKSG-2B:PKSG-2C:PKSG-2D:PKSG-2E:PKSG-2F:PKSG-2G	   10.7 	lt	  167.7 	  -19.2 	    33 	7 	7 	0 	6.8161 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	93.2	0.0	0.0	90.0	-39.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKSG	0	   11.2	    5.8	  -76.9	  173.7
+PKSG-3	PKSG	PKSG-3B:PKSG-3C:PKSG-3D:PKSG-3E	    6.7 	lt	   48.7 	  -20.0 	   189 	4 	4 	0 	3.9841 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	125.7	0.0	0.0	90.0	-29.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKSG	0	    7.0	    3.7	   35.4	  221.1
+PKSG-4	PKSG	PKSG-4B:PKSG-4C:PKSG-4D:PKSG-4E:PKSG-4F	    9.7 	lt	   28.8 	   -3.7 	    64 	5 	5 	0 	4.9371 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	149.7	0.0	0.0	90.0	-11.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKSG	0	    9.7	    4.9	   56.8	  224.6
+PKSG-5	PKSG	PKSG-5B:PKSG-5C:PKSG-5D	   31.6 	lt	  141.9 	  -20.5 	    16 	3 	3 	0 	2.8770 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	49.7	0.0	0.0	90.0	-50.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKSG	0	   33.2	   17.4	  -52.6	  193.8
+PKSG-6	PKSG	PKSG-6A:PKSG-6B:PKSG-6C	   14.1 	lt	  145.0 	    7.0 	    78 	3 	3 	0 	2.9743 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	248.7	0.0	0.0	90.0	-82.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKSG	0	   14.2	    7.1	  -50.6	  170.7
+PKSG-7	PKSG	PKSG-7B:PKSG-7C	    3.5 	lt	  177.5 	   36.6 	  5016 	2 	2 	0 	1.9998 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	221.7	0.0	0.0	90.0	-14.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKSG	0	    4.1	    2.4	  -54.3	  110.2
+PKSG-8	PKSG	PKSG-8B:PKSG-8C	   34.8 	lt	  111.3 	   26.3 	    53 	2 	2 	0 	1.9813 	0	0					pmagpy-4.3.7: demag_gui.v.3.0	209.7	0.0	0.0	90.0	-44.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKSG	0	   37.7	   20.4	  -16.1	  176.5
+PKSH-1	PKSH	PKSH-1B:PKSH-1C:PKSH-1D:PKSH-1E:PKSH-1F:PKSH-1G:PKSH-1H:PKSH-1I:PKSH-1J:PKSH-1K:PKSH-1L	   24.6 	lt	  149.8 	  -50.3 	     4 	11 	11 	0 	8.7330 	0	770					pmagpy-4.3.7: demag_gui.v.3.0	247.8	0.0	0.0	90.0	-23.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKSH	0	   33.0	   22.1	  -58.2	  231.4
+PKSH-2	PKSH	PKSH-2B:PKSH-2C:PKSH-2F:PKSH-2G:PKSH-2H:PKSH-2I:PKSH-2J	   15.5 	lt	  194.0 	   20.2 	    16 	7 	7 	0 	6.6256 	0	770					pmagpy-4.3.7: demag_gui.v.3.0	-62.7	0.0	0.0	90.0	-5.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKSH	0	   16.2	    8.5	  -60.9	   76.9
+PKSH-3	PKSH	PKSH-3B:PKSH-3C:PKSH-3D:PKSH-3E:PKSH-3F	   68.1 	lt	  274.8 	   22.9 	     2 	5 	5 	0 	3.1990 	0	770					pmagpy-4.3.7: demag_gui.v.3.0	154.8	0.0	0.0	90.0	-24.5	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKSH	0	   72.3	   38.4	    7.7	   26.5
+PKSI-1	PKSI	PKSI-1B:PKSI-1C:PKSI-1D:PKSI-1E:PKSI-1F	    3.1 	lt	   94.2 	  -47.3 	   600 	5 	5 	0 	4.9933 	0	553					pmagpy-4.3.7: demag_gui.v.3.0	226.7	0.0	0.0	88.7	-25.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKSI	0	    4.0	    2.6	  -10.8	  223.0
+PKSJ-1	PKSJ	PKSJ-1A:PKSJ-1B:PKSJ-1C:PKSJ-1D	    5.9 	lt	  296.2 	  -27.1 	   242 	4 	4 	0 	3.9876 	0	601					pmagpy-4.3.7: demag_gui.v.3.0	181.2	0.0	0.0	88.7	-13.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKSJ	0	    6.4	    3.5	   20.4	  354.3
+PKSJ-2	PKSJ	PKSJ-2B:PKSJ-2C:PKSJ-2D:PKSJ-2E	    5.6 	lt	  215.3 	  -38.8 	   271 	4 	4 	0 	3.9889 	0	601					pmagpy-4.3.7: demag_gui.v.3.0	-9.3	0.0	0.0	88.7	-16.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKSJ	0	    6.7	    4.0	  -55.9	  359.5
+PKSJ-3	PKSJ	PKSJ-3B:PKSJ-3C:PKSJ-3D:PKSJ-3E	    9.5 	lt	  198.9 	  -10.9 	    95 	4 	4 	0 	3.9684 	0	601					pmagpy-4.3.7: demag_gui.v.3.0	-41.3	0.0	0.0	88.7	-11.5	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKSJ	0	    9.6	    4.9	  -69.1	   41.9
+PKSK-1	PKSK	PKSK-1A:PKSK-1B:PKSK-1C	    5.5 	lt	  164.8 	  -23.0 	   507 	3 	3 	0 	2.9961 	0	553					pmagpy-4.3.7: demag_gui.v.3.0	1.7	0.0	0.0	88.7	-28.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKSK	0	    5.8	    3.1	  -74.9	  185.9
+PKSK-2	PKSK	PKSK-2A:PKSK-2B:PKSK-2C:PKSK-2D:PKSK-2E:PKSK-2F	    3.9 	lt	  252.8 	   11.7 	   297 	6 	6 	0 	5.9832 	0	553					pmagpy-4.3.7: demag_gui.v.3.0	150.7	0.0	0.0	88.7	-18.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	PKSK	0	    4.0	    2.0	  -14.9	   26.8
+WBEA-1	WBEA	WBEA-1B:WBEA-1C:WBEA-1D:WBEA-1E:WBEA-1F:WBEA-1G:WBEA-1H:WBEA-1I	   24.4 	lt	  141.7 	  -45.6 	     6 	8 	8 	0 	6.8534 	0	1397					pmagpy-4.3.7: demag_gui.v.3.0	-0.4	0.0	0.0	90.0	-22.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	WBEA	0	   31.1	   19.8	  -52.6	  221.0
+WBEA-2	WBEA	WBEA-2B:WBEA-2C	   18.4 	mt	  168.2 	  -30.5 	   187 	2 	2 	0 	1.9947 	0	1397					pmagpy-4.3.7: demag_gui.v.3.0	78.6	0.0	0.0	90.0	-8.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	WBEA	0	   20.5	   11.4	  -78.6	  203.5
+WBEA-2	WBEA	WBEA-2B:WBEA-2C:WBEA-2D	   13.6 	lt	  152.1 	  -33.0 	    84 	3 	3 	0 	2.9761 	0	1397					pmagpy-4.3.7: demag_gui.v.3.0	78.6	0.0	0.0	90.0	-8.0	This study	SO-CMD-NORTH:LP-DIR-T:DE-BFL:DA-DIR-GEO	g	WBEA	0	   15.4	    8.7	  -63.2	  206.0
