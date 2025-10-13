@@ -1,0 +1,7 @@
+tab	samples
+sample	site	height	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes
+NWFA-1	NWFA	518				NA	  251.1	    0.0	    0.0	   90.0	  -59.0	This study	SO-CMD-NORTH
+NWFA-2	NWFA	518				NA	  183.2	    0.0	    0.0	   90.0	  -47.5	This study	SO-CMD-NORTH
+NWFA-3	NWFA	518				NA	  242.5	    0.0	    0.0	   90.0	  -41.5	This study	SO-CMD-NORTH
+NWFA-4	NWFA	518				NA	  163.3	    0.0	    0.0	   90.0	  -60.0	This study	SO-CMD-NORTH
+NWFA-5	NWFA	518				NA	  100.3	    0.0	    0.0	   90.0	 -110.0	This study	SO-CMD-NORTH

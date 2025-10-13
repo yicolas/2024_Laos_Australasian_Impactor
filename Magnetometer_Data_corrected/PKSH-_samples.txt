@@ -1,0 +1,5 @@
+tab	samples
+sample	site	height	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes
+PKSH-1	PKSH	770				NA	  247.8	    0.0	    0.0	   90.0	  -23.0	This study	SO-CMD-NORTH
+PKSH-2	PKSH	770				NA	  -62.7	    0.0	    0.0	   90.0	   -5.0	This study	SO-CMD-NORTH
+PKSH-3	PKSH	770				NA	  154.8	    0.0	    0.0	   90.0	  -24.5	This study	SO-CMD-NORTH

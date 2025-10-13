@@ -1,0 +1,4 @@
+tab	samples
+sample	site	height	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes
+WBEA-1	WBEA	1397				NA	   -0.4	    0.0	    0.0	   90.0	  -22.0	This study	SO-CMD-NORTH
+WBEA-2	WBEA	1397				NA	   78.6	    0.0	    0.0	   90.0	   -8.0	This study	SO-CMD-NORTH

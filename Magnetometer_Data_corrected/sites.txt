@@ -1,0 +1,14 @@
+tab	sites
+analysts	citations	lat	location	lon	site
+	This study	15.2	PKSB	106.2	PKSB
+	This study	15.1	PKQA	105.8	PKQA
+	This study	15.2	PKSJ	106.3	PKSJ
+	This study	15.6	NWFB	106.0	NWFB
+	This study	15.2	PKSG	106.2	PKSG
+	This study	15.2	PKSH	106.2	PKSH
+	This study	15.3	WBEA	106.3	WBEA
+	This study	15.2	PKSK	106.3	PKSK
+	This study	15.1	PKSF	106.2	PKSF
+	This study	15.4	NWFC	106.1	NWFC
+	This study	15.2	PKSI	106.2	PKSI
+	This study	15.6	NWFA	106.1	NWFA

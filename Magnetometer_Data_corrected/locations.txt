@@ -1,0 +1,14 @@
+tab	locations
+analysts	citations	lat_n	lat_s	location	lon_e	lon_w
+	This study	15.2	15.2	PKSH	106.2	106.2
+	This study	15.2	15.2	PKSG	106.2	106.2
+	This study	15.1	15.1	PKSF	106.2	106.2
+	This study	15.2	15.2	PKSI	106.2	106.2
+	This study	15.3	15.3	WBEA	106.3	106.3
+	This study	15.2	15.2	PKSK	106.3	106.3
+	This study	15.2	15.2	PKSB	106.2	106.2
+	This study	15.2	15.2	PKSJ	106.3	106.3
+	This study	15.4	15.4	NWFC	106.1	106.1
+	This study	15.6	15.6	NWFB	106.0	106.0
+	This study	15.1	15.1	PKQA	105.8	105.8
+	This study	15.6	15.6	NWFA	106.1	106.1

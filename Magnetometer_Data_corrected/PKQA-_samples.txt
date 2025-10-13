@@ -1,0 +1,12 @@
+tab	samples
+sample	site	height	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes
+PKQA-1	PKQA	0				NA	  247.5	    0.0	    0.0	   88.7	  -72.0	This study	SO-CMD-NORTH
+PKQA-2	PKQA	0				NA	  214.9	    0.0	    0.0	   88.7	  -72.0	This study	SO-CMD-NORTH
+PKQA-3	PKQA	0				NA	  200.7	    0.0	    0.0	   88.7	  -49.0	This study	SO-CMD-NORTH
+PKQA-4	PKQA	0				NA	  220.4	    0.0	    0.0	   88.7	  -42.0	This study	SO-CMD-NORTH
+PKQA-5	PKQA	0				NA	  189.4	    0.0	    0.0	   88.7	  -49.0	This study	SO-CMD-NORTH
+PKQA-6	PKQA	0				NA	  190.7	    0.0	    0.0	   88.7	  -54.0	This study	SO-CMD-NORTH
+PKQA-7	PKQA	0				NA	  265.9	    0.0	    0.0	   88.7	  -57.0	This study	SO-CMD-NORTH
+PKQA-8	PKQA	0				NA	  248.3	    0.0	    0.0	   88.7	  -50.0	This study	SO-CMD-NORTH
+PKQA-9	PKQA	0				NA	  251.0	    0.0	    0.0	   88.7	  -56.5	This study	SO-CMD-NORTH
+PKQA-0	PKQA	0				NA	  220.7	    0.0	    0.0	   88.7	  -76.0	This study	SO-CMD-NORTH

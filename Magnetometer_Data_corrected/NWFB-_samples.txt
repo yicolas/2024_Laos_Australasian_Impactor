@@ -1,0 +1,5 @@
+tab	samples
+sample	site	height	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes
+NWFB-1	NWFB	0				NA	   15.2	    0.0	    0.0	   90.0	  -12.0	This study	SO-CMD-NORTH
+NWFB-2	NWFB	0				NA	  208.2	    0.0	    0.0	   90.0	  -52.0	This study	SO-CMD-NORTH
+NWFB-3	NWFB	0				NA	  170.2	    0.0	    0.0	   90.0	  -29.0	This study	SO-CMD-NORTH
