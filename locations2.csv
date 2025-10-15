@@ -1,0 +1,14 @@
+Latitude,Longitude,Age (ka),sigma,Block?,Site,Depth,Field Site Name,Kerry Sieh Site Name,notes
+15.6,106.1,518,6,block,NWF-A-,2,NWF24-A,,age could also be 740 ka - check map
+15.62,105.99,934,,block,NWF-B-,7,NWF24-B,,
+15.4,106.1,ejecta,,block,NWF-C-,,NWF24-C,,900-1.5 Ma boulders in diamicton
+15.1,105.9,ejecta,,core,PKQ-A-,,PKQ24-A,,
+15.2,106.2,906,12,block,PKS-B-,6,PKS-BA,,
+15.1,106.2,ejecta,,core,PKS-F-,,PKS24-F,BPO15-A,
+15.2,106.2,ejecta,,block,PKS-G-,,PKS24-HF,,
+15.2,106.2,770,9.3,core,PKS-H-,5,"PKS-HA, HB",,
+15.2,106.2,553,20,core,PKS-I-,3,PKS24-I,PKS15-I,
+15.24,106.26,601,44,core,PKS-J-,4,PKS24-J,,
+15.24,106.26,407,18,core,PKS-K-,1,PKS24-K,,
+15.27,106.35,1397,13,block,WBE-A-,8,WBE24-A,,
+15.28083333,106.1633333,,,,,,,,
