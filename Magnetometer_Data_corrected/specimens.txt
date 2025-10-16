@@ -1,1219 +1,457 @@
 tab	specimens
-specimen	experiments	sample	dir_alpha95	dir_comp	dir_dec	dir_inc	dir_n_comps	dir_n_measurements	dir_tilt_correction	dir_dang	dir_mad_free	meas_step_max	meas_step_min	meas_step_unit	analysts	instrument_codes	software_packages	int_corr	citations	method_codes	result_quality	volume	weight	location	site
-NWFA-1A		NWFA-1																	This study	LP-NOMAG				NWFA	NWFA
-NWFA-1B	NWFA-1B_LP-DIR-T	NWFA-1		lt	64.5	-32.9	2	6	0	58.5	12.2	483	343	K		shoemake 2025-04-25 18:04:28	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFA	NWFA
-NWFA-1B	NWFA-1B_LP-DIR-T	NWFA-1		mt	104.8	18.6	2	3	0	0.2	0.1	783	723	K		shoemake 2025-04-25 18:04:28	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFA	NWFA
-NWFA-1B	NWFA-1B_LP-DIR-T	NWFA-1		mt	217.8	-30.8	2	3	-1	0.2	0.1	783	723	K		shoemake 2025-04-25 18:04:28	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFA	NWFA
-NWFA-1B	NWFA-1B_LP-DIR-T	NWFA-1		lt	69.8	-84.1	2	6	-1	58.5	12.2	483	343	K		shoemake 2025-04-25 18:04:28	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFA	NWFA
-NWFA-1B		NWFA-1																	This study	LP-NOMAG				NWFA	NWFA
-NWFA-1C	NWFA-1C_LP-DIR-T	NWFA-1		mt	111.2	14.1	2	2	0	0.1	0.0	753	693	K		shoemake 2025-04-25 18:06:54	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFA	NWFA
-NWFA-1C	NWFA-1C_LP-DIR-T	NWFA-1		lt	53.6	-25.9	2	5	0	62.3	13.7	433	273	K		shoemake 2025-04-25 18:06:54	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFA	NWFA
-NWFA-1C	NWFA-1C_LP-DIR-T	NWFA-1		mt	226.6	-30.7	2	2	-1	0.1	0.0	753	693	K		shoemake 2025-04-25 18:06:54	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFA	NWFA
-NWFA-1C	NWFA-1C_LP-DIR-T	NWFA-1		lt	104.1	-73.8	2	5	-1	62.3	13.7	433	273	K		shoemake 2025-04-25 18:06:54	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFA	NWFA
-NWFA-1C		NWFA-1																	This study	LP-NOMAG				NWFA	NWFA
-NWFA-1D	NWFA-1D_LP-DIR-T	NWFA-1		mt	227.2	-30.7	1	3	-1	0.2	0.1	783	723	K		shoemake 2025-05-01 16:33:46	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFA	NWFA
-NWFA-1D		NWFA-1																	This study	LP-NOMAG				NWFA	NWFA
-NWFA-1D	NWFA-1D_LP-DIR-T	NWFA-1		mt	111.6	13.8	1	3	0	0.2	0.1	783	723	K		shoemake 2025-05-01 16:33:46	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFA	NWFA
-NWFA-1E	NWFA-1E_LP-DIR-T	NWFA-1		mt	219.9	-30.1	1	2	-1	0.1	0.0	753	723	K		shoemake 2025-05-01 16:36:05	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFA	NWFA
-NWFA-1E	NWFA-1E_LP-DIR-T	NWFA-1		mt	106.8	18.0	1	2	0	0.1	nan	753	723	K		shoemake 2025-05-01 16:36:05	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFA	NWFA
-NWFA-1E		NWFA-1																	This study	LP-NOMAG				NWFA	NWFA
-NWFA-1F	NWFA-1F_LP-DIR-T	NWFA-1		mt	227.4	-30.5	1	3	-1	0.5	0.2	783	723	K		shoemake 2025-04-25 18:14:11	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFA	NWFA
-NWFA-1F	NWFA-1F_LP-DIR-T	NWFA-1		mt	111.9	13.8	1	3	0	0.5	0.2	783	723	K		shoemake 2025-04-25 18:14:11	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFA	NWFA
-NWFA-1F		NWFA-1																	This study	LP-NOMAG				NWFA	NWFA
-NWFA-1G		NWFA-1																	This study	LP-NOMAG				NWFA	NWFA
-NWFA-1G	NWFA-1G_LP-DIR-T	NWFA-1		mt	216.9	-29.9	1	4	-1	0.1	1.1	783	723	K		shoemake 2025-04-25 18:16:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFA	NWFA
-NWFA-1G	NWFA-1G_LP-DIR-T	NWFA-1		mt	104.7	19.8	1	4	0	0.1	1.1	783	723	K		shoemake 2025-04-25 18:16:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFA	NWFA
-NWFA-1H	NWFA-1H_LP-DIR-T	NWFA-1		mt	217.2	-30.1	2	4	-1	0.1	0.8	783	723	K		shoemake 2025-05-01 16:38:30	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFA	NWFA
-NWFA-1H		NWFA-1																	This study	LP-NOMAG				NWFA	NWFA
-NWFA-1H	NWFA-1H_LP-DIR-T	NWFA-1		mt	104.8	19.4	2	4	0	0.1	0.8	783	723	K		shoemake 2025-05-01 16:38:30	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFA	NWFA
-NWFA-1H	NWFA-1H_LP-DIR-T	NWFA-1		lt	136.8	-35.4	2	5	0	54.8	9.3	463	343	K		shoemake 2025-05-01 16:38:30	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFA	NWFA
-NWFA-1H	NWFA-1H_LP-DIR-T	NWFA-1		lt	293.5	-35.9	2	5	-1	54.8	9.3	463	343	K		shoemake 2025-05-01 16:38:30	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFA	NWFA
-NWFA-1I		NWFA-1																	This study	LP-NOMAG				NWFA	NWFA
-NWFA-2A		NWFA-2																	This study	LP-NOMAG				NWFA	NWFA
-NWFA-2B		NWFA-2																	This study	LP-NOMAG				NWFA	NWFA
-NWFA-2B	NWFA-2B_LP-DIR-T	NWFA-2		mt	9.7	28.5	2	3	0	0.3	0.1	783	723	K		shoemake 2025-04-25 18:21:39	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFA	NWFA
-NWFA-2B	NWFA-2B_LP-DIR-T	NWFA-2		lt	86.2	39.1	2	5	0	69.9	32.2	463	343	K		shoemake 2025-04-25 18:21:39	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFA	NWFA
-NWFA-2B	NWFA-2B_LP-DIR-T	NWFA-2		mt	186.0	-18.7	2	3	-1	0.3	0.1	783	723	K		shoemake 2025-04-25 18:21:39	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFA	NWFA
-NWFA-2B	NWFA-2B_LP-DIR-T	NWFA-2		lt	235.5	20.9	2	5	-1	69.9	32.2	463	343	K		shoemake 2025-04-25 18:21:39	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFA	NWFA
-NWFA-2C		NWFA-2																	This study	LP-NOMAG				NWFA	NWFA
-NWFA-2C	NWFA-2C_LP-DIR-T	NWFA-2		lt	90.4	14.6	2	5	-1	84.5	4.0	463	343	K		shoemake 2025-04-25 18:24:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFA	NWFA
-NWFA-2C	NWFA-2C_LP-DIR-T	NWFA-2		mt	183.4	-18.9	2	4	-1	0.3	0.5	783	723	K		shoemake 2025-04-25 18:24:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFA	NWFA
-NWFA-2C	NWFA-2C_LP-DIR-T	NWFA-2		lt	262.6	10.1	2	5	0	84.5	4.0	463	343	K		shoemake 2025-04-25 18:24:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFA	NWFA
-NWFA-2C	NWFA-2C_LP-DIR-T	NWFA-2		mt	6.8	28.5	2	4	0	0.3	0.5	783	723	K		shoemake 2025-04-25 18:24:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFA	NWFA
-NWFA-2D		NWFA-2																	This study	LP-NOMAG				NWFA	NWFA
-NWFA-2D	NWFA-2D_LP-DIR-T	NWFA-2		lt	85.1	7.7	2	4	-1	87.1	3.7	433	343	K		shoemake 2025-04-25 18:26:34	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFA	NWFA
-NWFA-2D	NWFA-2D_LP-DIR-T	NWFA-2		mt	185.2	-19.5	2	4	-1	0.4	3.4	783	723	K		shoemake 2025-04-25 18:26:34	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFA	NWFA
-NWFA-2D	NWFA-2D_LP-DIR-T	NWFA-2		lt	263.9	2.1	2	5	0	87.1	11.9	463	343	K		shoemake 2025-04-25 18:26:34	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFA	NWFA
-NWFA-2D	NWFA-2D_LP-DIR-T	NWFA-2		mt	8.8	27.9	2	4	0	0.4	3.4	783	723	K		shoemake 2025-04-25 18:26:34	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFA	NWFA
-NWFA-2E		NWFA-2																	This study	LP-NOMAG				NWFA	NWFA
-NWFA-3A		NWFA-3																	This study	LP-NOMAG				NWFA	NWFA
-NWFA-3B	NWFA-3B_LP-DIR-T	NWFA-3		mt	178.6	-8.8	2	3	-1	1.7	0.3	783	723	K		shoemake 2025-04-25 18:28:58	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFA	NWFA
-NWFA-3B	NWFA-3B_LP-DIR-T	NWFA-3		mt	60.8	32.6	2	3	0	1.7	0.3	783	723	K		shoemake 2025-04-25 18:28:58	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFA	NWFA
-NWFA-3B	NWFA-3B_LP-DIR-T	NWFA-3		lt	210.6	5.2	2	5	-1	25.9	11.0	513	403	K		shoemake 2025-04-25 18:28:58	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFA	NWFA
-NWFA-3B	NWFA-3B_LP-DIR-T	NWFA-3		lt	103.5	39.5	2	5	0	25.9	11.0	513	403	K		shoemake 2025-04-25 18:28:58	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFA	NWFA
-NWFA-3B		NWFA-3																	This study	LP-NOMAG				NWFA	NWFA
-NWFA-3C		NWFA-3																	This study	LP-NOMAG				NWFA	NWFA
-NWFA-4A		NWFA-4																	This study	LP-NOMAG				NWFA	NWFA
-NWFA-4B	NWFA-4B_LP-DIR-T	NWFA-4		mt	8.8	23.6	2	3	0	1.4	0.3	783	723	K		shoemake 2025-05-01 16:40:56	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFA	NWFA
-NWFA-4B	NWFA-4B_LP-DIR-T	NWFA-4		lt	318.4	42.3	2	5	0	27.5	9.9	463	343	K		shoemake 2025-05-01 16:40:56	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFA	NWFA
-NWFA-4B	NWFA-4B_LP-DIR-T	NWFA-4		mt	207.4	-31.0	2	3	-1	1.4	0.3	783	723	K		shoemake 2025-05-01 16:40:56	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFA	NWFA
-NWFA-4B	NWFA-4B_LP-DIR-T	NWFA-4		lt	130.8	-12.3	2	4	-1	49.8	13.3	373	77	K		shoemake 2025-05-01 16:40:56	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFA	NWFA
-NWFA-4B		NWFA-4																	This study	LP-NOMAG				NWFA	NWFA
-NWFA-4C	NWFA-4C_LP-DIR-T	NWFA-4		mt	9.1	23.4	1	4	0	1.4	1.6	783	723	K		shoemake 2025-05-01 16:43:16	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFA	NWFA
-NWFA-4C		NWFA-4																	This study	LP-NOMAG				NWFA	NWFA
-NWFA-4C	NWFA-4C_LP-DIR-T	NWFA-4		mt	207.8	-31.1	1	4	-1	1.4	1.6	783	723	K		shoemake 2025-05-01 16:43:16	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFA	NWFA
-NWFA-5A		NWFA-5																	This study	LP-NOMAG				NWFA	NWFA
-NWFA-5B	NWFA-5B_LP-DIR-T	NWFA-5		lt	117.0	-42.4	2	5	-1	17.7	3.5	403	273	K		shoemake 2025-04-25 18:36:15	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFA	NWFA
-NWFA-5B		NWFA-5																	This study	LP-NOMAG				NWFA	NWFA
-NWFA-5B	NWFA-5B_LP-DIR-T	NWFA-5		mt	87.3	-53.5	2	4	-1	0.8	2.3	783	723	K		shoemake 2025-04-25 18:36:15	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFA	NWFA
-NWFA-5B	NWFA-5B_LP-DIR-T	NWFA-5		mt	242.5	14.4	2	4	0	0.8	2.3	783	723	K		shoemake 2025-04-25 18:36:15	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFA	NWFA
-NWFA-5B	NWFA-5B_LP-DIR-T	NWFA-5		lt	229.6	26.4	2	5	0	12.9	11.5	463	343	K		shoemake 2025-04-25 18:36:15	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFA	NWFA
-NWFA-5C		NWFA-5																	This study	LP-NOMAG				NWFA	NWFA
-NWFA-5C	NWFA-5C_LP-DIR-T	NWFA-5		lt	117.7	-38.6	2	3	-1	21.5	2.5	343	273	K		shoemake 2025-04-25 18:38:43	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFA	NWFA
-NWFA-5C	NWFA-5C_LP-DIR-T	NWFA-5		mt	91.0	-53.7	2	6	-1	1.2	1.4	783	663	K		shoemake 2025-04-25 18:38:43	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFA	NWFA
-NWFA-5C	NWFA-5C_LP-DIR-T	NWFA-5		lt	230.3	27.5	2	5	0	14.3	12.9	463	343	K		shoemake 2025-04-25 18:38:43	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFA	NWFA
-NWFA-5C	NWFA-5C_LP-DIR-T	NWFA-5		mt	243.0	16.4	2	4	0	1.5	1.8	783	723	K		shoemake 2025-04-25 18:38:43	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFA	NWFA
-NWFB-1A		NWFB-1																	This study	LP-NOMAG				NWFB	NWFB
-NWFB-1B		NWFB-1																	This study	LP-NOMAG				NWFB	NWFB
-NWFB-1B	NWFB-1B_LP-DIR-T	NWFB-1		lt	290.3	12.6	2	3	-1	140.8	9.6	403	343	K		shoemake 2025-04-25 18:41:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-1B	NWFB-1B_LP-DIR-T	NWFB-1		mt	96.7	-45.6	2	5	-1	1.6	1.4	753	663	K		shoemake 2025-04-25 18:41:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-1B	NWFB-1B_LP-DIR-T	NWFB-1		lt	307.6	8.2	2	3	0	140.8	9.6	403	343	K		shoemake 2025-04-25 18:41:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-1B	NWFB-1B_LP-DIR-T	NWFB-1		mt	120.8	-44.5	2	3	0	0.7	1.8	753	723	K		shoemake 2025-04-25 18:41:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-1C	NWFB-1C_LP-DIR-T	NWFB-1		lt	258.2	11.3	2	4	-1	144.7	3.6	403	77	K		shoemake 2025-04-25 18:43:44	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-1C	NWFB-1C_LP-DIR-T	NWFB-1		mt	123.4	-44.1	2	4	0	1.9	1.2	783	723	K		shoemake 2025-04-25 18:43:44	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-1C	NWFB-1C_LP-DIR-T	NWFB-1		lt	278.8	11.1	2	5	0	144.9	24.4	463	343	K		shoemake 2025-04-25 18:43:44	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-1C		NWFB-1																	This study	LP-NOMAG				NWFB	NWFB
-NWFB-1C	NWFB-1C_LP-DIR-T	NWFB-1		mt	95.7	-45.2	2	6	-1	0.8	1.8	783	663	K		shoemake 2025-04-25 18:43:44	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-1D		NWFB-1																	This study	LP-NOMAG				NWFB	NWFB
-NWFB-1D	NWFB-1D_LP-DIR-T	NWFB-1		mt	95.2	-44.4	2	6	-1	2.0	2.4	783	663	K		shoemake 2025-04-25 20:11:32	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-1D	NWFB-1D_LP-DIR-T	NWFB-1		lt	49.3	-38.2	2	5	0	51.3	26.1	463	343	K		shoemake 2025-04-25 20:11:32	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-1D	NWFB-1D_LP-DIR-T	NWFB-1		mt	113.7	-43.8	2	4	0	0.2	4.3	783	723	K		shoemake 2025-04-25 20:11:32	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-1D	NWFB-1D_LP-DIR-T	NWFB-1		lt	29.9	-28.0	2	5	-1	51.3	26.1	463	343	K		shoemake 2025-04-25 20:11:32	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-1E		NWFB-1																	This study	LP-NOMAG				NWFB	NWFB
-NWFB-1E	NWFB-1E_LP-DIR-T	NWFB-1		lt	353.3	-3.0	2	4	-1	91.3	6.3	373	273	K		shoemake 2025-04-09 10:58:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-1E	NWFB-1E_LP-DIR-T	NWFB-1		mt	95.9	-42.8	2	5	-1	1.0	1.6	753	663	K		shoemake 2025-04-09 10:58:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-1E	NWFB-1E_LP-DIR-T	NWFB-1		lt	109.6	-50.1	2	5	0	9.3	30.6	463	343	K		shoemake 2025-04-09 10:58:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-1E	NWFB-1E_LP-DIR-T	NWFB-1		mt	121.6	-40.5	2	5	0	1.0	1.6	753	663	K		shoemake 2025-04-09 10:58:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-1F	NWFB-1F_LP-DIR-T	NWFB-1		mt	124.7	-38.6	2	5	0	3.5	1.3	753	663	K		shoemake 2025-04-09 11:01:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-1F	NWFB-1F_LP-DIR-T	NWFB-1		lt	12.0	-13.6	2	3	0	90.8	2.0	373	77	K		shoemake 2025-04-09 11:01:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-1F	NWFB-1F_LP-DIR-T	NWFB-1		lt	356.9	-1.6	2	3	-1	90.8	2.0	373	77	K		shoemake 2025-04-09 11:01:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-1F	NWFB-1F_LP-DIR-T	NWFB-1		mt	99.7	-41.6	2	5	-1	3.5	1.3	753	663	K		shoemake 2025-04-09 11:01:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-1F		NWFB-1																	This study	LP-NOMAG				NWFB	NWFB
-NWFB-1G		NWFB-1																	This study	LP-NOMAG				NWFB	NWFB
-NWFB-1G	NWFB-1G_LP-DIR-T	NWFB-1		mt	112.7	-41.9	2	4	0	1.1	3.7	783	723	K		shoemake 2025-05-01 16:50:22	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-1G	NWFB-1G_LP-DIR-T	NWFB-1		lt	353.8	-4.3	2	4	-1	90.3	7.5	373	273	K		shoemake 2025-05-01 16:50:22	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-1G	NWFB-1G_LP-DIR-T	NWFB-1		mt	84.5	-40.9	2	6	-1	1.3	2.2	783	663	K		shoemake 2025-05-01 16:50:22	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-1G	NWFB-1G_LP-DIR-T	NWFB-1		lt	124.7	-38.0	2	5	0	8.7	26.1	463	343	K		shoemake 2025-05-01 16:50:22	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-1H	NWFB-1H_LP-DIR-T	NWFB-1		mt	121.0	-39.0	2	17	0	1.0	6.1	753	273	K		shoemake 2025-04-15 15:02:33	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-1H	NWFB-1H_LP-DIR-T	NWFB-1		lt	121.4	-39.3	2	4	0	2.0	12.8	463	343	K		shoemake 2025-04-15 15:02:33	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-1H	NWFB-1H_LP-DIR-T	NWFB-1		mt	93.6	-42.9	2	5	-1	0.5	0.8	753	663	K		shoemake 2025-04-15 15:02:33	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-1H	NWFB-1H_LP-DIR-T	NWFB-1		lt	189.7	2.1	2	3	-1	93.5	1.3	343	273	K		shoemake 2025-04-15 15:02:33	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-1H		NWFB-1																	This study	LP-NOMAG				NWFB	NWFB
-NWFB-2A		NWFB-2																	This study	LP-NOMAG				NWFB	NWFB
-NWFB-2B		NWFB-2																	This study	LP-NOMAG				NWFB	NWFB
-NWFB-2B	NWFB-2B_LP-DIR-T	NWFB-2		lt	128.6	-73.3	2	5	-1	2.5	2.6	463	343	K		shoemake 2025-04-09 11:08:35	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-2B	NWFB-2B_LP-DIR-T	NWFB-2		mt	129.7	-74.4	2	5	-1	0.4	0.7	753	663	K		shoemake 2025-04-09 11:08:35	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-2B	NWFB-2B_LP-DIR-T	NWFB-2		lt	13.7	-26.7	2	5	0	2.5	2.6	463	343	K		shoemake 2025-04-09 11:08:35	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-2B	NWFB-2B_LP-DIR-T	NWFB-2		mt	15.3	-25.5	2	19	0	0.5	1.4	753	273	K		shoemake 2025-04-09 11:08:35	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-2C	NWFB-2C_LP-DIR-T	NWFB-2		mt	15.1	-25.9	2	19	0	0.8	2.4	753	273	K		shoemake 2025-04-09 11:11:08	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-2C	NWFB-2C_LP-DIR-T	NWFB-2		lt	132.7	-73.2	2	5	-1	1.5	2.3	463	343	K		shoemake 2025-04-09 11:11:08	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-2C	NWFB-2C_LP-DIR-T	NWFB-2		mt	138.1	-74.6	2	5	-1	1.2	0.4	753	663	K		shoemake 2025-04-09 11:11:08	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-2C	NWFB-2C_LP-DIR-T	NWFB-2		lt	14.6	-25.8	2	5	0	1.5	2.3	463	343	K		shoemake 2025-04-09 11:11:08	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-2C		NWFB-2																	This study	LP-NOMAG				NWFB	NWFB
-NWFB-2D	NWFB-2D_LP-DIR-T	NWFB-2		lt	135.7	-74.2	2	5	-1	0.6	4.4	463	343	K		shoemake 2025-04-09 16:53:55	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-2D	NWFB-2D_LP-DIR-T	NWFB-2		mt	16.6	-25.4	2	19	0	0.4	1.5	753	273	K		shoemake 2025-04-09 16:53:55	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-2D	NWFB-2D_LP-DIR-T	NWFB-2		lt	16.0	-26.0	2	5	0	0.6	4.4	463	343	K		shoemake 2025-04-09 16:53:55	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-2D	NWFB-2D_LP-DIR-T	NWFB-2		mt	134.5	-75.0	2	5	-1	1.6	0.4	753	663	K		shoemake 2025-04-09 16:53:55	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-2D		NWFB-2																	This study	LP-NOMAG				NWFB	NWFB
-NWFB-2E	NWFB-2E_LP-DIR-T	NWFB-2		mt	132.7	-74.7	1	5	-1	1.3	0.7	753	663	K		shoemake 2025-04-09 16:56:24	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-2E	NWFB-2E_LP-DIR-T	NWFB-2		mt	15.6	-26.9	1	5	0	1.3	0.7	753	663	K		shoemake 2025-04-09 16:56:24	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-2E		NWFB-2																	This study	LP-NOMAG				NWFB	NWFB
-NWFB-2F	NWFB-2F_LP-DIR-T	NWFB-2		lt	134.0	-72.4	2	5	-1	1.5	2.0	463	343	K		shoemake 2025-04-15 15:05:05	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-2F	NWFB-2F_LP-DIR-T	NWFB-2		Fit 2	138.9	-74.6	2	4	-1	1.9	1.2	753	663	K		shoemake 2025-04-15 15:05:05	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-2F	NWFB-2F_LP-DIR-T	NWFB-2		lt	14.3	-24.9	2	5	0	1.5	2.0	463	343	K		shoemake 2025-04-15 15:05:05	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-2F	NWFB-2F_LP-DIR-T	NWFB-2		Fit 2	15.6	-24.9	2	17	0	0.6	1.1	753	273	K		shoemake 2025-04-15 15:05:05	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-2F		NWFB-2																	This study	LP-NOMAG				NWFB	NWFB
-NWFB-2G	NWFB-2G_LP-DIR-T	NWFB-2		mt	138.5	-74.9	1	6	-1	0.6	0.6	753	603	K		shoemake 2025-04-15 15:07:31	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-2G	NWFB-2G_LP-DIR-T	NWFB-2		mt	15.9	-25.5	1	17	0	0.6	1.6	753	273	K		shoemake 2025-04-15 15:07:31	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-2G		NWFB-2																	This study	LP-NOMAG				NWFB	NWFB
-NWFB-2H		NWFB-2																	This study	LP-NOMAG				NWFB	NWFB
-NWFB-3A		NWFB-3																	This study	LP-NOMAG				NWFB	NWFB
-NWFB-3B	NWFB-3B_LP-DIR-T	NWFB-3		lt	240.8	31.3	2	5	0	116.9	5.0	463	343	K		shoemake 2025-04-09 17:03:45	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-3B	NWFB-3B_LP-DIR-T	NWFB-3		mt	342.6	-48.3	2	5	-1	0.5	0.4	753	633	K		shoemake 2025-04-09 17:03:45	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-3B		NWFB-3																	This study	LP-NOMAG				NWFB	NWFB
-NWFB-3B	NWFB-3B_LP-DIR-T	NWFB-3		mt	115.7	-71.8	2	17	0	14.4	33.7	753	273	K		shoemake 2025-04-09 17:03:45	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-3B	NWFB-3B_LP-DIR-T	NWFB-3		lt	89.5	32.3	2	4	-1	120.0	4.4	463	373	K		shoemake 2025-04-09 17:03:45	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-3C	NWFB-3C_LP-DIR-T	NWFB-3		lt	89.9	35.2	2	3	-1	120.4	1.5	433	373	K		shoemake 2025-04-09 17:06:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-3C	NWFB-3C_LP-DIR-T	NWFB-3		Fit 2	117.4	-71.3	2	18	0	12.5	31.9	753	273	K		shoemake 2025-04-09 17:06:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-3C		NWFB-3																	This study	LP-NOMAG				NWFB	NWFB
-NWFB-3C	NWFB-3C_LP-DIR-T	NWFB-3		Fit 2	341.5	-47.9	2	6	-1	0.7	1.5	753	633	K		shoemake 2025-04-09 17:06:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-3C	NWFB-3C_LP-DIR-T	NWFB-3		lt	240.3	32.5	2	5	0	118.9	3.0	463	343	K		shoemake 2025-04-09 17:06:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-3D	NWFB-3D_LP-DIR-T	NWFB-3		Fit 2	127.7	-73.3	2	18	0	11.6	31.3	753	273	K		shoemake 2025-04-09 17:08:43	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-3D	NWFB-3D_LP-DIR-T	NWFB-3		lt	96.4	36.3	2	4	-1	124.4	5.9	463	373	K		shoemake 2025-04-09 17:08:43	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-3D	NWFB-3D_LP-DIR-T	NWFB-3		Fit 2	342.3	-48.2	2	6	-1	0.4	1.1	753	633	K		shoemake 2025-04-09 17:08:43	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-3D	NWFB-3D_LP-DIR-T	NWFB-3		lt	242.3	37.4	2	5	0	120.9	5.9	463	343	K		shoemake 2025-04-09 17:08:43	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-3D		NWFB-3																	This study	LP-NOMAG				NWFB	NWFB
-NWFB-3E		NWFB-3																	This study	LP-NOMAG				NWFB	NWFB
-NWFB-3E	NWFB-3E_LP-DIR-T	NWFB-3		mt	253.2	55.4	2	16	0	135.4	33.7	723	273	K		shoemake 2024-12-05 15:33:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-3E	NWFB-3E_LP-DIR-T	NWFB-3		lt	101.5	42.6	2	5	-1	117.2	1.6	463	343	K		shoemake 2024-12-05 15:33:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-3E	NWFB-3E_LP-DIR-T	NWFB-3		mt	342.1	-47.7	2	5	-1	0.3	0.4	723	603	K		shoemake 2024-12-05 15:33:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-3E	NWFB-3E_LP-DIR-T	NWFB-3		lt	244.8	41.5	2	5	0	117.2	1.6	463	343	K		shoemake 2024-12-05 15:33:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-3F	NWFB-3F_LP-DIR-T	NWFB-3		mt	344.0	-48.0	2	5	-1	0.4	1.6	723	633	K		shoemake 2024-12-05 06:20:16	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-3F	NWFB-3F_LP-DIR-T	NWFB-3		lt	246.6	46.2	2	6	0	92.0	3.6	463	343	K		shoemake 2024-12-05 06:20:16	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-3F	NWFB-3F_LP-DIR-T	NWFB-3		mt	243.8	44.1	2	18	0	105.7	25.1	723	273	K		shoemake 2024-12-05 06:20:16	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-3F	NWFB-3F_LP-DIR-T	NWFB-3		lt	109.4	43.0	2	4	-1	116.9	3.2	463	373	K		shoemake 2024-12-05 06:20:16	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-3F		NWFB-3																	This study	LP-NOMAG				NWFB	NWFB
-NWFB-3G	NWFB-3G_LP-DIR-T	NWFB-3		lt	113.0	41.6	2	4	-1	90.4	1.1	463	373	K		shoemake 2024-12-05 06:22:44	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-3G	NWFB-3G_LP-DIR-T	NWFB-3		mt	342.0	-46.8	2	5	-1	0.2	1.9	723	633	K		shoemake 2024-12-05 06:22:44	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-3G	NWFB-3G_LP-DIR-T	NWFB-3		lt	250.4	46.0	2	5	0	69.3	3.4	463	343	K		shoemake 2024-12-05 06:22:44	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-3G	NWFB-3G_LP-DIR-T	NWFB-3		mt	243.8	42.0	2	17	0	86.9	19.1	723	273	K		shoemake 2024-12-05 06:22:44	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-3G		NWFB-3																	This study	LP-NOMAG				NWFB	NWFB
-NWFB-3H	NWFB-3H_LP-DIR-T	NWFB-3		mt	249.5	43.3	2	16	0	63.9	15.0	723	273	K		shoemake 2024-12-06 00:37:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-3H	NWFB-3H_LP-DIR-T	NWFB-3		lt	251.6	46.5	2	5	0	48.3	4.7	463	343	K		shoemake 2024-12-06 00:37:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFB	NWFB
-NWFB-3H	NWFB-3H_LP-DIR-T	NWFB-3		mt	351.1	-45.8	2	3	-1	0.5	0.5	723	663	K		shoemake 2024-12-06 00:37:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-3H		NWFB-3																	This study	LP-NOMAG				NWFB	NWFB
-NWFB-3H	NWFB-3H_LP-DIR-T	NWFB-3		lt	116.1	41.2	2	4	-1	65.8	1.3	463	373	K		shoemake 2024-12-06 00:37:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFB	NWFB
-NWFB-3I		NWFB-3																	This study	LP-NOMAG				NWFB	NWFB
-NWFC-1A		NWFC-1																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-1B		NWFC-1																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-1B	NWFC-1B_LP-DIR-T	NWFC-1		lt	277.2	6.4	2	3	0	6.1	5.8	783	723	K		shoemake 2025-04-25 20:55:43	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-1B	NWFC-1B_LP-DIR-T	NWFC-1		mt	210.6	2.5	2	18	0	13.4	10.7	783	273	K		shoemake 2025-04-25 20:55:43	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-1B	NWFC-1B_LP-DIR-T	NWFC-1		mt	64.0	36.8	2	6	-1	2.8	1.4	783	633	K		shoemake 2025-04-25 20:55:43	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-1B	NWFC-1B_LP-DIR-T	NWFC-1		lt	359.7	48.8	2	3	-1	23.1	1.8	403	343	K		shoemake 2025-04-25 20:55:43	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-1C	NWFC-1C_LP-DIR-T	NWFC-1		lt	192.2	-0.1	2	5	0	21.7	3.2	463	343	K		shoemake 2025-04-09 17:26:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-1C	NWFC-1C_LP-DIR-T	NWFC-1		Fit 2	67.1	35.4	2	5	-1	5.8	0.4	753	663	K		shoemake 2025-04-09 17:26:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-1C	NWFC-1C_LP-DIR-T	NWFC-1		lt	353.1	50.7	2	5	-1	21.7	3.2	463	343	K		shoemake 2025-04-09 17:26:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-1C		NWFC-1																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-1C	NWFC-1C_LP-DIR-T	NWFC-1		Fit 2	202.0	2.0	2	19	0	12.2	8.4	753	273	K		shoemake 2025-04-09 17:26:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-2A		NWFC-2																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-2B		NWFC-2																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-2B	NWFC-2B_LP-DIR-T	NWFC-2		Fit 2	308.2	-64.1	2	19	0	8.5	6.7	753	273	K		shoemake 2025-04-09 17:28:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-2B	NWFC-2B_LP-DIR-T	NWFC-2		lt	71.2	-74.9	2	5	-1	16.2	1.4	463	343	K		shoemake 2025-04-09 17:28:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-2B	NWFC-2B_LP-DIR-T	NWFC-2		Fit 2	116.1	-57.9	2	8	-1	4.2	3.4	753	603	K		shoemake 2025-04-09 17:28:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-2B	NWFC-2B_LP-DIR-T	NWFC-2		lt	303.8	-72.1	2	5	0	16.2	1.4	463	343	K		shoemake 2025-04-09 17:28:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-2C	NWFC-2C_LP-DIR-T	NWFC-2		Fit 2	111.7	-57.7	2	8	-1	6.1	5.3	753	603	K		shoemake 2025-04-09 17:31:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-2C	NWFC-2C_LP-DIR-T	NWFC-2		lt	68.8	-76.3	2	5	-1	15.5	1.5	463	343	K		shoemake 2025-04-09 17:31:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-2C	NWFC-2C_LP-DIR-T	NWFC-2		lt	306.8	-73.2	2	5	0	15.5	1.5	463	343	K		shoemake 2025-04-09 17:31:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-2C		NWFC-2																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-2C	NWFC-2C_LP-DIR-T	NWFC-2		Fit 2	308.2	-66.4	2	19	0	9.3	6.6	753	273	K		shoemake 2025-04-09 17:31:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-2D	NWFC-2D_LP-DIR-T	NWFC-2		lt	77.6	-77.3	2	5	-1	15.9	2.5	463	343	K		shoemake 2025-04-09 17:33:38	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-2D	NWFC-2D_LP-DIR-T	NWFC-2		Fit 2	110.9	-58.0	2	7	-1	6.3	4.1	753	603	K		shoemake 2025-04-09 17:33:38	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-2D	NWFC-2D_LP-DIR-T	NWFC-2		lt	312.7	-71.9	2	5	0	15.9	2.5	463	343	K		shoemake 2025-04-09 17:33:38	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-2D	NWFC-2D_LP-DIR-T	NWFC-2		Fit 2	309.4	-65.6	2	18	0	9.9	7.1	753	273	K		shoemake 2025-04-09 17:33:38	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-2D		NWFC-2																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-2E	NWFC-2E_LP-DIR-T	NWFC-2		lt	70.9	-75.7	2	5	-1	17.1	1.3	463	343	K		shoemake 2025-04-15 15:15:06	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-2E	NWFC-2E_LP-DIR-T	NWFC-2		mt	116.0	-58.3	2	8	-1	5.0	2.6	753	603	K		shoemake 2025-04-15 15:15:06	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-2E		NWFC-2																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-2E	NWFC-2E_LP-DIR-T	NWFC-2		lt	305.7	-72.5	2	5	0	17.1	1.3	463	343	K		shoemake 2025-04-15 15:15:06	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-2E	NWFC-2E_LP-DIR-T	NWFC-2		mt	314.3	-63.7	2	19	0	9.9	7.6	753	273	K		shoemake 2025-04-15 15:15:06	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-2F	NWFC-2F_LP-DIR-T	NWFC-2		lt	10.4	-10.7	2	3	0	62.4	12.4	343	273	K		shoemake 2025-04-09 17:38:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-2F	NWFC-2F_LP-DIR-T	NWFC-2		mt	118.9	-57.0	2	7	-1	1.7	2.7	753	603	K		shoemake 2025-04-09 17:38:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-2F	NWFC-2F_LP-DIR-T	NWFC-2		lt	195.0	-26.2	2	3	-1	62.4	12.4	343	273	K		shoemake 2025-04-09 17:38:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-2F	NWFC-2F_LP-DIR-T	NWFC-2		mt	309.9	-45.1	2	4	0	1.8	4.6	753	663	K		shoemake 2025-04-09 17:38:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-2F		NWFC-2																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-3A		NWFC-3																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-3B	NWFC-3B_LP-DIR-T	NWFC-3		lt	39.8	26.5	1	5	0	49.5	4.9	463	343	K		shoemake 2025-04-09 17:41:11	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-3B	NWFC-3B_LP-DIR-T	NWFC-3		lt	107.6	21.0	1	5	-1	49.5	4.9	463	343	K		shoemake 2025-04-09 17:41:11	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-3B		NWFC-3																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-3C		NWFC-3																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-3C	NWFC-3C_LP-DIR-T	NWFC-3		lt	48.4	35.7	2	5	0	41.7	8.4	463	343	K		shoemake 2025-04-25 21:15:20	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-3C	NWFC-3C_LP-DIR-T	NWFC-3		mt	119.5	39.8	2	3	0	1.0	2.1	783	723	K		shoemake 2025-04-25 21:15:20	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-3C	NWFC-3C_LP-DIR-T	NWFC-3		lt	119.4	25.7	2	5	-1	41.7	8.4	463	343	K		shoemake 2025-04-25 21:15:20	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-3C	NWFC-3C_LP-DIR-T	NWFC-3		mt	176.7	13.8	2	3	-1	1.0	2.1	783	723	K		shoemake 2025-04-25 21:15:20	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-3D	NWFC-3D_LP-DIR-T	NWFC-3		mt	128.9	38.1	2	3	0	0.6	3.7	783	723	K		shoemake 2025-04-25 21:17:49	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-3D		NWFC-3																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-3D	NWFC-3D_LP-DIR-T	NWFC-3		lt	102.2	23.2	2	5	-1	55.7	8.0	463	343	K		shoemake 2025-04-25 21:17:49	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-3D	NWFC-3D_LP-DIR-T	NWFC-3		mt	184.3	12.2	2	3	-1	0.6	3.7	783	723	K		shoemake 2025-04-25 21:17:49	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-3D	NWFC-3D_LP-DIR-T	NWFC-3		lt	33.7	26.0	2	5	0	55.7	8.0	463	343	K		shoemake 2025-04-25 21:17:49	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-3E		NWFC-3																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-4A		NWFC-4																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-4B		NWFC-4																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-4B	NWFC-4B_LP-DIR-T	NWFC-4		lt	315.5	-21.2	2	3	-1	56.5	7.9	343	273	K		shoemake 2025-04-25 21:20:17	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-4B	NWFC-4B_LP-DIR-T	NWFC-4		lt	15.4	-12.0	2	5	0	5.7	6.4	463	343	K		shoemake 2025-04-25 21:20:17	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-4B	NWFC-4B_LP-DIR-T	NWFC-4		mt	3.1	-13.2	2	4	0	0.1	0.8	783	723	K		shoemake 2025-04-25 21:20:17	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-4B	NWFC-4B_LP-DIR-T	NWFC-4		mt	240.8	-52.7	2	9	-1	0.4	2.1	783	603	K		shoemake 2025-04-25 21:20:17	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-4C		NWFC-4																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-4C	NWFC-4C_LP-DIR-T	NWFC-4		mt	237.1	-55.0	2	9	-1	0.6	3.6	783	603	K		shoemake 2025-04-25 21:22:42	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-4C	NWFC-4C_LP-DIR-T	NWFC-4		Fit 2	251.0	-40.5	2	3	-1	6.5	1.2	403	343	K		shoemake 2025-04-25 21:22:42	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-4C	NWFC-4C_LP-DIR-T	NWFC-4		mt	359.0	-13.1	2	4	0	0.7	3.8	783	723	K		shoemake 2025-04-25 21:22:42	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-4C	NWFC-4C_LP-DIR-T	NWFC-4		Fit 2	12.9	-11.8	2	20	0	5.1	5.2	783	273	K		shoemake 2025-04-25 21:22:42	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-4D		NWFC-4																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-4D	NWFC-4D_LP-DIR-T	NWFC-4		lt	15.7	-8.5	2	5	0	7.0	5.7	463	343	K		shoemake 2025-04-25 21:25:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-4D	NWFC-4D_LP-DIR-T	NWFC-4		mt	356.2	-11.3	2	4	0	0.9	2.7	783	723	K		shoemake 2025-04-25 21:25:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-4D	NWFC-4D_LP-DIR-T	NWFC-4		lt	249.0	-40.4	2	5	-1	7.0	5.7	463	343	K		shoemake 2025-04-25 21:25:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-4D	NWFC-4D_LP-DIR-T	NWFC-4		mt	233.2	-55.2	2	9	-1	1.1	4.5	783	603	K		shoemake 2025-04-25 21:25:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-4E	NWFC-4E_LP-DIR-T	NWFC-4		mt	141.9	-54.8	2	8	-1	0.9	4.3	783	603	K		shoemake 2025-05-01 17:38:12	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-4E	NWFC-4E_LP-DIR-T	NWFC-4		lt	171.4	-36.1	2	4	-1	12.9	1.9	463	343	K		shoemake 2025-05-01 17:38:12	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-4E	NWFC-4E_LP-DIR-T	NWFC-4		lt	322.4	18.5	2	4	0	12.9	1.9	463	343	K		shoemake 2025-05-01 17:38:12	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-4E	NWFC-4E_LP-DIR-T	NWFC-4		mt	308.8	-5.6	2	8	0	0.9	4.3	783	603	K		shoemake 2025-05-01 17:38:12	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-4E		NWFC-4																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-5A		NWFC-5																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-5B	NWFC-5B_LP-DIR-T	NWFC-5		lt	86.6	-14.6	2	3	-1	18.6	3.4	373	77	K		shoemake 2025-04-25 21:30:02	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-5B	NWFC-5B_LP-DIR-T	NWFC-5		mt	121.4	-1.3	2	3	-1	0.7	1.5	783	723	K		shoemake 2025-04-25 21:30:02	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-5B	NWFC-5B_LP-DIR-T	NWFC-5		lt	4.5	-2.9	2	5	0	14.7	12.1	463	343	K		shoemake 2025-04-25 21:30:02	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-5B	NWFC-5B_LP-DIR-T	NWFC-5		mt	10.3	25.7	2	3	0	0.7	1.5	783	723	K		shoemake 2025-04-25 21:30:02	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-5B		NWFC-5																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-5C	NWFC-5C_LP-DIR-T	NWFC-5		mt	118.8	-0.6	2	3	-1	0.8	1.2	783	723	K		shoemake 2025-04-25 21:32:31	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-5C		NWFC-5																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-5C	NWFC-5C_LP-DIR-T	NWFC-5		mt	8.0	23.9	2	3	0	0.8	1.2	783	723	K		shoemake 2025-04-25 21:32:31	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-5C	NWFC-5C_LP-DIR-T	NWFC-5		lt	101.1	-8.8	2	9	-1	8.6	8.5	513	273	K		shoemake 2025-04-25 21:32:31	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-5C	NWFC-5C_LP-DIR-T	NWFC-5		lt	6.8	3.7	2	5	0	11.0	3.3	463	343	K		shoemake 2025-04-25 21:32:31	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-5D		NWFC-5																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-5D	NWFC-5D_LP-DIR-T	NWFC-5		lt	79.3	-9.5	2	4	-1	30.4	2.6	433	343	K		shoemake 2025-05-01 17:40:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-5D	NWFC-5D_LP-DIR-T	NWFC-5		mt	114.3	-0.9	2	4	-1	2.1	2.1	783	723	K		shoemake 2025-05-01 17:40:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-5D	NWFC-5D_LP-DIR-T	NWFC-5		lt	359.8	-3.5	2	5	0	19.3	11.0	463	343	K		shoemake 2025-05-01 17:40:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-5D	NWFC-5D_LP-DIR-T	NWFC-5		mt	5.5	20.0	2	4	0	2.1	2.1	783	723	K		shoemake 2025-05-01 17:40:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-5E		NWFC-5																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-5E	NWFC-5E_LP-DIR-T	NWFC-5		lt	38.3	-2.7	2	3	-1	73.6	1.6	343	273	K		shoemake 2025-05-01 17:43:06	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-5E	NWFC-5E_LP-DIR-T	NWFC-5		mt	123.3	-0.0	2	4	-1	0.4	3.5	783	723	K		shoemake 2025-05-01 17:43:06	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-5E	NWFC-5E_LP-DIR-T	NWFC-5		lt	10.2	15.5	2	5	0	6.9	14.1	463	343	K		shoemake 2025-05-01 17:43:06	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-5E	NWFC-5E_LP-DIR-T	NWFC-5		mt	10.4	27.9	2	4	0	0.4	3.5	783	723	K		shoemake 2025-05-01 17:43:06	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-6A		NWFC-6																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-6B	NWFC-6B_LP-DIR-T	NWFC-6		lt	212.7	-32.6	2	5	0	9.1	6.7	463	343	K		shoemake 2025-04-25 21:39:59	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-6B	NWFC-6B_LP-DIR-T	NWFC-6		mt	26.2	41.1	2	9	-1	0.8	3.0	783	603	K		shoemake 2025-04-25 21:39:59	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-6B	NWFC-6B_LP-DIR-T	NWFC-6		mt	216.2	-17.1	2	4	0	1.6	2.5	783	723	K		shoemake 2025-04-25 21:39:59	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-6B		NWFC-6																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-6B	NWFC-6B_LP-DIR-T	NWFC-6		lt	17.1	28.0	2	5	-1	9.1	6.7	463	343	K		shoemake 2025-04-25 21:39:59	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-6C	NWFC-6C_LP-DIR-T	NWFC-6		lt	12.6	21.9	2	3	-1	6.9	2.0	343	273	K		shoemake 2025-04-25 21:42:25	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-6C	NWFC-6C_LP-DIR-T	NWFC-6		mt	26.3	31.7	2	4	-1	1.7	0.8	783	723	K		shoemake 2025-04-25 21:42:25	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-6C	NWFC-6C_LP-DIR-T	NWFC-6		lt	221.8	-40.0	2	5	0	5.9	9.4	463	343	K		shoemake 2025-04-25 21:42:25	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-6C	NWFC-6C_LP-DIR-T	NWFC-6		mt	219.5	-26.1	2	4	0	1.7	0.8	783	723	K		shoemake 2025-04-25 21:42:25	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-6C		NWFC-6																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-6D	NWFC-6D_LP-DIR-T	NWFC-6		lt	1.1	7.7	2	3	-1	23.2	9.0	373	77	K		shoemake 2025-04-25 21:44:50	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-6D	NWFC-6D_LP-DIR-T	NWFC-6		lt	196.6	-55.3	2	3	0	23.2	9.0	373	77	K		shoemake 2025-04-25 21:44:50	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-6D	NWFC-6D_LP-DIR-T	NWFC-6		mt	227.3	-34.3	2	3	0	2.6	0.1	783	723	K		shoemake 2025-04-25 21:44:50	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-6D	NWFC-6D_LP-DIR-T	NWFC-6		mt	28.5	21.3	2	3	-1	2.6	0.1	783	723	K		shoemake 2025-04-25 21:44:50	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-6D		NWFC-6																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-6E		NWFC-6																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-6E	NWFC-6E_LP-DIR-T	NWFC-6		lt	28.3	3.8	2	5	-1	5.6	4.5	463	343	K		shoemake 2025-04-25 21:47:16	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-6E	NWFC-6E_LP-DIR-T	NWFC-6		mt	34.6	12.2	2	6	-1	2.0	3.8	783	663	K		shoemake 2025-04-25 21:47:16	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-6E	NWFC-6E_LP-DIR-T	NWFC-6		lt	240.6	-48.8	2	5	0	5.6	4.5	463	343	K		shoemake 2025-04-25 21:47:16	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-6E	NWFC-6E_LP-DIR-T	NWFC-6		mt	236.6	-38.5	2	4	0	2.0	2.8	783	723	K		shoemake 2025-04-25 21:47:16	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-7A		NWFC-7																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-7B	NWFC-7B_LP-DIR-T	NWFC-7		lt	238.5	-44.2	2	3	-1	72.1	2.6	343	273	K		shoemake 2025-04-25 21:49:42	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-7B		NWFC-7																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-7B	NWFC-7B_LP-DIR-T	NWFC-7		mt	219.1	24.7	2	4	0	8.0	1.2	783	723	K		shoemake 2025-04-25 21:49:42	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-7B	NWFC-7B_LP-DIR-T	NWFC-7		mt	193.2	48.2	2	4	-1	8.0	1.2	783	723	K		shoemake 2025-04-25 21:49:42	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-7B	NWFC-7B_LP-DIR-T	NWFC-7		lt	95.2	55.2	2	6	0	67.8	13.5	463	343	K		shoemake 2025-04-25 21:49:42	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-7C	NWFC-7C_LP-DIR-T	NWFC-7		lt	105.4	54.5	2	5	0	66.6	15.6	463	343	K		shoemake 2025-04-25 21:52:08	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-7C	NWFC-7C_LP-DIR-T	NWFC-7		mt	199.8	49.5	2	4	-1	6.5	1.0	783	723	K		shoemake 2025-04-25 21:52:08	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-7C	NWFC-7C_LP-DIR-T	NWFC-7		lt	246.4	-42.5	2	4	-1	76.5	4.6	373	273	K		shoemake 2025-04-25 21:52:08	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-7C	NWFC-7C_LP-DIR-T	NWFC-7		mt	215.0	22.2	2	4	0	6.5	1.0	783	723	K		shoemake 2025-04-25 21:52:08	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-7C		NWFC-7																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-7D		NWFC-7																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-7D	NWFC-7D_LP-DIR-T	NWFC-7		lt	228.9	-34.1	2	4	-1	70.5	6.5	403	77	K		shoemake 2025-04-25 21:54:36	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-7D	NWFC-7D_LP-DIR-T	NWFC-7		mt	197.9	46.9	2	4	-1	6.5	2.1	783	723	K		shoemake 2025-04-25 21:54:36	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-7D	NWFC-7D_LP-DIR-T	NWFC-7		lt	100.3	58.9	2	5	0	66.5	10.8	463	343	K		shoemake 2025-04-25 21:54:36	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-7D	NWFC-7D_LP-DIR-T	NWFC-7		mt	215.3	25.1	2	4	0	6.5	2.1	783	723	K		shoemake 2025-04-25 21:54:36	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-7E		NWFC-7																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-7E	NWFC-7E_LP-DIR-T	NWFC-7		lt	237.2	-25.7	2	4	-1	70.7	10.7	403	77	K		shoemake 2025-04-25 21:57:06	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-7E	NWFC-7E_LP-DIR-T	NWFC-7		lt	104.7	62.1	2	5	0	61.8	20.0	463	343	K		shoemake 2025-04-25 21:57:06	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-7E	NWFC-7E_LP-DIR-T	NWFC-7		mt	217.4	26.0	2	4	0	7.3	5.3	783	723	K		shoemake 2025-04-25 21:57:06	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-7E	NWFC-7E_LP-DIR-T	NWFC-7		mt	194.9	46.6	2	4	-1	7.3	5.3	783	723	K		shoemake 2025-04-25 21:57:06	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-7F	NWFC-7F_LP-DIR-T	NWFC-7		mt	172.7	34.8	2	6	-1	11.0	6.8	783	663	K		shoemake 2025-04-25 21:59:36	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-7F	NWFC-7F_LP-DIR-T	NWFC-7		lt	113.0	57.5	2	5	0	61.0	13.5	463	343	K		shoemake 2025-04-25 21:59:36	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-7F	NWFC-7F_LP-DIR-T	NWFC-7		mt	214.3	27.6	2	4	0	7.4	2.0	783	723	K		shoemake 2025-04-25 21:59:36	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-7F		NWFC-7																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-7F	NWFC-7F_LP-DIR-T	NWFC-7		lt	250.9	-33.2	2	3	-1	76.7	7.6	343	273	K		shoemake 2025-04-25 21:59:36	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-7G		NWFC-7																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-8A		NWFC-8																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-8B	NWFC-8B_LP-DIR-T	NWFC-8		mt	6.3	70.4	1	4	0	1.9	5.8	783	723	K		shoemake 2025-04-25 22:02:04	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-8B	NWFC-8B_LP-DIR-T	NWFC-8		mt	162.3	11.2	1	6	-1	0.7	1.8	783	663	K		shoemake 2025-04-25 22:02:04	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-8B		NWFC-8																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-8C	NWFC-8C_LP-DIR-T	NWFC-8		mt	161.1	11.7	2	6	-1	0.7	1.1	783	663	K		shoemake 2025-04-25 22:04:31	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-8C	NWFC-8C_LP-DIR-T	NWFC-8		lt	78.5	77.3	2	5	0	9.3	4.5	463	343	K		shoemake 2025-04-25 22:04:31	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-8C	NWFC-8C_LP-DIR-T	NWFC-8		mt	9.7	71.9	2	4	0	1.3	0.6	783	723	K		shoemake 2025-04-25 22:04:31	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-8C	NWFC-8C_LP-DIR-T	NWFC-8		lt	180.4	6.6	2	3	-1	6.7	2.2	403	343	K		shoemake 2025-04-25 22:04:31	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-8C		NWFC-8																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-8D		NWFC-8																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-8D	NWFC-8D_LP-DIR-T	NWFC-8		lt	181.7	7.7	2	3	-1	8.0	0.3	433	373	K		shoemake 2025-04-25 22:06:57	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-8D	NWFC-8D_LP-DIR-T	NWFC-8		mt	166.5	12.6	2	7	-1	1.1	4.4	783	633	K		shoemake 2025-04-25 22:06:57	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-8D	NWFC-8D_LP-DIR-T	NWFC-8		lt	73.5	78.2	2	5	0	7.9	5.3	463	343	K		shoemake 2025-04-25 22:06:57	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-8D	NWFC-8D_LP-DIR-T	NWFC-8		mt	20.2	77.0	2	3	0	1.4	5.0	783	723	K		shoemake 2025-04-25 22:06:57	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-8E		NWFC-8																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-8E	NWFC-8E_LP-DIR-T	NWFC-8		mt	8.1	74.3	2	4	0	2.0	2.8	783	723	K		shoemake 2025-04-25 22:09:22	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-8E	NWFC-8E_LP-DIR-T	NWFC-8		lt	112.7	76.4	2	6	0	13.4	9.4	463	343	K		shoemake 2025-04-25 22:09:22	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-8E	NWFC-8E_LP-DIR-T	NWFC-8		mt	171.3	14.1	2	7	-1	1.6	1.0	783	633	K		shoemake 2025-04-25 22:09:22	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-8E	NWFC-8E_LP-DIR-T	NWFC-8		lt	197.4	8.7	2	4	-1	22.9	4.2	463	373	K		shoemake 2025-04-25 22:09:22	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-8F	NWFC-8F_LP-DIR-T	NWFC-8		mt	167.8	14.4	2	6	-1	0.2	2.3	783	633	K		shoemake 2025-04-25 22:11:48	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-8F	NWFC-8F_LP-DIR-T	NWFC-8		lt	90.9	79.0	2	5	0	11.2	0.4	463	343	K		shoemake 2025-04-25 22:11:48	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-8F	NWFC-8F_LP-DIR-T	NWFC-8		mt	7.6	74.4	2	3	0	1.8	5.7	783	723	K		shoemake 2025-04-25 22:11:48	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-8F		NWFC-8																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-8F	NWFC-8F_LP-DIR-T	NWFC-8		lt	183.5	9.0	2	5	-1	11.2	0.4	463	343	K		shoemake 2025-04-25 22:11:48	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-8G		NWFC-8																	This study	LP-NOMAG				NWFC	NWFC
-NWFC-8G	NWFC-8G_LP-DIR-T	NWFC-8		Fit 2	55.8	80.3	2	17	0	3.7	5.6	753	273	K		shoemake 2025-04-09 18:42:58	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-8G	NWFC-8G_LP-DIR-T	NWFC-8		lt	183.1	8.5	2	4	-1	9.1	1.5	433	343	K		shoemake 2025-04-09 18:42:58	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-8G	NWFC-8G_LP-DIR-T	NWFC-8		Fit 2	171.4	11.0	2	6	-1	0.8	2.3	753	633	K		shoemake 2025-04-09 18:42:58	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			NWFC	NWFC
-NWFC-8G	NWFC-8G_LP-DIR-T	NWFC-8		lt	95.9	78.1	2	5	0	12.2	3.1	463	343	K		shoemake 2025-04-09 18:42:58	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			NWFC	NWFC
-NWFC-8H		NWFC-8																	This study	LP-NOMAG				NWFC	NWFC
-PKQA-0A	PKQA-0A_LP-DIR-T	PKQA-0		mt	211.8	48.2	2	7	-1	1.5	2.0	783	603	K		shoemake 2025-02-28 16:37:12	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-0A	PKQA-0A_LP-DIR-T	PKQA-0		lt	232.0	44.7	2	4	-1	12.1	5.5	403	77	K		shoemake 2025-02-28 16:37:12	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-0A		PKQA-0																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-0A	PKQA-0A_LP-DIR-T	PKQA-0		mt	189.8	46.9	2	7	0	1.5	2.0	783	603	K		shoemake 2025-02-28 16:37:12	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-0A	PKQA-0A_LP-DIR-T	PKQA-0		lt	176.5	36.5	2	4	0	12.1	5.5	403	77	K		shoemake 2025-02-28 16:37:12	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-0B		PKQA-0																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-0B	PKQA-0B_LP-DIR-T	PKQA-0		lt	216.5	42.8	2	5	-1	2.0	7.1	463	343	K		shoemake 2025-02-28 16:39:43	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-0B	PKQA-0B_LP-DIR-T	PKQA-0		mt	215.3	45.1	2	7	-1	1.8	3.1	783	603	K		shoemake 2025-02-28 16:39:43	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-0B	PKQA-0B_LP-DIR-T	PKQA-0		lt	180.5	47.5	2	5	0	2.0	7.1	463	343	K		shoemake 2025-02-28 16:39:43	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-0B	PKQA-0B_LP-DIR-T	PKQA-0		mt	189.6	48.9	2	3	0	19.0	22.5	783	723	K		shoemake 2025-02-28 16:39:43	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-0C	PKQA-0C_LP-DIR-T	PKQA-0		mt	180.7	46.9	1	3	0	14.5	5.0	783	723	K		shoemake 2025-02-28 16:58:36	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-0C		PKQA-0																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-0C	PKQA-0C_LP-DIR-T	PKQA-0		mt	216.0	44.4	1	7	-1	1.4	0.2	783	603	K		shoemake 2025-02-28 16:58:36	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-0D	PKQA-0D_LP-DIR-T	PKQA-0		lt	221.0	42.4	2	7	-1	5.0	14.3	463	343	K		shoemake 2025-02-28 17:01:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-0D	PKQA-0D_LP-DIR-T	PKQA-0		mt	208.4	43.9	2	7	-1	2.0	2.0	783	603	K		shoemake 2025-02-28 17:01:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-0D	PKQA-0D_LP-DIR-T	PKQA-0		lt	177.6	44.7	2	7	0	5.0	14.3	463	343	K		shoemake 2025-02-28 17:01:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-0D	PKQA-0D_LP-DIR-T	PKQA-0		mt	176.8	47.9	2	3	0	16.5	4.9	783	723	K		shoemake 2025-02-28 17:01:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-0D		PKQA-0																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-0E	PKQA-0E_LP-DIR-T	PKQA-0		lt	176.7	35.9	2	4	-1	27.7	3.6	373	77	K		shoemake 2025-02-28 17:03:35	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-0E	PKQA-0E_LP-DIR-T	PKQA-0		mt	205.2	41.6	2	3	-1	7.8	1.8	783	723	K		shoemake 2025-02-28 17:03:35	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-0E	PKQA-0E_LP-DIR-T	PKQA-0		lt	174.3	43.6	2	5	0	8.9	8.8	463	343	K		shoemake 2025-02-28 17:03:35	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-0E	PKQA-0E_LP-DIR-T	PKQA-0		mt	187.2	54.8	2	3	0	7.8	1.8	783	723	K		shoemake 2025-02-28 17:03:35	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-0E		PKQA-0																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-0F		PKQA-0																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-0F	PKQA-0F_LP-DIR-T	PKQA-0		mt	189.3	54.3	1	6	0	0.9	2.5	753	603	K		shoemake 2025-02-23 19:28:10	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-0F	PKQA-0F_LP-DIR-T	PKQA-0		mt	204.5	42.9	1	6	-1	0.9	2.5	753	603	K		shoemake 2025-02-23 19:28:10	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-0G		PKQA-0																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-0H		PKQA-0																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-1A		PKQA-1																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-1B	PKQA-1B_LP-DIR-T	PKQA-1		lt	304.8	64.8	2	5	0	6.4	6.1	463	343	K		shoemake 2025-02-27 15:11:09	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-1B	PKQA-1B_LP-DIR-T	PKQA-1		lt	155.5	29.9	2	5	-1	6.4	6.1	463	343	K		shoemake 2025-02-27 15:11:09	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-1B		PKQA-1																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-1B	PKQA-1B_LP-DIR-T	PKQA-1		mt	154.3	36.5	2	3	-1	1.9	6.0	783	723	K		shoemake 2025-02-27 15:11:09	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-1B	PKQA-1B_LP-DIR-T	PKQA-1		mt	293.1	60.8	2	3	0	1.9	6.0	783	723	K		shoemake 2025-02-27 15:11:09	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-1C	PKQA-1C_LP-DIR-T	PKQA-1		lt	212.0	17.3	2	5	-1	55.3	6.4	373	273	K		shoemake 2025-02-27 15:13:36	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-1C	PKQA-1C_LP-DIR-T	PKQA-1		mt	154.8	39.1	2	4	-1	1.7	4.9	783	693	K		shoemake 2025-02-27 15:13:36	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-1C	PKQA-1C_LP-DIR-T	PKQA-1		lt	307.7	60.6	2	5	0	4.9	14.2	463	343	K		shoemake 2025-02-27 15:13:36	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-1C	PKQA-1C_LP-DIR-T	PKQA-1		mt	288.6	59.5	2	5	0	1.5	4.3	783	663	K		shoemake 2025-02-27 15:13:36	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-1C		PKQA-1																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-1D		PKQA-1																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-1D	PKQA-1D_LP-DIR-T	PKQA-1		lt	312.5	57.2	2	6	0	5.7	21.2	463	343	K		shoemake 2025-02-27 15:45:54	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-1D	PKQA-1D_LP-DIR-T	PKQA-1		mt	280.1	66.9	2	5	0	6.3	7.5	783	663	K		shoemake 2025-02-27 15:45:54	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-1D	PKQA-1D_LP-DIR-T	PKQA-1		mt	153.9	36.4	2	3	-1	1.0	2.3	783	723	K		shoemake 2025-02-27 15:45:54	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-1D	PKQA-1D_LP-DIR-T	PKQA-1		lt	229.5	5.6	2	4	-1	73.9	2.9	343	273	K		shoemake 2025-02-27 15:45:54	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-1E		PKQA-1																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-2A		PKQA-2																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-2B	PKQA-2B_LP-DIR-T	PKQA-2		mt	300.6	75.4	1	5	0	13.4	17.5	783	663	K		shoemake 2025-02-27 15:48:21	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-2B	PKQA-2B_LP-DIR-T	PKQA-2		mt	144.1	18.3	1	3	-1	2.5	18.3	783	723	K		shoemake 2025-02-27 15:48:21	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-2B		PKQA-2																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-2C	PKQA-2C_LP-DIR-T	PKQA-2		mt	161.3	18.3	1	3	-1	3.3	11.0	783	723	K		shoemake 2025-02-27 15:50:49	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-2C		PKQA-2																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-2C	PKQA-2C_LP-DIR-T	PKQA-2		mt	295.9	76.5	1	5	0	6.1	7.3	783	663	K		shoemake 2025-02-27 15:50:49	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-2D		PKQA-2																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-2D	PKQA-2D_LP-DIR-T	PKQA-2		mt	297.8	76.9	2	4	0	10.0	9.3	783	663	K		shoemake 2025-02-27 15:53:19	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-2D	PKQA-2D_LP-DIR-T	PKQA-2		mt	166.2	19.1	2	4	-1	10.0	9.3	783	663	K		shoemake 2025-02-27 15:53:19	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-2D	PKQA-2D_LP-DIR-T	PKQA-2		lt	187.3	13.5	2	4	-1	23.6	4.5	433	343	K		shoemake 2025-02-27 15:53:19	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-2D	PKQA-2D_LP-DIR-T	PKQA-2		lt	297.8	-3.3	2	4	0	76.3	6.4	343	273	K		shoemake 2025-02-27 15:53:19	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-2E	PKQA-2E_LP-DIR-T	PKQA-2		lt	217.8	7.9	2	4	-1	57.3	15.7	373	77	K		shoemake 2025-02-27 15:55:50	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-2E		PKQA-2																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-2E	PKQA-2E_LP-DIR-T	PKQA-2		mt	158.9	18.3	2	5	-1	4.3	7.2	783	663	K		shoemake 2025-02-27 15:55:50	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-2E	PKQA-2E_LP-DIR-T	PKQA-2		lt	311.8	66.1	2	5	0	3.9	11.8	463	343	K		shoemake 2025-02-27 15:55:50	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-2E	PKQA-2E_LP-DIR-T	PKQA-2		mt	300.7	69.9	2	5	0	4.3	7.2	783	663	K		shoemake 2025-02-27 15:55:50	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-2F	PKQA-2F_LP-DIR-T	PKQA-2		mt	145.8	18.6	1	4	-1	6.7	6.9	783	663	K		shoemake 2025-02-27 17:45:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-2F	PKQA-2F_LP-DIR-T	PKQA-2		mt	299.2	63.6	1	7	0	1.6	6.7	783	573	K		shoemake 2025-02-27 17:45:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-2F		PKQA-2																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-2G	PKQA-2G_LP-DIR-T	PKQA-2		lt	221.4	9.7	2	5	-1	61.1	15.8	373	273	K		shoemake 2025-02-27 17:53:11	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-2G	PKQA-2G_LP-DIR-T	PKQA-2		mt	152.1	20.7	2	3	-1	1.5	20.2	783	723	K		shoemake 2025-02-27 17:53:11	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-2G	PKQA-2G_LP-DIR-T	PKQA-2		lt	119.0	49.0	2	5	0	61.1	15.8	373	273	K		shoemake 2025-02-27 17:53:11	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-2G	PKQA-2G_LP-DIR-T	PKQA-2		mt	296.5	67.5	2	8	0	4.0	7.8	783	573	K		shoemake 2025-02-27 17:53:11	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-2G		PKQA-2																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-2H		PKQA-2																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-2H	PKQA-2H_LP-DIR-T	PKQA-2		mt	159.2	22.5	1	3	-1	8.1	11.2	783	723	K		shoemake 2025-02-27 21:43:21	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-2H	PKQA-2H_LP-DIR-T	PKQA-2		mt	296.9	69.2	1	8	0	5.8	5.4	783	573	K		shoemake 2025-02-27 21:43:21	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-2I		PKQA-2																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-2I	PKQA-2I_LP-DIR-T	PKQA-2		lt	313.0	69.8	2	5	0	5.2	11.7	463	343	K		shoemake 2025-02-27 21:45:45	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-2I	PKQA-2I_LP-DIR-T	PKQA-2		mt	296.0	62.7	2	8	0	2.4	7.6	783	573	K		shoemake 2025-02-27 21:45:45	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-2I	PKQA-2I_LP-DIR-T	PKQA-2		lt	159.4	14.1	2	5	-1	5.2	11.7	463	343	K		shoemake 2025-02-27 21:45:45	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-2I	PKQA-2I_LP-DIR-T	PKQA-2		mt	190.2	20.5	2	3	-1	32.4	23.8	783	723	K		shoemake 2025-02-27 21:45:45	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-2J		PKQA-2																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-2J	PKQA-2J_LP-DIR-T	PKQA-2		mt	158.1	16.5	1	18	-1	2.8	4.4	753	273	K		shoemake 2025-02-22 10:45:22	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-2J	PKQA-2J_LP-DIR-T	PKQA-2		mt	295.9	55.8	1	7	0	8.7	4.8	753	573	K		shoemake 2025-02-22 10:45:22	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-2K		PKQA-2																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-2K	PKQA-2K_LP-DIR-T	PKQA-2		mt	155.0	16.1	2	17	-1	3.0	7.7	753	77	K		shoemake 2025-02-22 10:47:50	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-2K	PKQA-2K_LP-DIR-T	PKQA-2		mt	293.8	63.7	2	7	0	0.6	4.8	753	573	K		shoemake 2025-02-22 10:47:50	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-2K	PKQA-2K_LP-DIR-T	PKQA-2		lt	111.4	64.5	2	4	0	49.5	6.1	373	77	K		shoemake 2025-02-22 10:47:50	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-2K	PKQA-2K_LP-DIR-T	PKQA-2		lt	155.0	16.1	2	17	-1	3.0	7.7	753	77	K		shoemake 2025-02-22 10:47:50	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-2L		PKQA-2																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-2M		PKQA-2																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-3A		PKQA-3																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-3B	PKQA-3B_LP-DIR-T	PKQA-3		mt	314.4	73.4	1	8	0	0.9	4.6	783	573	K		shoemake 2025-02-27 21:56:33	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-3B		PKQA-3																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-3B	PKQA-3B_LP-DIR-T	PKQA-3		mt	110.1	13.5	1	3	-1	49.9	8.2	783	723	K		shoemake 2025-02-27 21:56:33	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-3C	PKQA-3C_LP-DIR-T	PKQA-3		lt	188.8	23.1	2	5	-1	27.1	16.4	463	343	K		shoemake 2025-02-27 21:59:02	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-3C	PKQA-3C_LP-DIR-T	PKQA-3		mt	162.6	32.2	2	7	-1	1.3	5.1	783	573	K		shoemake 2025-02-27 21:59:02	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-3C	PKQA-3C_LP-DIR-T	PKQA-3		lt	45.9	70.6	2	5	0	27.1	16.4	463	343	K		shoemake 2025-02-27 21:59:02	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-3C		PKQA-3																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-3C	PKQA-3C_LP-DIR-T	PKQA-3		mt	308.5	69.3	2	4	0	3.6	1.4	783	663	K		shoemake 2025-02-27 21:59:02	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-3D		PKQA-3																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-3D	PKQA-3D_LP-DIR-T	PKQA-3		mt	111.3	27.2	1	3	-1	40.6	18.7	783	723	K		shoemake 2025-02-27 22:01:32	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-3D	PKQA-3D_LP-DIR-T	PKQA-3		mt	315.8	74.0	1	6	0	2.7	3.5	783	633	K		shoemake 2025-02-27 22:01:32	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-3E		PKQA-3																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-3E	PKQA-3E_LP-DIR-T	PKQA-3		lt	16.6	73.9	2	5	0	21.4	17.6	463	343	K		shoemake 2025-02-27 23:48:21	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-3E	PKQA-3E_LP-DIR-T	PKQA-3		mt	82.7	71.2	2	3	0	36.1	17.2	783	723	K		shoemake 2025-02-27 23:48:21	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-3E	PKQA-3E_LP-DIR-T	PKQA-3		mt	199.3	30.5	2	3	-1	36.1	17.2	783	723	K		shoemake 2025-02-27 23:48:21	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-3E	PKQA-3E_LP-DIR-T	PKQA-3		lt	178.7	24.9	2	5	-1	21.4	17.6	463	343	K		shoemake 2025-02-27 23:48:21	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-3F		PKQA-3																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-3F	PKQA-3F_LP-DIR-T	PKQA-3		mt	188.4	18.2	2	3	-1	29.9	25.0	783	723	K		shoemake 2025-02-28 01:59:48	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-3F	PKQA-3F_LP-DIR-T	PKQA-3		lt	5.4	74.5	2	5	0	16.3	11.5	463	343	K		shoemake 2025-02-28 01:59:48	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-3F	PKQA-3F_LP-DIR-T	PKQA-3		lt	175.5	26.0	2	5	-1	16.3	11.5	463	343	K		shoemake 2025-02-28 01:59:48	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-3F	PKQA-3F_LP-DIR-T	PKQA-3		mt	40.8	66.1	2	3	0	29.9	25.0	783	723	K		shoemake 2025-02-28 01:59:48	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-3G		PKQA-3																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-3H		PKQA-3																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-4A		PKQA-4																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-4B	PKQA-4B_LP-DIR-T	PKQA-4		lt	319.1	68.1	2	5	0	4.7	26.2	463	343	K		shoemake 2025-02-28 02:03:04	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-4B		PKQA-4																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-4B	PKQA-4B_LP-DIR-T	PKQA-4		mt	181.1	5.8	2	3	-1	51.9	17.9	783	723	K		shoemake 2025-02-28 02:03:04	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-4B	PKQA-4B_LP-DIR-T	PKQA-4		mt	42.0	47.8	2	3	0	51.9	17.9	783	723	K		shoemake 2025-02-28 02:03:04	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-4B	PKQA-4B_LP-DIR-T	PKQA-4		lt	150.9	40.7	2	5	-1	4.7	26.2	463	343	K		shoemake 2025-02-28 02:03:04	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-4C	PKQA-4C_LP-DIR-T	PKQA-4		mt	162.0	9.6	2	3	-1	51.7	30.4	783	723	K		shoemake 2025-02-28 02:07:23	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-4C	PKQA-4C_LP-DIR-T	PKQA-4		mt	13.0	48.7	2	3	0	51.7	30.4	783	723	K		shoemake 2025-02-28 02:07:23	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-4C	PKQA-4C_LP-DIR-T	PKQA-4		lt	63.7	75.8	2	5	0	24.6	14.7	463	343	K		shoemake 2025-02-28 02:07:23	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-4C	PKQA-4C_LP-DIR-T	PKQA-4		lt	186.8	34.7	2	5	-1	24.6	14.7	463	343	K		shoemake 2025-02-28 02:07:23	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-4C		PKQA-4																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-4D	PKQA-4D_LP-DIR-T	PKQA-4		mt	185.5	-23.5	2	3	0	102.9	44.8	783	723	K		shoemake 2025-02-28 02:09:53	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-4D	PKQA-4D_LP-DIR-T	PKQA-4		lt	341.7	77.8	2	5	0	9.5	16.7	463	343	K		shoemake 2025-02-28 02:09:53	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-4D	PKQA-4D_LP-DIR-T	PKQA-4		mt	327.5	11.9	2	3	-1	102.9	44.8	783	723	K		shoemake 2025-02-28 02:09:53	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-4D	PKQA-4D_LP-DIR-T	PKQA-4		lt	166.2	40.8	2	5	-1	9.5	16.7	463	343	K		shoemake 2025-02-28 02:09:53	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-4D		PKQA-4																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-4E	PKQA-4E_LP-DIR-T	PKQA-4		mt	235.5	-19.9	2	3	0	86.2	26.4	783	723	K		shoemake 2025-02-28 02:12:20	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-4E	PKQA-4E_LP-DIR-T	PKQA-4		lt	344.3	78.8	2	5	0	9.7	6.2	463	343	K		shoemake 2025-02-28 02:12:20	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-4E	PKQA-4E_LP-DIR-T	PKQA-4		mt	15.2	20.8	2	3	-1	86.2	26.4	783	723	K		shoemake 2025-02-28 02:12:20	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-4E	PKQA-4E_LP-DIR-T	PKQA-4		lt	167.7	41.0	2	5	-1	9.7	6.2	463	343	K		shoemake 2025-02-28 02:12:20	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-4E		PKQA-4																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-4F		PKQA-4																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-4F	PKQA-4F_LP-DIR-T	PKQA-4		lt	148.3	41.8	1	5	-1	8.2	13.2	463	343	K		shoemake 2024-12-06 15:47:24	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-4F	PKQA-4F_LP-DIR-T	PKQA-4		lt	314.1	66.9	1	5	0	8.2	13.2	463	343	K		shoemake 2024-12-06 15:47:24	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-4G	PKQA-4G_LP-DIR-T	PKQA-4		lt	188.8	35.9	1	5	-1	24.4	12.7	463	343	K		shoemake 2024-12-06 15:49:55	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-4G		PKQA-4																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-4G	PKQA-4G_LP-DIR-T	PKQA-4		lt	71.8	76.3	1	5	0	24.4	12.7	463	343	K		shoemake 2024-12-06 15:49:55	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-4H		PKQA-4																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-5A		PKQA-5																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-5B	PKQA-5B_LP-DIR-T	PKQA-5		mt	273.7	29.2	2	3	-1	25.4	7.0	783	723	K		shoemake 2025-02-28 02:19:49	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5B	PKQA-5B_LP-DIR-T	PKQA-5		lt	134.6	15.4	2	5	0	0.9	21.6	463	343	K		shoemake 2025-02-28 02:19:49	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5B	PKQA-5B_LP-DIR-T	PKQA-5		mt	124.4	16.1	2	3	0	25.4	7.0	783	723	K		shoemake 2025-02-28 02:19:49	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5B		PKQA-5																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-5B	PKQA-5B_LP-DIR-T	PKQA-5		lt	281.8	36.5	2	5	-1	0.9	21.6	463	343	K		shoemake 2025-02-28 02:19:49	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5C	PKQA-5C_LP-DIR-T	PKQA-5		lt	129.6	17.7	2	5	0	4.6	14.8	463	343	K		shoemake 2025-02-28 02:22:21	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5C	PKQA-5C_LP-DIR-T	PKQA-5		lt	275.8	34.1	2	5	-1	4.6	14.8	463	343	K		shoemake 2025-02-28 02:22:21	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5C		PKQA-5																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-5C	PKQA-5C_LP-DIR-T	PKQA-5		mt	109.0	14.8	2	3	0	50.4	8.0	783	723	K		shoemake 2025-02-28 02:22:21	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5C	PKQA-5C_LP-DIR-T	PKQA-5		mt	264.8	16.8	2	3	-1	50.4	8.0	783	723	K		shoemake 2025-02-28 02:22:21	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5D	PKQA-5D_LP-DIR-T	PKQA-5		mt	259.8	27.1	2	3	-1	56.8	5.9	783	723	K		shoemake 2025-02-28 11:25:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5D	PKQA-5D_LP-DIR-T	PKQA-5		lt	262.7	32.9	2	5	-1	15.7	13.9	463	343	K		shoemake 2025-02-28 11:25:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5D		PKQA-5																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-5D	PKQA-5D_LP-DIR-T	PKQA-5		lt	121.6	25.9	2	5	0	15.7	13.9	463	343	K		shoemake 2025-02-28 11:25:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5D	PKQA-5D_LP-DIR-T	PKQA-5		mt	114.8	24.7	2	3	0	56.8	5.9	783	723	K		shoemake 2025-02-28 11:25:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5E		PKQA-5																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-5E	PKQA-5E_LP-DIR-T	PKQA-5		lt	257.6	33.4	2	5	-1	17.6	13.4	463	343	K		shoemake 2025-02-28 11:39:24	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5E	PKQA-5E_LP-DIR-T	PKQA-5		mt	268.0	26.0	2	3	-1	52.7	20.8	783	723	K		shoemake 2025-02-28 11:39:24	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5E	PKQA-5E_LP-DIR-T	PKQA-5		mt	118.4	18.2	2	3	0	52.7	20.8	783	723	K		shoemake 2025-02-28 11:39:24	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5E	PKQA-5E_LP-DIR-T	PKQA-5		lt	119.5	29.8	2	5	0	17.6	13.4	463	343	K		shoemake 2025-02-28 11:39:24	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5F		PKQA-5																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-5F	PKQA-5F_LP-DIR-T	PKQA-5		lt	225.9	21.0	2	5	-1	51.3	22.6	463	343	K		shoemake 2025-02-28 12:29:31	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5F	PKQA-5F_LP-DIR-T	PKQA-5		mt	252.6	22.6	2	3	-1	68.5	14.0	783	723	K		shoemake 2025-02-28 12:29:31	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5F	PKQA-5F_LP-DIR-T	PKQA-5		lt	86.2	46.5	2	5	0	51.3	22.6	463	343	K		shoemake 2025-02-28 12:29:31	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5F	PKQA-5F_LP-DIR-T	PKQA-5		mt	106.4	27.4	2	3	0	68.5	14.0	783	723	K		shoemake 2025-02-28 12:29:31	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5G	PKQA-5G_LP-DIR-T	PKQA-5		lt	108.9	38.0	2	7	0	31.4	35.2	463	343	K		shoemake 2025-02-28 12:31:58	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5G		PKQA-5																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-5G	PKQA-5G_LP-DIR-T	PKQA-5		mt	63.0	-39.1	2	3	-1	109.7	17.9	783	723	K		shoemake 2025-02-28 12:31:58	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5G	PKQA-5G_LP-DIR-T	PKQA-5		lt	244.0	30.1	2	7	-1	31.4	35.2	463	343	K		shoemake 2025-02-28 12:31:58	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5G	PKQA-5G_LP-DIR-T	PKQA-5		mt	299.0	-42.8	2	3	0	109.7	17.9	783	723	K		shoemake 2025-02-28 12:31:58	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5H	PKQA-5H_LP-DIR-T	PKQA-5		mt	310.7	-31.6	2	3	0	120.9	16.9	783	723	K		shoemake 2025-02-28 12:34:24	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5H	PKQA-5H_LP-DIR-T	PKQA-5		lt	111.3	36.2	2	5	0	27.5	34.4	463	343	K		shoemake 2025-02-28 12:34:24	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5H	PKQA-5H_LP-DIR-T	PKQA-5		mt	81.9	-42.7	2	3	-1	120.9	16.9	783	723	K		shoemake 2025-02-28 12:34:24	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5H	PKQA-5H_LP-DIR-T	PKQA-5		lt	246.9	30.9	2	5	-1	27.5	34.4	463	343	K		shoemake 2025-02-28 12:34:24	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5H		PKQA-5																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-5I	PKQA-5I_LP-DIR-T	PKQA-5		lt	294.0	37.1	2	5	-1	11.1	26.8	463	343	K		shoemake 2025-02-28 12:36:52	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5I	PKQA-5I_LP-DIR-T	PKQA-5		mt	293.9	-33.5	2	3	0	110.5	12.5	783	723	K		shoemake 2025-02-28 12:36:52	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5I	PKQA-5I_LP-DIR-T	PKQA-5		lt	141.9	8.7	2	5	0	11.1	26.8	463	343	K		shoemake 2025-02-28 12:36:52	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5I		PKQA-5																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-5I	PKQA-5I_LP-DIR-T	PKQA-5		mt	70.9	-31.3	2	3	-1	110.5	12.5	783	723	K		shoemake 2025-02-28 12:36:52	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5J		PKQA-5																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-5J	PKQA-5J_LP-DIR-T	PKQA-5		mt	83.0	-36.0	2	3	-1	122.1	23.5	783	723	K		shoemake 2025-02-28 12:39:21	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5J	PKQA-5J_LP-DIR-T	PKQA-5		lt	158.0	-11.9	2	6	0	37.6	29.2	463	343	K		shoemake 2025-02-28 12:39:21	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5J	PKQA-5J_LP-DIR-T	PKQA-5		mt	304.7	-27.4	2	3	0	122.1	23.5	783	723	K		shoemake 2025-02-28 12:39:21	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5J	PKQA-5J_LP-DIR-T	PKQA-5		lt	324.1	29.7	2	6	-1	37.6	29.2	463	343	K		shoemake 2025-02-28 12:39:21	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5K	PKQA-5K_LP-DIR-T	PKQA-5		lt	333.8	28.8	1	5	-1	38.1	39.2	463	343	K		shoemake 2025-02-24 10:35:53	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5K	PKQA-5K_LP-DIR-T	PKQA-5		lt	165.7	-16.1	1	5	0	38.1	39.2	463	343	K		shoemake 2025-02-24 10:35:53	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5K		PKQA-5																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-5L	PKQA-5L_LP-DIR-T	PKQA-5		mt	285.4	-54.4	2	3	0	90.6	29.9	783	723	K		shoemake 2025-02-28 12:44:23	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5L		PKQA-5																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-5L	PKQA-5L_LP-DIR-T	PKQA-5		lt	343.2	24.2	2	5	-1	47.7	23.1	463	343	K		shoemake 2025-02-28 12:44:23	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5L	PKQA-5L_LP-DIR-T	PKQA-5		mt	45.3	-35.4	2	3	-1	90.6	29.9	783	723	K		shoemake 2025-02-28 12:44:23	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5L	PKQA-5L_LP-DIR-T	PKQA-5		lt	172.7	-22.9	2	5	0	47.7	23.1	463	343	K		shoemake 2025-02-28 12:44:23	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5M		PKQA-5																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-5M	PKQA-5M_LP-DIR-T	PKQA-5		mt	95.3	45.0	2	3	0	92.4	16.7	783	723	K		shoemake 2025-02-28 12:46:52	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5M	PKQA-5M_LP-DIR-T	PKQA-5		lt	209.4	4.5	2	6	-1	84.7	17.9	463	343	K		shoemake 2025-02-28 12:46:52	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5M	PKQA-5M_LP-DIR-T	PKQA-5		mt	231.2	25.2	2	3	-1	92.4	16.7	783	723	K		shoemake 2025-02-28 12:46:52	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5M	PKQA-5M_LP-DIR-T	PKQA-5		lt	53.2	44.9	2	6	0	84.7	17.9	463	343	K		shoemake 2025-02-28 12:46:52	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5N	PKQA-5N_LP-DIR-T	PKQA-5		lt	75.1	51.4	2	5	0	61.1	31.8	463	343	K		shoemake 2025-02-28 13:08:18	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5N	PKQA-5N_LP-DIR-T	PKQA-5		lt	216.9	18.6	2	5	-1	61.1	31.8	463	343	K		shoemake 2025-02-28 13:08:18	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5N	PKQA-5N_LP-DIR-T	PKQA-5		mt	329.8	-41.6	2	3	-1	70.1	36.4	783	723	K		shoemake 2025-02-28 13:08:18	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5N		PKQA-5																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-5N	PKQA-5N_LP-DIR-T	PKQA-5		mt	87.8	-67.4	2	3	0	70.1	36.4	783	723	K		shoemake 2025-02-28 13:08:18	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5O	PKQA-5O_LP-DIR-T	PKQA-5		mt	158.9	-13.2	2	3	0	5.1	34.9	783	723	K		shoemake 2025-02-28 13:10:47	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5O	PKQA-5O_LP-DIR-T	PKQA-5		lt	54.0	50.2	2	5	0	74.6	26.3	463	343	K		shoemake 2025-02-28 13:10:47	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5O	PKQA-5O_LP-DIR-T	PKQA-5		mt	325.7	28.9	2	3	-1	5.1	34.9	783	723	K		shoemake 2025-02-28 13:10:47	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5O		PKQA-5																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-5O	PKQA-5O_LP-DIR-T	PKQA-5		lt	207.1	9.2	2	5	-1	74.6	26.3	463	343	K		shoemake 2025-02-28 13:10:47	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5P		PKQA-5																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-5P	PKQA-5P_LP-DIR-T	PKQA-5		lt	243.3	30.2	2	5	-1	34.4	12.3	463	343	K		shoemake 2025-02-28 13:13:14	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5P	PKQA-5P_LP-DIR-T	PKQA-5		mt	321.7	24.7	2	3	-1	8.2	17.0	783	723	K		shoemake 2025-02-28 13:13:14	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-5P	PKQA-5P_LP-DIR-T	PKQA-5		lt	108.6	38.5	2	5	0	34.4	12.3	463	343	K		shoemake 2025-02-28 13:13:14	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5P	PKQA-5P_LP-DIR-T	PKQA-5		mt	153.7	-15.3	2	3	0	8.2	17.0	783	723	K		shoemake 2025-02-28 13:13:14	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-5Q		PKQA-5																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-6A		PKQA-6																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-6B	PKQA-6B_LP-DIR-T	PKQA-6		lt	272.7	21.0	2	5	-1	13.3	4.2	463	343	K		shoemake 2025-02-28 13:15:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-6B	PKQA-6B_LP-DIR-T	PKQA-6		mt	295.4	23.1	2	3	-1	12.5	7.3	783	723	K		shoemake 2025-02-28 13:15:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-6B	PKQA-6B_LP-DIR-T	PKQA-6		mt	134.2	-5.1	2	3	0	12.5	7.3	783	723	K		shoemake 2025-02-28 13:15:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-6B	PKQA-6B_LP-DIR-T	PKQA-6		lt	119.5	10.1	2	5	0	13.3	4.2	463	343	K		shoemake 2025-02-28 13:15:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-6B		PKQA-6																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-6C		PKQA-6																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-6C	PKQA-6C_LP-DIR-T	PKQA-6		mt	137.3	-7.8	2	3	0	2.8	2.4	783	723	K		shoemake 2025-02-28 13:18:09	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-6C	PKQA-6C_LP-DIR-T	PKQA-6		lt	115.3	13.7	2	5	0	22.1	15.7	463	343	K		shoemake 2025-02-28 13:18:09	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-6C	PKQA-6C_LP-DIR-T	PKQA-6		mt	299.9	23.5	2	3	-1	2.8	2.4	783	723	K		shoemake 2025-02-28 13:18:09	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-6C	PKQA-6C_LP-DIR-T	PKQA-6		lt	267.1	19.7	2	5	-1	22.1	15.7	463	343	K		shoemake 2025-02-28 13:18:09	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-6D	PKQA-6D_LP-DIR-T	PKQA-6		mt	313.5	26.4	2	3	-1	8.6	12.3	783	723	K		shoemake 2025-02-28 13:20:38	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-6D	PKQA-6D_LP-DIR-T	PKQA-6		lt	277.7	20.4	2	6	-1	12.9	8.9	463	343	K		shoemake 2025-02-28 13:20:38	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-6D	PKQA-6D_LP-DIR-T	PKQA-6		lt	121.6	5.9	2	6	0	12.9	8.9	463	343	K		shoemake 2025-02-28 13:20:38	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-6D	PKQA-6D_LP-DIR-T	PKQA-6		mt	148.7	-13.8	2	3	0	8.6	12.3	783	723	K		shoemake 2025-02-28 13:20:38	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-6D		PKQA-6																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-6E		PKQA-6																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-6E	PKQA-6E_LP-DIR-T	PKQA-6		lt	276.9	20.4	2	5	-1	14.5	10.6	463	343	K		shoemake 2025-02-28 13:23:10	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-6E	PKQA-6E_LP-DIR-T	PKQA-6		mt	300.6	26.0	2	3	-1	1.9	4.2	783	723	K		shoemake 2025-02-28 13:23:10	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-6E	PKQA-6E_LP-DIR-T	PKQA-6		lt	121.2	6.5	2	5	0	14.5	10.6	463	343	K		shoemake 2025-02-28 13:23:10	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-6E	PKQA-6E_LP-DIR-T	PKQA-6		mt	139.5	-6.5	2	3	0	1.9	4.2	783	723	K		shoemake 2025-02-28 13:23:10	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-6F	PKQA-6F_LP-DIR-T	PKQA-6		lt	115.1	13.7	2	6	0	17.4	10.4	463	343	K		shoemake 2025-02-28 13:25:42	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-6F		PKQA-6																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-6F	PKQA-6F_LP-DIR-T	PKQA-6		lt	266.9	19.5	2	6	-1	17.4	10.4	463	343	K		shoemake 2025-02-28 13:25:42	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-6F	PKQA-6F_LP-DIR-T	PKQA-6		mt	313.4	24.3	2	3	-1	13.2	2.0	783	723	K		shoemake 2025-02-28 13:25:42	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-6F	PKQA-6F_LP-DIR-T	PKQA-6		mt	147.3	-15.3	2	3	0	13.2	2.0	783	723	K		shoemake 2025-02-28 13:25:42	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-6G	PKQA-6G_LP-DIR-T	PKQA-6		mt	133.6	-3.0	2	3	0	3.8	7.1	783	723	K		shoemake 2025-02-28 13:28:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-6G	PKQA-6G_LP-DIR-T	PKQA-6		lt	118.9	8.9	2	5	0	12.8	6.6	463	343	K		shoemake 2025-02-28 13:28:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-6G	PKQA-6G_LP-DIR-T	PKQA-6		mt	293.3	24.1	2	3	-1	3.8	7.1	783	723	K		shoemake 2025-02-28 13:28:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-6G	PKQA-6G_LP-DIR-T	PKQA-6		lt	273.5	19.9	2	5	-1	12.8	6.6	463	343	K		shoemake 2025-02-28 13:28:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-6G		PKQA-6																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-6H		PKQA-6																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-6H	PKQA-6H_LP-DIR-T	PKQA-6		lt	264.6	19.0	2	5	-1	22.8	6.3	463	343	K		shoemake 2025-02-28 13:37:02	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-6H	PKQA-6H_LP-DIR-T	PKQA-6		mt	307.2	25.4	2	3	-1	0.2	2.0	783	723	K		shoemake 2025-02-28 13:37:02	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-6H	PKQA-6H_LP-DIR-T	PKQA-6		lt	113.3	15.3	2	5	0	22.8	6.3	463	343	K		shoemake 2025-02-28 13:37:02	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-6H	PKQA-6H_LP-DIR-T	PKQA-6		mt	143.5	-10.9	2	3	0	0.2	2.0	783	723	K		shoemake 2025-02-28 13:37:02	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-6I	PKQA-6I_LP-DIR-T	PKQA-6		mt	143.6	-11.3	2	3	0	0.1	2.5	783	723	K		shoemake 2025-02-28 13:39:29	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-6I	PKQA-6I_LP-DIR-T	PKQA-6		lt	116.1	11.4	2	5	0	23.6	6.6	463	343	K		shoemake 2025-02-28 13:39:29	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-6I	PKQA-6I_LP-DIR-T	PKQA-6		lt	269.6	19.1	2	5	-1	23.6	6.6	463	343	K		shoemake 2025-02-28 13:39:29	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-6I		PKQA-6																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-6I	PKQA-6I_LP-DIR-T	PKQA-6		mt	307.5	25.2	2	3	-1	0.1	2.5	783	723	K		shoemake 2025-02-28 13:39:29	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-6J	PKQA-6J_LP-DIR-T	PKQA-6		mt	141.6	-9.2	2	3	0	2.9	22.3	783	723	K		shoemake 2025-02-28 13:41:56	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-6J	PKQA-6J_LP-DIR-T	PKQA-6		mt	304.3	25.5	2	3	-1	2.9	22.3	783	723	K		shoemake 2025-02-28 13:41:56	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-6J		PKQA-6																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-6J	PKQA-6J_LP-DIR-T	PKQA-6		lt	279.2	20.1	2	6	-1	12.4	9.1	463	343	K		shoemake 2025-02-28 13:41:56	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-6J	PKQA-6J_LP-DIR-T	PKQA-6		lt	122.3	4.6	2	6	0	12.4	9.1	463	343	K		shoemake 2025-02-28 13:41:56	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-6K		PKQA-6																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-6K	PKQA-6K_LP-DIR-T	PKQA-6		lt	275.9	19.0	2	5	-1	16.9	5.2	463	343	K		shoemake 2025-02-28 13:44:23	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-6K	PKQA-6K_LP-DIR-T	PKQA-6		mt	317.2	25.6	2	3	-1	8.3	3.4	783	723	K		shoemake 2025-02-28 13:44:23	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-6K	PKQA-6K_LP-DIR-T	PKQA-6		lt	119.5	6.4	2	5	0	16.9	5.2	463	343	K		shoemake 2025-02-28 13:44:23	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-6K	PKQA-6K_LP-DIR-T	PKQA-6		mt	151.0	-16.3	2	3	0	8.3	3.4	783	723	K		shoemake 2025-02-28 13:44:23	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-6L		PKQA-6																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-6M		PKQA-6																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-7A		PKQA-7																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-7B	PKQA-7B_LP-DIR-T	PKQA-7		lt	107.2	14.7	2	5	0	5.6	3.8	463	343	K		shoemake 2025-02-28 13:46:51	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-7B	PKQA-7B_LP-DIR-T	PKQA-7		mt	231.4	-32.7	2	3	-1	17.6	3.5	783	723	K		shoemake 2025-02-28 13:46:51	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-7B	PKQA-7B_LP-DIR-T	PKQA-7		lt	206.5	-38.1	2	5	-1	5.6	3.8	463	343	K		shoemake 2025-02-28 13:46:51	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-7B		PKQA-7																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-7B	PKQA-7B_LP-DIR-T	PKQA-7		mt	127.6	8.4	2	3	0	17.6	3.5	783	723	K		shoemake 2025-02-28 13:46:51	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-7C	PKQA-7C_LP-DIR-T	PKQA-7		lt	207.5	-35.5	2	5	-1	4.9	5.4	463	343	K		shoemake 2025-02-28 13:49:21	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-7C	PKQA-7C_LP-DIR-T	PKQA-7		mt	192.7	-29.3	2	3	-1	18.6	7.7	783	723	K		shoemake 2025-02-28 13:49:21	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-7C	PKQA-7C_LP-DIR-T	PKQA-7		lt	109.0	16.8	2	5	0	4.9	5.4	463	343	K		shoemake 2025-02-28 13:49:21	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-7C		PKQA-7																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-7C	PKQA-7C_LP-DIR-T	PKQA-7		mt	98.3	26.5	2	3	0	18.6	7.7	783	723	K		shoemake 2025-02-28 13:49:21	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-7D	PKQA-7D_LP-DIR-T	PKQA-7		lt	211.7	-33.0	2	5	-1	4.4	8.9	463	343	K		shoemake 2025-02-28 13:51:53	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-7D	PKQA-7D_LP-DIR-T	PKQA-7		mt	199.1	-26.0	2	3	-1	13.4	10.5	783	723	K		shoemake 2025-02-28 13:51:53	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-7D	PKQA-7D_LP-DIR-T	PKQA-7		lt	113.4	17.6	2	5	0	4.4	8.9	463	343	K		shoemake 2025-02-28 13:51:53	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-7D	PKQA-7D_LP-DIR-T	PKQA-7		mt	105.4	28.3	2	3	0	13.4	10.5	783	723	K		shoemake 2025-02-28 13:51:53	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-7D		PKQA-7																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-7E	PKQA-7E_LP-DIR-T	PKQA-7		mt	105.1	32.7	2	3	0	15.8	11.5	783	723	K		shoemake 2025-02-28 13:54:25	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-7E	PKQA-7E_LP-DIR-T	PKQA-7		lt	117.9	19.2	2	5	0	4.3	8.3	463	343	K		shoemake 2025-02-28 13:54:25	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-7E	PKQA-7E_LP-DIR-T	PKQA-7		mt	197.4	-21.9	2	3	-1	15.8	11.5	783	723	K		shoemake 2025-02-28 13:54:25	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-7E	PKQA-7E_LP-DIR-T	PKQA-7		lt	215.1	-29.5	2	5	-1	4.3	8.3	463	343	K		shoemake 2025-02-28 13:54:25	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-7E		PKQA-7																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-7F		PKQA-7																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-7F	PKQA-7F_LP-DIR-T	PKQA-7		mt	106.5	36.3	2	3	0	17.7	8.8	783	723	K		shoemake 2025-02-28 13:56:56	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-7F	PKQA-7F_LP-DIR-T	PKQA-7		lt	120.3	22.2	2	5	0	5.2	10.8	463	343	K		shoemake 2025-02-28 13:56:56	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-7F	PKQA-7F_LP-DIR-T	PKQA-7		mt	197.3	-18.0	2	3	-1	17.7	8.8	783	723	K		shoemake 2025-02-28 13:56:56	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-7F	PKQA-7F_LP-DIR-T	PKQA-7		lt	215.5	-25.8	2	5	-1	5.2	10.8	463	343	K		shoemake 2025-02-28 13:56:56	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-7G	PKQA-7G_LP-DIR-T	PKQA-7		lt	224.6	-20.7	2	5	-1	9.6	10.6	463	343	K		shoemake 2025-02-28 13:59:24	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-7G	PKQA-7G_LP-DIR-T	PKQA-7		mt	128.3	37.0	2	3	0	3.9	17.5	783	723	K		shoemake 2025-02-28 13:59:24	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-7G	PKQA-7G_LP-DIR-T	PKQA-7		mt	213.1	-9.6	2	3	-1	3.9	17.5	783	723	K		shoemake 2025-02-28 13:59:24	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-7G	PKQA-7G_LP-DIR-T	PKQA-7		lt	130.8	21.4	2	5	0	9.6	10.6	463	343	K		shoemake 2025-02-28 13:59:24	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-7G		PKQA-7																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-7H	PKQA-7H_LP-DIR-T	PKQA-7		lt	126.4	28.6	2	4	0	6.4	7.9	463	343	K		shoemake 2025-02-28 14:01:50	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-7H		PKQA-7																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-7H	PKQA-7H_LP-DIR-T	PKQA-7		mt	152.9	23.2	2	3	0	24.5	22.2	783	723	K		shoemake 2025-02-28 14:01:50	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-7H	PKQA-7H_LP-DIR-T	PKQA-7		lt	216.7	-17.4	2	4	-1	6.4	7.9	463	343	K		shoemake 2025-02-28 14:01:50	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-7H	PKQA-7H_LP-DIR-T	PKQA-7		mt	238.2	-5.0	2	3	-1	24.5	22.2	783	723	K		shoemake 2025-02-28 14:01:50	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-7I	PKQA-7I_LP-DIR-T	PKQA-7		mt	190.7	0.4	2	3	-1	21.7	14.5	783	723	K		shoemake 2025-02-28 15:22:27	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-7I	PKQA-7I_LP-DIR-T	PKQA-7		lt	227.4	-14.4	2	5	-1	14.2	10.8	463	343	K		shoemake 2025-02-28 15:22:27	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-7I	PKQA-7I_LP-DIR-T	PKQA-7		lt	137.5	24.4	2	5	0	14.2	10.8	463	343	K		shoemake 2025-02-28 15:22:27	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-7I		PKQA-7																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-7I	PKQA-7I_LP-DIR-T	PKQA-7		mt	105.2	55.8	2	3	0	21.7	14.5	783	723	K		shoemake 2025-02-28 15:22:27	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-7J		PKQA-7																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-7J	PKQA-7J_LP-DIR-T	PKQA-7		mt	148.8	40.3	2	3	0	13.5	9.6	783	723	K		shoemake 2025-02-28 15:24:54	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-7J	PKQA-7J_LP-DIR-T	PKQA-7		lt	134.6	29.9	2	5	0	11.9	8.6	463	343	K		shoemake 2025-02-28 15:24:54	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-7J	PKQA-7J_LP-DIR-T	PKQA-7		mt	222.9	3.5	2	3	-1	13.5	9.6	783	723	K		shoemake 2025-02-28 15:24:54	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-7J	PKQA-7J_LP-DIR-T	PKQA-7		lt	221.8	-12.0	2	5	-1	11.9	8.6	463	343	K		shoemake 2025-02-28 15:24:54	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-7K		PKQA-7																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-7K	PKQA-7K_LP-DIR-T	PKQA-7		mt	206.1	11.9	2	3	-1	4.5	8.1	783	723	K		shoemake 2025-02-28 15:27:22	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-7K	PKQA-7K_LP-DIR-T	PKQA-7		lt	225.1	-9.1	2	5	-1	16.3	20.0	463	343	K		shoemake 2025-02-28 15:27:22	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-7K	PKQA-7K_LP-DIR-T	PKQA-7		lt	139.7	29.9	2	5	0	16.3	20.0	463	343	K		shoemake 2025-02-28 15:27:22	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-7K	PKQA-7K_LP-DIR-T	PKQA-7		mt	140.5	58.1	2	3	0	4.5	8.1	783	723	K		shoemake 2025-02-28 15:27:22	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-7L		PKQA-7																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-8A		PKQA-8																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-8B	PKQA-8B_LP-DIR-T	PKQA-8		mt	81.1	57.3	2	3	0	34.3	10.5	783	723	K		shoemake 2025-02-28 15:29:52	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-8B	PKQA-8B_LP-DIR-T	PKQA-8		lt	130.2	35.5	2	6	0	6.0	13.6	463	343	K		shoemake 2025-02-28 15:29:52	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-8B		PKQA-8																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-8B	PKQA-8B_LP-DIR-T	PKQA-8		mt	186.9	7.9	2	3	-1	34.3	10.5	783	723	K		shoemake 2025-02-28 15:29:52	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-8B	PKQA-8B_LP-DIR-T	PKQA-8		lt	226.1	4.6	2	6	-1	6.0	13.6	463	343	K		shoemake 2025-02-28 15:29:52	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-8C	PKQA-8C_LP-DIR-T	PKQA-8		lt	225.9	6.2	2	5	-1	5.2	5.6	463	343	K		shoemake 2025-02-28 15:32:23	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-8C	PKQA-8C_LP-DIR-T	PKQA-8		mt	233.5	10.3	2	3	-1	14.8	9.4	783	723	K		shoemake 2025-02-28 15:32:23	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-8C	PKQA-8C_LP-DIR-T	PKQA-8		lt	131.4	36.8	2	5	0	5.2	5.6	463	343	K		shoemake 2025-02-28 15:32:23	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-8C		PKQA-8																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-8C	PKQA-8C_LP-DIR-T	PKQA-8		mt	141.5	34.2	2	3	0	14.8	9.4	783	723	K		shoemake 2025-02-28 15:32:23	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-8D	PKQA-8D_LP-DIR-T	PKQA-8		lt	211.0	7.4	2	5	-1	5.6	15.9	463	343	K		shoemake 2025-02-28 15:34:55	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-8D	PKQA-8D_LP-DIR-T	PKQA-8		mt	99.1	58.3	2	3	0	19.8	4.8	783	723	K		shoemake 2025-02-28 15:34:55	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-8D	PKQA-8D_LP-DIR-T	PKQA-8		lt	117.1	47.2	2	5	0	5.6	15.9	463	343	K		shoemake 2025-02-28 15:34:55	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-8D	PKQA-8D_LP-DIR-T	PKQA-8		mt	195.9	11.6	2	3	-1	19.8	4.8	783	723	K		shoemake 2025-02-28 15:34:55	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-8D		PKQA-8																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-8E	PKQA-8E_LP-DIR-T	PKQA-8		mt	171.4	52.4	2	3	0	21.2	42.6	783	723	K		shoemake 2025-02-28 15:37:25	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-8E	PKQA-8E_LP-DIR-T	PKQA-8		mt	228.9	37.9	2	3	-1	21.2	42.6	783	723	K		shoemake 2025-02-28 15:37:25	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-8E	PKQA-8E_LP-DIR-T	PKQA-8		lt	218.7	8.7	2	5	-1	2.1	13.4	463	343	K		shoemake 2025-02-28 15:37:25	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-8E		PKQA-8																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-8E	PKQA-8E_LP-DIR-T	PKQA-8		lt	126.7	43.5	2	5	0	2.1	13.4	463	343	K		shoemake 2025-02-28 15:37:25	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-8F		PKQA-8																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-8F	PKQA-8F_LP-DIR-T	PKQA-8		lt	216.8	9.6	2	5	-1	3.2	17.1	463	343	K		shoemake 2025-02-28 15:39:53	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-8F	PKQA-8F_LP-DIR-T	PKQA-8		mt	207.5	20.0	2	3	-1	7.6	14.4	783	723	K		shoemake 2025-02-28 15:39:53	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-8F	PKQA-8F_LP-DIR-T	PKQA-8		lt	125.6	45.4	2	5	0	3.2	17.1	463	343	K		shoemake 2025-02-28 15:39:53	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-8F	PKQA-8F_LP-DIR-T	PKQA-8		mt	126.0	59.1	2	3	0	7.6	14.4	783	723	K		shoemake 2025-02-28 15:39:53	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-8G		PKQA-8																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-8G	PKQA-8G_LP-DIR-T	PKQA-8		lt	231.1	11.4	2	5	-1	17.6	8.1	463	343	K		shoemake 2025-02-28 15:42:20	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-8G	PKQA-8G_LP-DIR-T	PKQA-8		lt	140.6	36.8	2	5	0	17.6	8.1	463	343	K		shoemake 2025-02-28 15:42:20	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-8G	PKQA-8G_LP-DIR-T	PKQA-8		mt	200.5	20.0	2	3	-1	9.3	11.7	783	723	K		shoemake 2025-02-28 15:42:20	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-8G	PKQA-8G_LP-DIR-T	PKQA-8		mt	115.6	63.3	2	3	0	9.3	11.7	783	723	K		shoemake 2025-02-28 15:42:20	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-8H	PKQA-8H_LP-DIR-T	PKQA-8		lt	220.6	13.4	1	5	-1	5.6	26.2	463	343	K		shoemake 2025-02-23 10:53:05	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-8H		PKQA-8																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-8H	PKQA-8H_LP-DIR-T	PKQA-8		lt	133.2	45.6	1	5	0	5.6	26.2	463	343	K		shoemake 2025-02-23 10:53:05	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-8I	PKQA-8I_LP-DIR-T	PKQA-8		mt	210.8	28.5	2	3	-1	14.3	3.4	783	723	K		shoemake 2025-02-28 15:53:05	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-8I	PKQA-8I_LP-DIR-T	PKQA-8		lt	137.2	43.4	2	5	0	10.3	9.9	463	343	K		shoemake 2025-02-28 15:53:05	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-8I	PKQA-8I_LP-DIR-T	PKQA-8		mt	143.4	62.2	2	3	0	14.3	3.4	783	723	K		shoemake 2025-02-28 15:53:05	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-8I		PKQA-8																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-8I	PKQA-8I_LP-DIR-T	PKQA-8		lt	224.3	14.0	2	5	-1	10.3	9.9	463	343	K		shoemake 2025-02-28 15:53:05	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-8J		PKQA-8																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-8J	PKQA-8J_LP-DIR-T	PKQA-8		lt	202.4	15.7	2	5	-1	11.4	22.6	463	343	K		shoemake 2025-02-28 15:55:33	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-8J	PKQA-8J_LP-DIR-T	PKQA-8		mt	248.8	29.0	2	3	-1	46.2	14.5	783	723	K		shoemake 2025-02-28 15:55:33	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-8J	PKQA-8J_LP-DIR-T	PKQA-8		mt	170.0	33.6	2	3	0	46.2	14.5	783	723	K		shoemake 2025-02-28 15:55:33	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-8J	PKQA-8J_LP-DIR-T	PKQA-8		lt	113.4	58.8	2	5	0	11.4	22.6	463	343	K		shoemake 2025-02-28 15:55:33	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-8K	PKQA-8K_LP-DIR-T	PKQA-8		mt	274.0	38.1	2	3	-1	63.3	21.2	783	723	K		shoemake 2025-02-28 15:58:03	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-8K	PKQA-8K_LP-DIR-T	PKQA-8		lt	142.9	42.4	2	5	0	16.9	19.5	463	343	K		shoemake 2025-02-28 15:58:03	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-8K	PKQA-8K_LP-DIR-T	PKQA-8		mt	191.2	20.8	2	3	0	63.3	21.2	783	723	K		shoemake 2025-02-28 15:58:03	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-8K	PKQA-8K_LP-DIR-T	PKQA-8		lt	227.9	16.4	2	5	-1	16.9	19.5	463	343	K		shoemake 2025-02-28 15:58:03	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-8K		PKQA-8																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-8L		PKQA-8																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-8L	PKQA-8L_LP-DIR-T	PKQA-8		mt	202.2	17.8	2	3	0	62.1	8.6	783	723	K		shoemake 2025-02-28 16:00:35	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-8L	PKQA-8L_LP-DIR-T	PKQA-8		lt	145.8	42.2	2	5	0	14.8	10.2	463	343	K		shoemake 2025-02-28 16:00:35	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-8L	PKQA-8L_LP-DIR-T	PKQA-8		mt	285.5	44.6	2	3	-1	62.1	8.6	783	723	K		shoemake 2025-02-28 16:00:35	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-8L	PKQA-8L_LP-DIR-T	PKQA-8		lt	229.5	18.0	2	5	-1	14.8	10.2	463	343	K		shoemake 2025-02-28 16:00:35	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-8M		PKQA-8																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-9A		PKQA-9																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-9A	PKQA-9A_LP-DIR-T	PKQA-9		mt	205.5	38.3	2	3	0	32.1	15.1	783	723	K		shoemake 2025-02-28 16:07:30	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-9A	PKQA-9A_LP-DIR-T	PKQA-9		lt	150.2	53.6	2	6	0	7.6	11.4	463	343	K		shoemake 2025-02-28 16:07:30	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-9A	PKQA-9A_LP-DIR-T	PKQA-9		mt	249.1	53.2	2	3	-1	32.1	15.1	783	723	K		shoemake 2025-02-28 16:07:30	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-9A	PKQA-9A_LP-DIR-T	PKQA-9		lt	218.5	20.6	2	6	-1	7.6	11.4	463	343	K		shoemake 2025-02-28 16:07:30	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-9B	PKQA-9B_LP-DIR-T	PKQA-9		mt	184.0	12.1	2	3	0	54.3	22.2	783	723	K		shoemake 2025-02-28 16:10:00	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-9B	PKQA-9B_LP-DIR-T	PKQA-9		mt	272.3	25.8	2	3	-1	54.3	22.2	783	723	K		shoemake 2025-02-28 16:10:00	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-9B	PKQA-9B_LP-DIR-T	PKQA-9		lt	251.3	18.8	2	5	-1	24.6	31.1	463	343	K		shoemake 2025-02-28 16:10:00	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-9B	PKQA-9B_LP-DIR-T	PKQA-9		lt	167.4	25.6	2	5	0	24.6	31.1	463	343	K		shoemake 2025-02-28 16:10:00	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-9B		PKQA-9																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-9C	PKQA-9C_LP-DIR-T	PKQA-9		mt	185.6	19.7	2	3	0	41.3	7.7	783	723	K		shoemake 2025-02-28 16:13:59	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-9C	PKQA-9C_LP-DIR-T	PKQA-9		lt	166.4	28.5	2	5	0	19.2	9.0	463	343	K		shoemake 2025-02-28 16:13:59	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-9C	PKQA-9C_LP-DIR-T	PKQA-9		mt	265.7	30.9	2	3	-1	41.3	7.7	783	723	K		shoemake 2025-02-28 16:13:59	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-9C	PKQA-9C_LP-DIR-T	PKQA-9		lt	248.0	19.4	2	5	-1	19.2	9.0	463	343	K		shoemake 2025-02-28 16:13:59	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-9C		PKQA-9																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-9D	PKQA-9D_LP-DIR-T	PKQA-9		mt	145.0	74.6	2	3	0	14.9	15.2	783	723	K		shoemake 2025-02-28 16:16:26	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-9D	PKQA-9D_LP-DIR-T	PKQA-9		mt	196.8	28.1	2	3	-1	14.9	15.2	783	723	K		shoemake 2025-02-28 16:16:26	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-9D	PKQA-9D_LP-DIR-T	PKQA-9		lt	240.5	20.9	2	5	-1	8.7	16.2	463	343	K		shoemake 2025-02-28 16:16:26	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-9D		PKQA-9																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-9D	PKQA-9D_LP-DIR-T	PKQA-9		lt	164.0	35.5	2	5	0	8.7	16.2	463	343	K		shoemake 2025-02-28 16:16:26	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-9E	PKQA-9E_LP-DIR-T	PKQA-9		mt	305.2	29.8	2	3	-1	76.4	24.9	783	723	K		shoemake 2025-02-28 16:18:52	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-9E		PKQA-9																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-9E	PKQA-9E_LP-DIR-T	PKQA-9		mt	205.2	-8.2	2	3	0	76.4	24.9	783	723	K		shoemake 2025-02-28 16:18:52	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-9E	PKQA-9E_LP-DIR-T	PKQA-9		lt	161.0	44.2	2	6	0	3.5	4.5	463	343	K		shoemake 2025-02-28 16:18:52	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-9E	PKQA-9E_LP-DIR-T	PKQA-9		lt	231.0	22.6	2	6	-1	3.5	4.5	463	343	K		shoemake 2025-02-28 16:18:52	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-9F		PKQA-9																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-9F	PKQA-9F_LP-DIR-T	PKQA-9		mt	227.2	59.0	2	3	0	17.7	31.0	783	723	K		shoemake 2025-02-28 16:30:15	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-9F	PKQA-9F_LP-DIR-T	PKQA-9		lt	154.7	54.2	2	5	0	8.0	17.4	463	343	K		shoemake 2025-02-28 16:30:15	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-9F	PKQA-9F_LP-DIR-T	PKQA-9		mt	204.5	60.0	2	3	-1	17.7	31.0	783	723	K		shoemake 2025-02-28 16:30:15	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-9F	PKQA-9F_LP-DIR-T	PKQA-9		lt	219.2	23.3	2	5	-1	8.0	17.4	463	343	K		shoemake 2025-02-28 16:30:15	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-9G	PKQA-9G_LP-DIR-T	PKQA-9		mt	208.9	70.0	2	3	0	5.9	23.3	783	723	K		shoemake 2025-02-28 16:34:42	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-9G	PKQA-9G_LP-DIR-T	PKQA-9		lt	159.4	49.1	2	5	0	2.8	11.6	463	343	K		shoemake 2025-02-28 16:34:42	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKQA	PKQA
-PKQA-9G	PKQA-9G_LP-DIR-T	PKQA-9		mt	199.6	46.9	2	3	-1	5.9	23.3	783	723	K		shoemake 2025-02-28 16:34:42	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-9G	PKQA-9G_LP-DIR-T	PKQA-9		lt	225.7	23.7	2	5	-1	2.8	11.6	463	343	K		shoemake 2025-02-28 16:34:42	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKQA	PKQA
-PKQA-9G		PKQA-9																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-9H		PKQA-9																	This study	LP-NOMAG				PKQA	PKQA
-PKQA-9I		PKQA-9																	This study	LP-NOMAG				PKQA	PKQA
-PKSB-1A		PKSB-1																	This study	LP-NOMAG				PKSB	PKSB
-PKSB-1B		PKSB-1																	This study	LP-NOMAG				PKSB	PKSB
-PKSB-1B	PKSB-1B_LP-DIR-T	PKSB-1		lt	116.0	-1.0	1	5	0	6.6	3.7	463	343	K		shoemake 2025-02-06 06:16:12	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSB	PKSB
-PKSB-1B	PKSB-1B_LP-DIR-T	PKSB-1		lt	163.6	-19.7	1	5	-1	6.6	3.7	463	343	K		shoemake 2025-02-06 06:16:12	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSB	PKSB
-PKSB-1C	PKSB-1C_LP-DIR-T	PKSB-1		lt	113.6	-3.1	1	5	0	3.6	1.8	463	343	K		shoemake 2024-12-05 15:46:46	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSB	PKSB
-PKSB-1C	PKSB-1C_LP-DIR-T	PKSB-1		lt	160.8	-21.6	1	5	-1	3.6	1.8	463	343	K		shoemake 2024-12-05 15:46:46	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSB	PKSB
-PKSB-1C		PKSB-1																	This study	LP-NOMAG				PKSB	PKSB
-PKSB-1D		PKSB-1																	This study	LP-NOMAG				PKSB	PKSB
-PKSB-1D	PKSB-1D_LP-DIR-T	PKSB-1		lt	154.7	-23.6	1	4	-1	5.2	1.3	463	343	K		shoemake 2024-12-09 17:52:55	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSB	PKSB
-PKSB-1D	PKSB-1D_LP-DIR-T	PKSB-1		lt	108.2	-5.8	1	4	0	5.2	1.3	463	343	K		shoemake 2024-12-09 17:52:55	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSB	PKSB
-PKSB-1E		PKSB-1																	This study	LP-NOMAG				PKSB	PKSB
-PKSB-1E	PKSB-1E_LP-DIR-T	PKSB-1		lt	110.1	-5.0	1	5	0	2.9	2.4	463	343	K		shoemake 2024-12-09 17:55:24	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSB	PKSB
-PKSB-1E	PKSB-1E_LP-DIR-T	PKSB-1		lt	156.8	-23.1	1	5	-1	2.9	2.4	463	343	K		shoemake 2024-12-09 17:55:24	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSB	PKSB
-PKSB-1F	PKSB-1F_LP-DIR-T	PKSB-1		lt	160.0	-23.4	1	5	-1	1.9	1.9	463	343	K		shoemake 2025-02-10 18:19:09	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSB	PKSB
-PKSB-1F		PKSB-1																	This study	LP-NOMAG				PKSB	PKSB
-PKSB-1F	PKSB-1F_LP-DIR-T	PKSB-1		lt	113.0	-5.0	1	5	0	1.9	1.9	463	343	K		shoemake 2025-02-10 18:19:09	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSB	PKSB
-PKSB-1G	PKSB-1G_LP-DIR-T	PKSB-1		lt	159.3	-23.7	1	5	-1	1.9	1.5	463	343	K		shoemake 2025-02-06 06:28:35	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSB	PKSB
-PKSB-1G		PKSB-1																	This study	LP-NOMAG				PKSB	PKSB
-PKSB-1G	PKSB-1G_LP-DIR-T	PKSB-1		lt	112.4	-5.4	1	5	0	1.9	1.5	463	343	K		shoemake 2025-02-06 06:28:35	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSB	PKSB
-PKSB-1H		PKSB-1																	This study	LP-NOMAG				PKSB	PKSB
-PKSB-1H	PKSB-1H_LP-DIR-T	PKSB-1		lt	149.0	-22.2	1	5	-1	4.1	3.3	463	343	K		shoemake 2025-02-21 10:30:05	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSB	PKSB
-PKSB-1H	PKSB-1H_LP-DIR-T	PKSB-1		lt	102.8	-5.3	1	5	0	4.1	3.3	463	343	K		shoemake 2025-02-21 10:30:05	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSB	PKSB
-PKSF-0A		PKSF-0																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-0B		PKSF-0																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-0C		PKSF-0																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-0D		PKSF-0																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-0E		PKSF-0																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-0F		PKSF-0																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-0G		PKSF-0																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-0H		PKSF-0																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-0I		PKSF-0																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-0J		PKSF-0																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-0K		PKSF-0																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-0L		PKSF-0																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-0M		PKSF-0																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-0N		PKSF-0																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1.A		PKSF-1.																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1.B		PKSF-1.																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1.C		PKSF-1.																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1.D		PKSF-1.																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1.E		PKSF-1.																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1.F		PKSF-1.																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1.G		PKSF-1.																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1.H		PKSF-1.																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1.I		PKSF-1.																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1.J		PKSF-1.																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1.K		PKSF-1.																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1.L		PKSF-1.																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1.M		PKSF-1.																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1.N		PKSF-1.																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1.O		PKSF-1.																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1.P		PKSF-1.																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1A		PKSF-1																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1B		PKSF-1																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1C		PKSF-1																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1D		PKSF-1																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1E		PKSF-1																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1F		PKSF-1																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1G		PKSF-1																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1H		PKSF-1																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1I		PKSF-1																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1J		PKSF-1																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1K		PKSF-1																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1L		PKSF-1																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-1M		PKSF-1																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-2A		PKSF-2																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-2B		PKSF-2																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-2C		PKSF-2																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-2D		PKSF-2																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-2E		PKSF-2																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-2F		PKSF-2																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-2G		PKSF-2																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-2H		PKSF-2																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-2I		PKSF-2																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-2J		PKSF-2																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-2K		PKSF-2																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-2L		PKSF-2																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-3A		PKSF-3																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-3B		PKSF-3																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-3C		PKSF-3																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-3D		PKSF-3																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-3E		PKSF-3																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-3F		PKSF-3																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-3G		PKSF-3																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-3H		PKSF-3																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-3I		PKSF-3																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-3J		PKSF-3																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-3K		PKSF-3																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-3L		PKSF-3																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-3M		PKSF-3																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-4A		PKSF-4																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-4B		PKSF-4																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-4C		PKSF-4																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-4D		PKSF-4																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-4E		PKSF-4																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-4F		PKSF-4																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-4G		PKSF-4																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-4H		PKSF-4																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-4I		PKSF-4																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-4J		PKSF-4																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-4K		PKSF-4																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-4L		PKSF-4																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-5A		PKSF-5																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-5B		PKSF-5																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-5C		PKSF-5																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-5D		PKSF-5																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-5E		PKSF-5																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-5F		PKSF-5																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-5G		PKSF-5																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-5H		PKSF-5																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-5I		PKSF-5																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-5J		PKSF-5																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-5K		PKSF-5																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-5L		PKSF-5																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-5M		PKSF-5																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-6A		PKSF-6																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-6B		PKSF-6																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-6C		PKSF-6																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-6D		PKSF-6																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-6E		PKSF-6																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-6F		PKSF-6																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-6G		PKSF-6																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-7A		PKSF-7																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-7B		PKSF-7																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-7C		PKSF-7																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-7D		PKSF-7																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-7E		PKSF-7																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-7F		PKSF-7																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-7G		PKSF-7																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-7H		PKSF-7																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-7I		PKSF-7																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-7J		PKSF-7																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-8A		PKSF-8																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-8B		PKSF-8																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-8C		PKSF-8																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-8D		PKSF-8																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-8E		PKSF-8																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-8F		PKSF-8																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-8G		PKSF-8																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-8H		PKSF-8																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-9A		PKSF-9																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-9B		PKSF-9																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-9C		PKSF-9																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-9D		PKSF-9																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-9E		PKSF-9																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-9F		PKSF-9																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-9G		PKSF-9																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-9H		PKSF-9																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-9I		PKSF-9																	This study	LP-NOMAG				PKSF	PKSF
-PKSF-9J		PKSF-9																	This study	LP-NOMAG				PKSF	PKSF
-PKSG-1A		PKSG-1																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-1B	PKSG-1B_LP-DIR-T	PKSG-1		lt	358.6	52.8	1	7	-1	10.3	7.5	463	343	K		shoemake 2025-06-30 11:54:53	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-1B	PKSG-1B_LP-DIR-T	PKSG-1		lt	182.7	29.3	1	7	0	10.3	7.5	463	343	K		shoemake 2025-06-30 11:54:53	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-1B		PKSG-1																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-1C		PKSG-1																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-1C	PKSG-1C_LP-DIR-T	PKSG-1		lt	360.0	51.1	1	7	-1	7.4	11.0	463	343	K		shoemake 2025-06-30 11:57:19	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-1C	PKSG-1C_LP-DIR-T	PKSG-1		lt	183.7	27.6	1	7	0	7.4	11.0	463	343	K		shoemake 2025-06-30 11:57:19	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-1D		PKSG-1																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-1D	PKSG-1D_LP-DIR-T	PKSG-1		lt	185.4	31.4	1	7	0	10.1	12.6	463	343	K		shoemake 2025-06-30 11:59:48	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-1D	PKSG-1D_LP-DIR-T	PKSG-1		lt	2.5	54.9	1	7	-1	10.1	12.6	463	343	K		shoemake 2025-06-30 11:59:48	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-1E	PKSG-1E_LP-DIR-T	PKSG-1		lt	188.2	28.4	1	7	0	5.8	5.2	463	343	K		shoemake 2025-06-30 12:02:18	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-1E	PKSG-1E_LP-DIR-T	PKSG-1		lt	6.4	51.8	1	7	-1	5.8	5.2	463	343	K		shoemake 2025-06-30 12:02:18	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-1E		PKSG-1																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-1F	PKSG-1F_LP-DIR-T	PKSG-1		lt	3.7	51.4	1	7	-1	6.4	12.6	463	343	K		shoemake 2025-06-30 12:04:48	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-1F	PKSG-1F_LP-DIR-T	PKSG-1		lt	186.3	28.0	1	7	0	6.4	12.6	463	343	K		shoemake 2025-06-30 12:04:48	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-1F		PKSG-1																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-1G		PKSG-1																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-1G	PKSG-1G_LP-DIR-T	PKSG-1		lt	5.3	51.3	1	7	-1	8.9	4.9	463	343	K		shoemake 2025-06-19 15:45:27	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-1G	PKSG-1G_LP-DIR-T	PKSG-1		lt	187.4	27.9	1	7	0	8.9	4.9	463	343	K		shoemake 2025-06-19 15:45:27	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-2A		PKSG-2																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-2A	PKSG-2A_LP-DIR-T	PKSG-2		lt	167.2	-36.9	1	6	0	4.7	6.3	463	343	K		shoemake 2025-06-19 16:33:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-2A	PKSG-2A_LP-DIR-T	PKSG-2		lt	54.5	-19.1	1	6	-1	4.7	6.3	463	343	K		shoemake 2025-06-19 16:33:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-2B		PKSG-2																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-2B	PKSG-2B_LP-DIR-T	PKSG-2		lt	152.6	-22.2	1	6	0	15.0	15.0	463	343	K		shoemake 2025-06-18 15:38:36	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-2B	PKSG-2B_LP-DIR-T	PKSG-2		lt	52.9	0.1	1	6	-1	15.0	15.0	463	343	K		shoemake 2025-06-18 15:38:36	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-2C	PKSG-2C_LP-DIR-T	PKSG-2		lt	71.9	-1.2	1	6	-1	14.6	8.0	463	343	K		shoemake 2025-06-18 15:40:55	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-2C	PKSG-2C_LP-DIR-T	PKSG-2		lt	169.7	-12.2	1	6	0	14.6	8.0	463	343	K		shoemake 2025-06-18 15:40:55	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-2C		PKSG-2																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-2D	PKSG-2D_LP-DIR-T	PKSG-2		lt	176.7	-6.6	1	6	0	20.2	16.5	463	343	K		shoemake 2025-06-18 15:43:14	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-2D		PKSG-2																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-2D	PKSG-2D_LP-DIR-T	PKSG-2		lt	80.8	-1.1	1	6	-1	20.2	16.5	463	343	K		shoemake 2025-06-18 15:43:14	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-2E		PKSG-2																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-2E	PKSG-2E_LP-DIR-T	PKSG-2		lt	78.9	-3.0	1	6	-1	17.3	12.7	463	343	K		shoemake 2025-06-18 15:45:33	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-2E	PKSG-2E_LP-DIR-T	PKSG-2		lt	176.4	-9.3	1	6	0	17.3	12.7	463	343	K		shoemake 2025-06-18 15:45:33	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-2F		PKSG-2																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-2F	PKSG-2F_LP-DIR-T	PKSG-2		lt	172.2	-16.4	1	6	0	13.2	19.0	463	343	K		shoemake 2025-06-18 15:47:53	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-2F	PKSG-2F_LP-DIR-T	PKSG-2		lt	71.2	-6.0	1	6	-1	13.2	19.0	463	343	K		shoemake 2025-06-18 15:47:53	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-2G	PKSG-2G_LP-DIR-T	PKSG-2		lt	156.5	-29.5	1	6	0	13.7	10.2	463	343	K		shoemake 2025-06-18 15:50:14	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-2G	PKSG-2G_LP-DIR-T	PKSG-2		lt	51.7	-7.9	1	6	-1	13.7	10.2	463	343	K		shoemake 2025-06-18 15:50:14	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-2G		PKSG-2																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-2H		PKSG-2																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-3A		PKSG-3																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-3B	PKSG-3B_LP-DIR-T	PKSG-3		lt	286.8	-8.3	1	6	-1	16.4	11.2	463	343	K		shoemake 2025-06-19 15:50:19	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-3B	PKSG-3B_LP-DIR-T	PKSG-3		lt	46.5	-15.4	1	6	0	16.4	11.2	463	343	K		shoemake 2025-06-19 15:50:19	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-3B		PKSG-3																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-3C		PKSG-3																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-3C	PKSG-3C_LP-DIR-T	PKSG-3		lt	290.3	-10.1	1	6	-1	15.8	3.3	463	343	K		shoemake 2025-06-18 15:55:00	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-3C	PKSG-3C_LP-DIR-T	PKSG-3		lt	48.7	-18.6	1	6	0	15.8	3.3	463	343	K		shoemake 2025-06-18 15:55:00	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-3D		PKSG-3																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-3D	PKSG-3D_LP-DIR-T	PKSG-3		lt	298.7	-11.8	1	6	-1	4.9	9.8	463	343	K		shoemake 2025-06-18 15:57:22	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-3D	PKSG-3D_LP-DIR-T	PKSG-3		lt	55.6	-24.0	1	6	0	4.9	9.8	463	343	K		shoemake 2025-06-18 15:57:22	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-3E	PKSG-3E_LP-DIR-T	PKSG-3		lt	44.3	-21.7	1	5	0	13.9	2.9	463	343	K		shoemake 2025-05-25 15:34:04	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-3E	PKSG-3E_LP-DIR-T	PKSG-3		lt	288.2	-14.9	1	5	-1	13.9	2.9	463	343	K		shoemake 2025-05-25 15:34:04	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-3E		PKSG-3																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-4A		PKSG-4																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-4B	PKSG-4B_LP-DIR-T	PKSG-4		lt	250.7	1.0	1	6	-1	46.2	25.9	463	343	K		shoemake 2025-06-30 12:37:01	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-4B		PKSG-4																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-4B	PKSG-4B_LP-DIR-T	PKSG-4		lt	40.9	4.6	1	6	0	46.2	25.9	463	343	K		shoemake 2025-06-30 12:37:01	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-4C	PKSG-4C_LP-DIR-T	PKSG-4		lt	234.4	-5.5	1	6	-1	81.6	14.4	463	343	K		shoemake 2025-06-18 16:04:19	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-4C	PKSG-4C_LP-DIR-T	PKSG-4		lt	23.8	1.0	1	6	0	81.6	14.4	463	343	K		shoemake 2025-06-18 16:04:19	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-4C		PKSG-4																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-4D	PKSG-4D_LP-DIR-T	PKSG-4		lt	235.6	-8.4	1	6	-1	72.5	15.2	463	343	K		shoemake 2025-06-18 16:06:39	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-4D	PKSG-4D_LP-DIR-T	PKSG-4		lt	24.5	-2.1	1	6	0	72.5	15.2	463	343	K		shoemake 2025-06-18 16:06:39	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-4D		PKSG-4																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-4E	PKSG-4E_LP-DIR-T	PKSG-4		lt	243.6	-16.9	1	6	-1	61.5	10.4	463	343	K		shoemake 2025-06-30 12:44:23	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-4E		PKSG-4																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-4E	PKSG-4E_LP-DIR-T	PKSG-4		lt	30.8	-11.8	1	6	0	61.5	10.4	463	343	K		shoemake 2025-06-30 12:44:23	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-4F	PKSG-4F_LP-DIR-T	PKSG-4		lt	236.7	-16.3	1	6	-1	63.9	11.0	463	343	K		shoemake 2025-06-30 12:46:52	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-4F	PKSG-4F_LP-DIR-T	PKSG-4		lt	24.2	-10.1	1	6	0	63.9	11.0	463	343	K		shoemake 2025-06-30 12:46:52	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-4F		PKSG-4																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-4G		PKSG-4																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-5A		PKSG-5																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-5B	PKSG-5B_LP-DIR-T	PKSG-5		lt	141.1	-28.6	1	6	0	36.4	22.3	463	343	K		shoemake 2025-06-30 12:49:23	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-5B	PKSG-5B_LP-DIR-T	PKSG-5		lt	68.1	-18.9	1	6	-1	36.4	22.3	463	343	K		shoemake 2025-06-30 12:49:23	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-5B		PKSG-5																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-5C	PKSG-5C_LP-DIR-T	PKSG-5		lt	127.5	-29.4	1	6	0	44.8	12.5	463	343	K		shoemake 2025-06-30 12:51:53	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-5C		PKSG-5																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-5C	PKSG-5C_LP-DIR-T	PKSG-5		lt	59.9	-10.0	1	6	-1	44.8	12.5	463	343	K		shoemake 2025-06-30 12:51:53	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-5D	PKSG-5D_LP-DIR-T	PKSG-5		lt	155.1	-2.2	1	6	0	24.4	34.4	463	343	K		shoemake 2025-06-30 12:54:23	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-5D	PKSG-5D_LP-DIR-T	PKSG-5		lt	98.3	-13.2	1	6	-1	24.4	34.4	463	343	K		shoemake 2025-06-30 12:54:23	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-5D		PKSG-5																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-5E		PKSG-5																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-6A	PKSG-6A_LP-DIR-T	PKSG-6		lt	150.5	5.8	1	6	0	2.1	13.2	463	343	K		shoemake 2025-06-19 16:51:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-6A	PKSG-6A_LP-DIR-T	PKSG-6		lt	263.1	-7.3	1	6	-1	2.1	13.2	463	343	K		shoemake 2025-06-19 16:51:40	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-6A		PKSG-6																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-6B		PKSG-6																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-6B	PKSG-6B_LP-DIR-T	PKSG-6		lt	253.2	-10.8	1	6	-1	11.9	7.4	463	343	K		shoemake 2025-06-18 16:23:11	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-6B	PKSG-6B_LP-DIR-T	PKSG-6		lt	145.2	14.7	1	6	0	11.9	7.4	463	343	K		shoemake 2025-06-18 16:23:11	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-6C		PKSG-6																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-6C	PKSG-6C_LP-DIR-T	PKSG-6		lt	266.9	-19.2	1	6	-1	5.6	27.4	463	343	K		shoemake 2025-06-30 13:01:41	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-6C	PKSG-6C_LP-DIR-T	PKSG-6		lt	139.2	0.3	1	6	0	5.6	27.4	463	343	K		shoemake 2025-06-30 13:01:41	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-7A		PKSG-7																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-7B		PKSG-7																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-7B	PKSG-7B_LP-DIR-T	PKSG-7		lt	177.4	35.8	1	6	0	5.6	5.4	463	343	K		shoemake 2025-06-30 13:04:06	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-7B	PKSG-7B_LP-DIR-T	PKSG-7		lt	306.7	45.0	1	6	-1	5.6	5.4	463	343	K		shoemake 2025-06-30 13:04:06	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-7C	PKSG-7C_LP-DIR-T	PKSG-7		lt	177.7	37.4	1	6	0	5.5	3.6	463	343	K		shoemake 2025-06-30 13:06:34	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-7C		PKSG-7																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-7C	PKSG-7C_LP-DIR-T	PKSG-7		lt	306.4	46.7	1	6	-1	5.5	3.6	463	343	K		shoemake 2025-06-30 13:06:34	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-7D		PKSG-7																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-8A		PKSG-8																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-8B		PKSG-8																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-8B	PKSG-8B_LP-DIR-T	PKSG-8		lt	117.7	21.1	1	6	0	7.1	15.2	463	343	K		shoemake 2025-06-30 13:09:03	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-8B	PKSG-8B_LP-DIR-T	PKSG-8		lt	253.7	13.7	1	6	-1	7.1	15.2	463	343	K		shoemake 2025-06-30 13:09:03	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-8C		PKSG-8																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-8C	PKSG-8C_LP-DIR-T	PKSG-8		lt	104.3	31.2	1	6	0	20.0	23.8	463	343	K		shoemake 2025-06-30 18:24:51	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSG	PKSG
-PKSG-8C	PKSG-8C_LP-DIR-T	PKSG-8		lt	237.6	12.4	1	6	-1	20.0	23.8	463	343	K		shoemake 2025-06-30 18:24:51	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSG	PKSG
-PKSG-8D		PKSG-8																	This study	LP-NOMAG				PKSG	PKSG
-PKSG-8E		PKSG-8																	This study	LP-NOMAG				PKSG	PKSG
-PKSH-1A		PKSH-1																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-1B	PKSH-1B_LP-DIR-T	PKSH-1		lt	131.8	-39.0	1	6	0	9.0	10.9	463	343	K		shoemake 2025-06-30 13:16:34	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSH	PKSH
-PKSH-1B	PKSH-1B_LP-DIR-T	PKSH-1		lt	264.5	-45.5	1	6	-1	9.0	10.9	463	343	K		shoemake 2025-06-30 13:16:34	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSH	PKSH
-PKSH-1B		PKSH-1																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-1C		PKSH-1																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-1C	PKSH-1C_LP-DIR-T	PKSH-1		lt	278.8	-37.5	1	6	-1	12.3	9.1	463	343	K		shoemake 2025-06-30 13:19:02	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSH	PKSH
-PKSH-1C	PKSH-1C_LP-DIR-T	PKSH-1		lt	148.6	-37.4	1	6	0	12.3	9.1	463	343	K		shoemake 2025-06-30 13:19:02	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSH	PKSH
-PKSH-1D	PKSH-1D_LP-DIR-T	PKSH-1		lt	143.5	-35.9	1	6	0	8.3	5.0	463	343	K		shoemake 2025-06-30 13:21:29	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSH	PKSH
-PKSH-1D		PKSH-1																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-1D	PKSH-1D_LP-DIR-T	PKSH-1		lt	273.3	-38.2	1	6	-1	8.3	5.0	463	343	K		shoemake 2025-06-30 13:21:29	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSH	PKSH
-PKSH-1E		PKSH-1																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-1E	PKSH-1E_LP-DIR-T	PKSH-1		lt	252.4	-17.1	1	6	-1	11.2	10.9	463	343	K		shoemake 2025-06-30 13:23:55	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSH	PKSH
-PKSH-1E	PKSH-1E_LP-DIR-T	PKSH-1		lt	135.1	-9.1	1	6	0	11.2	10.9	463	343	K		shoemake 2025-06-30 13:23:55	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSH	PKSH
-PKSH-1F		PKSH-1																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-1F	PKSH-1F_LP-DIR-T	PKSH-1		lt	129.5	-31.5	1	6	0	2.8	14.1	463	343	K		shoemake 2025-06-30 13:26:21	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSH	PKSH
-PKSH-1F	PKSH-1F_LP-DIR-T	PKSH-1		lt	257.4	-39.8	1	6	-1	2.8	14.1	463	343	K		shoemake 2025-06-30 13:26:21	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSH	PKSH
-PKSH-1G		PKSH-1																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-1G	PKSH-1G_LP-DIR-T	PKSH-1		lt	297.5	-44.0	1	6	-1	20.8	9.2	463	343	K		shoemake 2025-06-30 13:28:49	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSH	PKSH
-PKSH-1G	PKSH-1G_LP-DIR-T	PKSH-1		lt	160.9	-50.2	1	6	0	20.8	9.2	463	343	K		shoemake 2025-06-30 13:28:49	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSH	PKSH
-PKSH-1H		PKSH-1																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-1H	PKSH-1H_LP-DIR-T	PKSH-1		lt	210.0	-42.9	1	6	0	47.4	8.2	463	343	K		shoemake 2025-06-30 13:31:19	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSH	PKSH
-PKSH-1H	PKSH-1H_LP-DIR-T	PKSH-1		lt	330.7	-23.6	1	6	-1	47.4	8.2	463	343	K		shoemake 2025-06-30 13:31:19	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSH	PKSH
-PKSH-1I	PKSH-1I_LP-DIR-T	PKSH-1		lt	245.7	-38.7	1	6	0	45.6	1.2	463	343	K		shoemake 2025-06-30 13:33:50	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSH	PKSH
-PKSH-1I		PKSH-1																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-1I	PKSH-1I_LP-DIR-T	PKSH-1		lt	358.3	-15.7	1	6	-1	45.6	1.2	463	343	K		shoemake 2025-06-30 13:33:50	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSH	PKSH
-PKSH-1J	PKSH-1J_LP-DIR-T	PKSH-1		lt	86.6	-42.5	1	6	-1	69.4	6.7	463	343	K		shoemake 2025-06-30 13:36:21	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSH	PKSH
-PKSH-1J	PKSH-1J_LP-DIR-T	PKSH-1		lt	354.7	-39.7	1	6	0	69.4	6.7	463	343	K		shoemake 2025-06-30 13:36:21	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSH	PKSH
-PKSH-1J		PKSH-1																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-1K		PKSH-1																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-1K	PKSH-1K_LP-DIR-T	PKSH-1		lt	136.3	-44.1	1	6	0	11.4	4.6	463	343	K		shoemake 2025-06-30 13:38:50	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSH	PKSH
-PKSH-1K	PKSH-1K_LP-DIR-T	PKSH-1		lt	272.6	-48.0	1	6	-1	11.4	4.6	463	343	K		shoemake 2025-06-30 13:38:50	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSH	PKSH
-PKSH-1L	PKSH-1L_LP-DIR-T	PKSH-1		lt	135.3	-53.5	1	6	0	14.8	6.5	463	343	K		shoemake 2025-06-18 17:03:06	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSH	PKSH
-PKSH-1L	PKSH-1L_LP-DIR-T	PKSH-1		lt	280.8	-56.0	1	6	-1	14.8	6.5	463	343	K		shoemake 2025-06-18 17:03:06	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSH	PKSH
-PKSH-1L		PKSH-1																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-2A		PKSH-2																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-2B		PKSH-2																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-2B	PKSH-2B_LP-DIR-T	PKSH-2		lt	197.5	16.9	1	6	0	3.7	20.3	463	343	K		shoemake 2025-06-30 13:43:45	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSH	PKSH
-PKSH-2B	PKSH-2B_LP-DIR-T	PKSH-2		lt	258.7	16.0	1	6	-1	3.7	20.3	463	343	K		shoemake 2025-06-30 13:43:45	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSH	PKSH
-PKSH-2C	PKSH-2C_LP-DIR-T	PKSH-2		lt	283.6	13.5	1	6	-1	23.7	18.7	463	343	K		shoemake 2025-06-30 13:46:11	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSH	PKSH
-PKSH-2C	PKSH-2C_LP-DIR-T	PKSH-2		lt	222.0	12.3	1	6	0	23.7	18.7	463	343	K		shoemake 2025-06-30 13:46:11	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSH	PKSH
-PKSH-2C		PKSH-2																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-2D		PKSH-2																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-2E		PKSH-2																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-2F	PKSH-2F_LP-DIR-T	PKSH-2		lt	251.4	33.1	1	6	-1	15.5	10.9	463	343	K		shoemake 2025-06-18 17:14:44	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSH	PKSH
-PKSH-2F		PKSH-2																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-2F	PKSH-2F_LP-DIR-T	PKSH-2		lt	191.9	34.5	1	6	0	15.5	10.9	463	343	K		shoemake 2025-06-18 17:14:44	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSH	PKSH
-PKSH-2G	PKSH-2G_LP-DIR-T	PKSH-2		lt	181.5	8.3	1	6	0	5.4	6.4	463	343	K		shoemake 2025-06-18 17:17:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSH	PKSH
-PKSH-2G		PKSH-2																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-2G	PKSH-2G_LP-DIR-T	PKSH-2		lt	243.6	6.1	1	6	-1	5.4	6.4	463	343	K		shoemake 2025-06-18 17:17:07	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSH	PKSH
-PKSH-2H		PKSH-2																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-2H	PKSH-2H_LP-DIR-T	PKSH-2		lt	253.9	8.3	1	6	-1	2.7	9.9	463	343	K		shoemake 2025-06-19 11:35:46	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSH	PKSH
-PKSH-2H	PKSH-2H_LP-DIR-T	PKSH-2		lt	191.9	9.7	1	6	0	2.7	9.9	463	343	K		shoemake 2025-06-19 11:35:46	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSH	PKSH
-PKSH-2I	PKSH-2I_LP-DIR-T	PKSH-2		lt	174.0	11.7	1	6	0	9.2	17.9	463	343	K		shoemake 2025-06-19 11:38:09	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSH	PKSH
-PKSH-2I	PKSH-2I_LP-DIR-T	PKSH-2		lt	235.9	9.0	1	6	-1	9.2	17.9	463	343	K		shoemake 2025-06-19 11:38:09	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSH	PKSH
-PKSH-2I		PKSH-2																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-2J	PKSH-2J_LP-DIR-T	PKSH-2		lt	201.8	44.6	1	6	0	25.9	28.3	463	343	K		shoemake 2025-06-19 16:11:28	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSH	PKSH
-PKSH-2J	PKSH-2J_LP-DIR-T	PKSH-2		lt	259.7	43.9	1	6	-1	25.9	28.3	463	343	K		shoemake 2025-06-19 16:11:28	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSH	PKSH
-PKSH-2J		PKSH-2																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-3A		PKSH-3																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-3B		PKSH-3																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-3B	PKSH-3B_LP-DIR-T	PKSH-3		lt	352.3	3.5	1	6	-1	57.5	2.6	463	343	K		shoemake 2025-06-19 11:42:48	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSH	PKSH
-PKSH-3B	PKSH-3B_LP-DIR-T	PKSH-3		lt	146.6	-20.8	1	6	0	57.5	2.6	463	343	K		shoemake 2025-06-19 11:42:48	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSH	PKSH
-PKSH-3C	PKSH-3C_LP-DIR-T	PKSH-3		lt	287.0	24.2	1	6	0	71.3	17.1	463	343	K		shoemake 2025-06-19 11:45:06	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSH	PKSH
-PKSH-3C		PKSH-3																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-3C	PKSH-3C_LP-DIR-T	PKSH-3		lt	137.1	6.8	1	6	-1	71.3	17.1	463	343	K		shoemake 2025-06-19 11:45:06	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSH	PKSH
-PKSH-3D	PKSH-3D_LP-DIR-T	PKSH-3		lt	286.3	21.7	1	6	0	73.4	21.3	463	343	K		shoemake 2025-06-19 11:47:25	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSH	PKSH
-PKSH-3D		PKSH-3																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-3D	PKSH-3D_LP-DIR-T	PKSH-3		lt	135.7	4.6	1	6	-1	73.4	21.3	463	343	K		shoemake 2025-06-19 11:47:25	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSH	PKSH
-PKSH-3E	PKSH-3E_LP-DIR-T	PKSH-3		lt	301.6	23.0	1	6	0	84.6	17.8	463	343	K		shoemake 2025-06-19 11:49:46	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSH	PKSH
-PKSH-3E		PKSH-3																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-3E	PKSH-3E_LP-DIR-T	PKSH-3		lt	149.7	2.1	1	6	-1	84.6	17.8	463	343	K		shoemake 2025-06-19 11:49:46	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSH	PKSH
-PKSH-3F		PKSH-3																	This study	LP-NOMAG				PKSH	PKSH
-PKSH-3F	PKSH-3F_LP-DIR-T	PKSH-3		lt	271.2	25.4	1	6	0	58.6	14.4	463	343	K		shoemake 2025-05-26 13:44:23	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSH	PKSH
-PKSH-3F	PKSH-3F_LP-DIR-T	PKSH-3		lt	123.9	12.9	1	6	-1	58.6	14.4	463	343	K		shoemake 2025-05-26 13:44:23	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSH	PKSH
-PKSH-3G		PKSH-3																	This study	LP-NOMAG				PKSH	PKSH
-PKSI-1A		PKSI-1																	This study	LP-NOMAG				PKSI	PKSI
-PKSI-1B		PKSI-1																	This study	LP-NOMAG				PKSI	PKSI
-PKSI-1B	PKSI-1B_LP-DIR-T	PKSI-1		lt	264.2	-58.0	1	6	-1	14.0	6.7	463	343	K		shoemake 2025-06-30 14:18:25	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSI	PKSI
-PKSI-1B	PKSI-1B_LP-DIR-T	PKSI-1		lt	99.1	-48.2	1	6	0	14.0	6.7	463	343	K		shoemake 2025-06-30 14:18:25	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSI	PKSI
-PKSI-1C	PKSI-1C_LP-DIR-T	PKSI-1		lt	99.5	-47.9	1	6	0	15.9	3.1	463	343	K		shoemake 2025-06-30 14:20:56	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSI	PKSI
-PKSI-1C	PKSI-1C_LP-DIR-T	PKSI-1		lt	264.3	-57.6	1	6	-1	15.9	3.1	463	343	K		shoemake 2025-06-30 14:20:56	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSI	PKSI
-PKSI-1C		PKSI-1																	This study	LP-NOMAG				PKSI	PKSI
-PKSI-1D	PKSI-1D_LP-DIR-T	PKSI-1		lt	89.3	-46.7	1	6	0	11.5	5.9	463	343	K		shoemake 2025-06-30 14:23:27	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSI	PKSI
-PKSI-1D	PKSI-1D_LP-DIR-T	PKSI-1		lt	252.1	-60.8	1	6	-1	11.5	5.9	463	343	K		shoemake 2025-06-30 14:23:27	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSI	PKSI
-PKSI-1D		PKSI-1																	This study	LP-NOMAG				PKSI	PKSI
-PKSI-1E	PKSI-1E_LP-DIR-T	PKSI-1		lt	256.1	-60.0	1	6	-1	15.1	3.5	463	343	K		shoemake 2025-06-30 14:25:55	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSI	PKSI
-PKSI-1E		PKSI-1																	This study	LP-NOMAG				PKSI	PKSI
-PKSI-1E	PKSI-1E_LP-DIR-T	PKSI-1		lt	92.3	-47.2	1	6	0	15.1	3.5	463	343	K		shoemake 2025-06-30 14:25:55	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSI	PKSI
-PKSI-1F		PKSI-1																	This study	LP-NOMAG				PKSI	PKSI
-PKSI-1F	PKSI-1F_LP-DIR-T	PKSI-1		lt	253.5	-59.8	1	5	-1	17.2	2.3	463	343	K		shoemake 2025-06-30 14:28:20	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSI	PKSI
-PKSI-1F	PKSI-1F_LP-DIR-T	PKSI-1		lt	91.0	-46.3	1	5	0	17.2	2.3	463	343	K		shoemake 2025-06-30 14:28:20	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSI	PKSI
-PKSI-1G		PKSI-1																	This study	LP-NOMAG				PKSI	PKSI
-PKSJ-1A		PKSJ-1																	This study	LP-NOMAG				PKSJ	PKSJ
-PKSJ-1A	PKSJ-1A_LP-DIR-T	PKSJ-1		lt	100.0	-31.2	1	6	-1	77.1	15.4	463	343	K		shoemake 2025-06-19 14:03:24	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSJ	PKSJ
-PKSJ-1A	PKSJ-1A_LP-DIR-T	PKSJ-1		lt	288.4	-28.1	1	6	0	77.1	15.4	463	343	K		shoemake 2025-06-19 14:03:24	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSJ	PKSJ
-PKSJ-1B	PKSJ-1B_LP-DIR-T	PKSJ-1		lt	112.5	-34.5	1	5	-1	74.1	3.5	463	343	K		shoemake 2025-06-30 14:33:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSJ	PKSJ
-PKSJ-1B	PKSJ-1B_LP-DIR-T	PKSJ-1		lt	300.9	-28.7	1	5	0	74.1	3.5	463	343	K		shoemake 2025-06-30 14:33:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSJ	PKSJ
-PKSJ-1B		PKSJ-1																	This study	LP-NOMAG				PKSJ	PKSJ
-PKSJ-1C	PKSJ-1C_LP-DIR-T	PKSJ-1		lt	108.3	-30.4	1	6	-1	72.3	7.4	463	343	K		shoemake 2025-06-30 14:35:41	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSJ	PKSJ
-PKSJ-1C	PKSJ-1C_LP-DIR-T	PKSJ-1		lt	296.0	-25.6	1	6	0	72.3	7.4	463	343	K		shoemake 2025-06-30 14:35:41	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSJ	PKSJ
-PKSJ-1C		PKSJ-1																	This study	LP-NOMAG				PKSJ	PKSJ
-PKSJ-1D	PKSJ-1D_LP-DIR-T	PKSJ-1		lt	299.5	-25.7	1	6	0	71.4	13.3	463	343	K		shoemake 2025-06-30 14:38:10	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSJ	PKSJ
-PKSJ-1D	PKSJ-1D_LP-DIR-T	PKSJ-1		lt	111.9	-31.3	1	6	-1	71.4	13.3	463	343	K		shoemake 2025-06-30 14:38:10	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSJ	PKSJ
-PKSJ-1D		PKSJ-1																	This study	LP-NOMAG				PKSJ	PKSJ
-PKSJ-1E		PKSJ-1																	This study	LP-NOMAG				PKSJ	PKSJ
-PKSJ-2A		PKSJ-2																	This study	LP-NOMAG				PKSJ	PKSJ
-PKSJ-2B	PKSJ-2B_LP-DIR-T	PKSJ-2		lt	219.0	-36.3	1	6	0	28.7	23.5	463	343	K		shoemake 2025-06-30 14:40:42	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSJ	PKSJ
-PKSJ-2B		PKSJ-2																	This study	LP-NOMAG				PKSJ	PKSJ
-PKSJ-2B	PKSJ-2B_LP-DIR-T	PKSJ-2		lt	239.7	-45.7	1	6	-1	28.7	23.5	463	343	K		shoemake 2025-06-30 14:40:42	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSJ	PKSJ
-PKSJ-2C	PKSJ-2C_LP-DIR-T	PKSJ-2		lt	241.0	-54.8	1	6	-1	29.4	15.2	463	343	K		shoemake 2025-06-30 14:43:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSJ	PKSJ
-PKSJ-2C		PKSJ-2																	This study	LP-NOMAG				PKSJ	PKSJ
-PKSJ-2C	PKSJ-2C_LP-DIR-T	PKSJ-2		lt	216.3	-45.1	1	6	0	29.4	15.2	463	343	K		shoemake 2025-06-30 14:43:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSJ	PKSJ
-PKSJ-2D		PKSJ-2																	This study	LP-NOMAG				PKSJ	PKSJ
-PKSJ-2D	PKSJ-2D_LP-DIR-T	PKSJ-2		lt	214.7	-36.9	1	6	0	26.2	16.3	463	343	K		shoemake 2025-06-30 18:52:16	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSJ	PKSJ
-PKSJ-2D	PKSJ-2D_LP-DIR-T	PKSJ-2		lt	235.1	-47.4	1	6	-1	26.2	16.3	463	343	K		shoemake 2025-06-30 18:52:16	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSJ	PKSJ
-PKSJ-2E	PKSJ-2E_LP-DIR-T	PKSJ-2		lt	211.4	-36.7	1	6	0	22.5	13.5	463	343	K		shoemake 2025-06-30 14:48:11	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSJ	PKSJ
-PKSJ-2E	PKSJ-2E_LP-DIR-T	PKSJ-2		lt	231.3	-47.9	1	6	-1	22.5	13.5	463	343	K		shoemake 2025-06-30 14:48:11	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSJ	PKSJ
-PKSJ-2E		PKSJ-2																	This study	LP-NOMAG				PKSJ	PKSJ
-PKSJ-3A		PKSJ-3																	This study	LP-NOMAG				PKSJ	PKSJ
-PKSJ-3B	PKSJ-3B_LP-DIR-T	PKSJ-3		lt	252.7	-18.4	1	6	-1	25.0	18.2	463	343	K		shoemake 2025-06-30 14:50:38	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSJ	PKSJ
-PKSJ-3B	PKSJ-3B_LP-DIR-T	PKSJ-3		lt	208.2	-14.6	1	6	0	25.0	18.2	463	343	K		shoemake 2025-06-30 14:50:38	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSJ	PKSJ
-PKSJ-3B		PKSJ-3																	This study	LP-NOMAG				PKSJ	PKSJ
-PKSJ-3C	PKSJ-3C_LP-DIR-T	PKSJ-3		lt	200.2	-10.9	1	6	0	20.5	19.6	463	343	K		shoemake 2025-06-30 14:53:06	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSJ	PKSJ
-PKSJ-3C	PKSJ-3C_LP-DIR-T	PKSJ-3		lt	244.0	-16.2	1	6	-1	20.5	19.6	463	343	K		shoemake 2025-06-30 14:53:06	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSJ	PKSJ
-PKSJ-3C		PKSJ-3																	This study	LP-NOMAG				PKSJ	PKSJ
-PKSJ-3D	PKSJ-3D_LP-DIR-T	PKSJ-3		lt	198.6	-10.6	1	6	0	18.7	18.2	463	343	K		shoemake 2025-06-30 14:55:32	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSJ	PKSJ
-PKSJ-3D	PKSJ-3D_LP-DIR-T	PKSJ-3		lt	242.3	-16.1	1	6	-1	18.7	18.2	463	343	K		shoemake 2025-06-30 14:55:32	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSJ	PKSJ
-PKSJ-3D		PKSJ-3																	This study	LP-NOMAG				PKSJ	PKSJ
-PKSJ-3E	PKSJ-3E_LP-DIR-T	PKSJ-3		lt	188.9	-7.3	1	5	0	17.3	21.8	463	343	K		shoemake 2025-06-30 14:58:01	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSJ	PKSJ
-PKSJ-3E	PKSJ-3E_LP-DIR-T	PKSJ-3		lt	231.9	-14.6	1	5	-1	17.3	21.8	463	343	K		shoemake 2025-06-30 14:58:01	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSJ	PKSJ
-PKSJ-3E		PKSJ-3																	This study	LP-NOMAG				PKSJ	PKSJ
-PKSK-1A		PKSK-1																	This study	LP-NOMAG				PKSK	PKSK
-PKSK-1A	PKSK-1A_LP-DIR-T	PKSK-1		lt	164.3	-22.4	1	6	0	5.7	5.2	463	343	K		shoemake 2025-06-30 15:00:32	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSK	PKSK
-PKSK-1A	PKSK-1A_LP-DIR-T	PKSK-1		lt	155.2	-48.7	1	6	-1	5.7	5.2	463	343	K		shoemake 2025-06-30 15:00:32	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSK	PKSK
-PKSK-1B		PKSK-1																	This study	LP-NOMAG				PKSK	PKSK
-PKSK-1B	PKSK-1B_LP-DIR-T	PKSK-1		lt	161.5	-49.6	1	6	-1	7.1	3.0	463	343	K		shoemake 2025-06-30 15:03:03	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSK	PKSK
-PKSK-1B	PKSK-1B_LP-DIR-T	PKSK-1		lt	168.8	-22.5	1	6	0	7.1	3.0	463	343	K		shoemake 2025-06-30 15:03:03	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSK	PKSK
-PKSK-1C	PKSK-1C_LP-DIR-T	PKSK-1		lt	150.5	-49.6	1	6	-1	4.5	9.1	463	343	K		shoemake 2025-06-30 15:05:34	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSK	PKSK
-PKSK-1C		PKSK-1																	This study	LP-NOMAG				PKSK	PKSK
-PKSK-1C	PKSK-1C_LP-DIR-T	PKSK-1		lt	161.3	-24.1	1	6	0	4.5	9.1	463	343	K		shoemake 2025-06-30 15:05:34	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSK	PKSK
-PKSK-1D		PKSK-1																	This study	LP-NOMAG				PKSK	PKSK
-PKSK-1E		PKSK-1																	This study	LP-NOMAG				PKSK	PKSK
-PKSK-2A	PKSK-2A_LP-DIR-T	PKSK-2		lt	104.9	6.1	1	6	-1	46.2	27.9	463	343	K		shoemake 2025-06-19 14:38:39	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSK	PKSK
-PKSK-2A		PKSK-2																	This study	LP-NOMAG				PKSK	PKSK
-PKSK-2A	PKSK-2A_LP-DIR-T	PKSK-2		lt	253.0	10.4	1	6	0	46.2	27.9	463	343	K		shoemake 2025-06-19 14:38:39	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSK	PKSK
-PKSK-2B		PKSK-2																	This study	LP-NOMAG				PKSK	PKSK
-PKSK-2B	PKSK-2B_LP-DIR-T	PKSK-2		lt	254.1	10.9	1	6	0	41.5	12.1	463	343	K		shoemake 2025-06-30 15:10:31	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSK	PKSK
-PKSK-2B	PKSK-2B_LP-DIR-T	PKSK-2		lt	106.0	6.3	1	6	-1	41.5	12.1	463	343	K		shoemake 2025-06-30 15:10:31	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSK	PKSK
-PKSK-2C	PKSK-2C_LP-DIR-T	PKSK-2		lt	96.3	6.6	1	6	-1	30.0	22.6	463	343	K		shoemake 2025-06-30 15:12:57	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSK	PKSK
-PKSK-2C		PKSK-2																	This study	LP-NOMAG				PKSK	PKSK
-PKSK-2C	PKSK-2C_LP-DIR-T	PKSK-2		lt	244.6	8.2	1	6	0	30.0	22.6	463	343	K		shoemake 2025-06-30 15:12:57	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSK	PKSK
-PKSK-2D	PKSK-2D_LP-DIR-T	PKSK-2		lt	254.0	12.9	1	6	0	32.5	7.1	463	343	K		shoemake 2025-06-19 14:45:38	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSK	PKSK
-PKSK-2D	PKSK-2D_LP-DIR-T	PKSK-2		lt	106.6	8.2	1	6	-1	32.5	7.1	463	343	K		shoemake 2025-06-19 14:45:38	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSK	PKSK
-PKSK-2D		PKSK-2																	This study	LP-NOMAG				PKSK	PKSK
-PKSK-2E		PKSK-2																	This study	LP-NOMAG				PKSK	PKSK
-PKSK-2E	PKSK-2E_LP-DIR-T	PKSK-2		lt	107.7	9.1	1	6	-1	30.8	5.5	463	343	K		shoemake 2025-06-19 14:47:57	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSK	PKSK
-PKSK-2E	PKSK-2E_LP-DIR-T	PKSK-2		lt	254.8	14.1	1	6	0	30.8	5.5	463	343	K		shoemake 2025-06-19 14:47:57	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSK	PKSK
-PKSK-2F	PKSK-2F_LP-DIR-T	PKSK-2		lt	109.1	8.3	1	6	-1	30.7	10.6	463	343	K		shoemake 2025-06-19 14:50:18	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			PKSK	PKSK
-PKSK-2F	PKSK-2F_LP-DIR-T	PKSK-2		lt	256.4	13.8	1	6	0	30.7	10.6	463	343	K		shoemake 2025-06-19 14:50:18	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			PKSK	PKSK
-PKSK-2F		PKSK-2																	This study	LP-NOMAG				PKSK	PKSK
-WBEA-1A		WBEA-1																	This study	LP-NOMAG				WBEA	WBEA
-WBEA-1B	WBEA-1B_LP-DIR-T	WBEA-1		lt	82.9	-21.2	1	5	-1	61.2	30.6	463	343	K		shoemake 2025-02-07 00:59:27	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			WBEA	WBEA
-WBEA-1B	WBEA-1B_LP-DIR-T	WBEA-1		lt	91.3	-22.2	1	5	0	61.2	30.6	463	343	K		shoemake 2025-02-07 00:59:27	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			WBEA	WBEA
-WBEA-1B		WBEA-1																	This study	LP-NOMAG				WBEA	WBEA
-WBEA-1C	WBEA-1C_LP-DIR-T	WBEA-1		lt	81.5	-29.6	1	5	-1	54.1	27.9	463	343	K		shoemake 2024-12-05 07:52:16	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			WBEA	WBEA
-WBEA-1C		WBEA-1																	This study	LP-NOMAG				WBEA	WBEA
-WBEA-1C	WBEA-1C_LP-DIR-T	WBEA-1		lt	94.0	-30.4	1	5	0	54.1	27.9	463	343	K		shoemake 2024-12-05 07:52:16	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			WBEA	WBEA
-WBEA-1D	WBEA-1D_LP-DIR-T	WBEA-1		lt	143.3	-69.5	1	5	-1	12.1	33.1	463	343	K		shoemake 2024-12-05 07:54:43	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			WBEA	WBEA
-WBEA-1D		WBEA-1																	This study	LP-NOMAG				WBEA	WBEA
-WBEA-1D	WBEA-1D_LP-DIR-T	WBEA-1		lt	160.7	-49.8	1	5	0	12.1	33.1	463	343	K		shoemake 2024-12-05 07:54:43	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			WBEA	WBEA
-WBEA-1E		WBEA-1																	This study	LP-NOMAG				WBEA	WBEA
-WBEA-1E	WBEA-1E_LP-DIR-T	WBEA-1		lt	174.2	-36.2	1	5	0	10.7	9.2	463	343	K		shoemake 2024-12-05 07:57:11	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			WBEA	WBEA
-WBEA-1E	WBEA-1E_LP-DIR-T	WBEA-1		lt	171.7	-58.1	1	5	-1	10.7	9.2	463	343	K		shoemake 2024-12-05 07:57:11	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			WBEA	WBEA
-WBEA-1F	WBEA-1F_LP-DIR-T	WBEA-1		lt	206.9	-23.2	1	5	0	40.8	25.1	463	343	K		shoemake 2024-12-05 15:44:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			WBEA	WBEA
-WBEA-1F	WBEA-1F_LP-DIR-T	WBEA-1		lt	214.6	-42.1	1	5	-1	40.8	25.1	463	343	K		shoemake 2024-12-05 15:44:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			WBEA	WBEA
-WBEA-1F		WBEA-1																	This study	LP-NOMAG				WBEA	WBEA
-WBEA-1G		WBEA-1																	This study	LP-NOMAG				WBEA	WBEA
-WBEA-1G	WBEA-1G_LP-DIR-T	WBEA-1		lt	112.8	-55.7	1	5	-1	22.7	20.7	463	343	K		shoemake 2024-12-05 08:02:08	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			WBEA	WBEA
-WBEA-1G	WBEA-1G_LP-DIR-T	WBEA-1		lt	134.2	-43.2	1	5	0	22.7	20.7	463	343	K		shoemake 2024-12-05 08:02:08	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			WBEA	WBEA
-WBEA-1H		WBEA-1																	This study	LP-NOMAG				WBEA	WBEA
-WBEA-1H	WBEA-1H_LP-DIR-T	WBEA-1		lt	110.2	-66.5	1	5	-1	20.5	19.1	463	343	K		shoemake 2024-12-05 08:04:38	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			WBEA	WBEA
-WBEA-1H	WBEA-1H_LP-DIR-T	WBEA-1		lt	141.1	-53.0	1	5	0	20.5	19.1	463	343	K		shoemake 2024-12-05 08:04:38	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			WBEA	WBEA
-WBEA-1I		WBEA-1																	This study	LP-NOMAG				WBEA	WBEA
-WBEA-1I	WBEA-1I_LP-DIR-T	WBEA-1		lt	110.3	-64.7	1	5	-1	18.7	17.0	463	343	K		shoemake 2024-12-05 08:07:09	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			WBEA	WBEA
-WBEA-1I	WBEA-1I_LP-DIR-T	WBEA-1		lt	139.5	-51.5	1	5	0	18.7	17.0	463	343	K		shoemake 2024-12-05 08:07:09	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			WBEA	WBEA
-WBEA-1J		WBEA-1																	This study	LP-NOMAG				WBEA	WBEA
-WBEA-2A		WBEA-2																	This study	LP-NOMAG				WBEA	WBEA
-WBEA-2B		WBEA-2																	This study	LP-NOMAG				WBEA	WBEA
-WBEA-2B	WBEA-2B_LP-DIR-T	WBEA-2		mt	80.1	-30.1	2	4	-1	2.6	5.1	783	723	K		shoemake 2025-04-25 22:16:42	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			WBEA	WBEA
-WBEA-2B	WBEA-2B_LP-DIR-T	WBEA-2		lt	143.0	-32.3	2	5	0	23.4	33.8	463	343	K		shoemake 2025-04-25 22:16:42	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			WBEA	WBEA
-WBEA-2B	WBEA-2B_LP-DIR-T	WBEA-2		mt	163.4	-31.1	2	4	0	2.6	5.1	783	723	K		shoemake 2025-04-25 22:16:42	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			WBEA	WBEA
-WBEA-2B	WBEA-2B_LP-DIR-T	WBEA-2		lt	60.2	-28.6	2	5	-1	23.4	33.8	463	343	K		shoemake 2025-04-25 22:16:42	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			WBEA	WBEA
-WBEA-2C		WBEA-2																	This study	LP-NOMAG				WBEA	WBEA
-WBEA-2C	WBEA-2C_LP-DIR-T	WBEA-2		lt	79.9	-29.9	2	5	-1	6.6	34.7	463	343	K		shoemake 2025-04-25 22:19:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			WBEA	WBEA
-WBEA-2C	WBEA-2C_LP-DIR-T	WBEA-2		lt	163.1	-31.0	2	5	0	6.6	34.7	463	343	K		shoemake 2025-04-25 22:19:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			WBEA	WBEA
-WBEA-2C	WBEA-2C_LP-DIR-T	WBEA-2		mt	173.0	-29.8	2	3	0	1.8	2.0	783	723	K		shoemake 2025-04-25 22:19:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			WBEA	WBEA
-WBEA-2C	WBEA-2C_LP-DIR-T	WBEA-2		mt	89.8	-30.1	2	3	-1	1.8	2.0	783	723	K		shoemake 2025-04-25 22:19:13	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			WBEA	WBEA
-WBEA-2D	WBEA-2D_LP-DIR-T	WBEA-2		lt	149.9	-34.9	1	5	0	19.0	10.7	463	343	K		shoemake 2025-04-09 22:58:32	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			WBEA	WBEA
-WBEA-2D		WBEA-2																	This study	LP-NOMAG				WBEA	WBEA
-WBEA-2D	WBEA-2D_LP-DIR-T	WBEA-2		lt	66.4	-32.0	1	5	-1	19.0	10.7	463	343	K		shoemake 2025-04-09 22:58:32	pmagpy-4.3.7: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			WBEA	WBEA
-WBEA-2E		WBEA-2																	This study	LP-NOMAG				WBEA	WBEA
+analysts	citations	method_codes	sample	specimen	volume	weight
+	This study	LP-NOMAG	NWFB-1	NWFB-1A		
+	This study	LP-NOMAG	NWFB-1	NWFB-1B		
+	This study	LP-NOMAG	NWFB-1	NWFB-1C		
+	This study	LP-NOMAG	NWFB-1	NWFB-1D		
+	This study	LP-NOMAG	NWFB-1	NWFB-1E		
+	This study	LP-NOMAG	NWFB-1	NWFB-1F		
+	This study	LP-NOMAG	NWFB-1	NWFB-1G		
+	This study	LP-NOMAG	NWFB-1	NWFB-1H		
+	This study	LP-NOMAG	NWFB-2	NWFB-2A		
+	This study	LP-NOMAG	NWFB-2	NWFB-2B		
+	This study	LP-NOMAG	NWFB-2	NWFB-2C		
+	This study	LP-NOMAG	NWFB-2	NWFB-2D		
+	This study	LP-NOMAG	NWFB-2	NWFB-2E		
+	This study	LP-NOMAG	NWFB-2	NWFB-2F		
+	This study	LP-NOMAG	NWFB-2	NWFB-2G		
+	This study	LP-NOMAG	NWFB-2	NWFB-2H		
+	This study	LP-NOMAG	NWFB-3	NWFB-3A		
+	This study	LP-NOMAG	NWFB-3	NWFB-3B		
+	This study	LP-NOMAG	NWFB-3	NWFB-3C		
+	This study	LP-NOMAG	NWFB-3	NWFB-3D		
+	This study	LP-NOMAG	NWFB-3	NWFB-3E		
+	This study	LP-NOMAG	NWFB-3	NWFB-3F		
+	This study	LP-NOMAG	NWFB-3	NWFB-3G		
+	This study	LP-NOMAG	NWFB-3	NWFB-3H		
+	This study	LP-NOMAG	NWFB-3	NWFB-3I		
+	This study	LP-NOMAG	NWFC-1	NWFC-1A		
+	This study	LP-NOMAG	NWFC-1	NWFC-1B		
+	This study	LP-NOMAG	NWFC-1	NWFC-1C		
+	This study	LP-NOMAG	NWFC-2	NWFC-2A		
+	This study	LP-NOMAG	NWFC-2	NWFC-2B		
+	This study	LP-NOMAG	NWFC-2	NWFC-2C		
+	This study	LP-NOMAG	NWFC-2	NWFC-2D		
+	This study	LP-NOMAG	NWFC-2	NWFC-2E		
+	This study	LP-NOMAG	NWFC-2	NWFC-2F		
+	This study	LP-NOMAG	NWFC-3	NWFC-3A		
+	This study	LP-NOMAG	NWFC-3	NWFC-3B		
+	This study	LP-NOMAG	NWFC-3	NWFC-3C		
+	This study	LP-NOMAG	NWFC-3	NWFC-3D		
+	This study	LP-NOMAG	NWFC-3	NWFC-3E		
+	This study	LP-NOMAG	NWFC-4	NWFC-4A		
+	This study	LP-NOMAG	NWFC-4	NWFC-4B		
+	This study	LP-NOMAG	NWFC-4	NWFC-4C		
+	This study	LP-NOMAG	NWFC-4	NWFC-4D		
+	This study	LP-NOMAG	NWFC-4	NWFC-4E		
+	This study	LP-NOMAG	NWFC-5	NWFC-5A		
+	This study	LP-NOMAG	NWFC-5	NWFC-5B		
+	This study	LP-NOMAG	NWFC-5	NWFC-5C		
+	This study	LP-NOMAG	NWFC-5	NWFC-5D		
+	This study	LP-NOMAG	NWFC-5	NWFC-5E		
+	This study	LP-NOMAG	NWFC-6	NWFC-6A		
+	This study	LP-NOMAG	NWFC-6	NWFC-6B		
+	This study	LP-NOMAG	NWFC-6	NWFC-6C		
+	This study	LP-NOMAG	NWFC-6	NWFC-6D		
+	This study	LP-NOMAG	NWFC-6	NWFC-6E		
+	This study	LP-NOMAG	NWFC-7	NWFC-7A		
+	This study	LP-NOMAG	NWFC-7	NWFC-7B		
+	This study	LP-NOMAG	NWFC-7	NWFC-7C		
+	This study	LP-NOMAG	NWFC-7	NWFC-7D		
+	This study	LP-NOMAG	NWFC-7	NWFC-7E		
+	This study	LP-NOMAG	NWFC-7	NWFC-7F		
+	This study	LP-NOMAG	NWFC-7	NWFC-7G		
+	This study	LP-NOMAG	NWFC-8	NWFC-8A		
+	This study	LP-NOMAG	NWFC-8	NWFC-8B		
+	This study	LP-NOMAG	NWFC-8	NWFC-8C		
+	This study	LP-NOMAG	NWFC-8	NWFC-8D		
+	This study	LP-NOMAG	NWFC-8	NWFC-8E		
+	This study	LP-NOMAG	NWFC-8	NWFC-8F		
+	This study	LP-NOMAG	NWFC-8	NWFC-8G		
+	This study	LP-NOMAG	NWFC-8	NWFC-8H		
+	This study	LP-NOMAG	NWFA-1	NWFA-1A		
+	This study	LP-NOMAG	NWFA-1	NWFA-1B		
+	This study	LP-NOMAG	NWFA-1	NWFA-1C		
+	This study	LP-NOMAG	NWFA-1	NWFA-1D		
+	This study	LP-NOMAG	NWFA-1	NWFA-1E		
+	This study	LP-NOMAG	NWFA-1	NWFA-1F		
+	This study	LP-NOMAG	NWFA-1	NWFA-1G		
+	This study	LP-NOMAG	NWFA-1	NWFA-1H		
+	This study	LP-NOMAG	NWFA-1	NWFA-1I		
+	This study	LP-NOMAG	NWFA-2	NWFA-2A		
+	This study	LP-NOMAG	NWFA-2	NWFA-2B		
+	This study	LP-NOMAG	NWFA-2	NWFA-2C		
+	This study	LP-NOMAG	NWFA-2	NWFA-2D		
+	This study	LP-NOMAG	NWFA-2	NWFA-2E		
+	This study	LP-NOMAG	NWFA-3	NWFA-3A		
+	This study	LP-NOMAG	NWFA-3	NWFA-3B		
+	This study	LP-NOMAG	NWFA-3	NWFA-3C		
+	This study	LP-NOMAG	NWFA-4	NWFA-4A		
+	This study	LP-NOMAG	NWFA-4	NWFA-4B		
+	This study	LP-NOMAG	NWFA-4	NWFA-4C		
+	This study	LP-NOMAG	NWFA-5	NWFA-5A		
+	This study	LP-NOMAG	NWFA-5	NWFA-5B		
+	This study	LP-NOMAG	NWFA-5	NWFA-5C		
+	This study	LP-NOMAG	PKQA-1	PKQA-1A		
+	This study	LP-NOMAG	PKQA-1	PKQA-1B		
+	This study	LP-NOMAG	PKQA-1	PKQA-1C		
+	This study	LP-NOMAG	PKQA-1	PKQA-1D		
+	This study	LP-NOMAG	PKQA-1	PKQA-1E		
+	This study	LP-NOMAG	PKQA-2	PKQA-2A		
+	This study	LP-NOMAG	PKQA-2	PKQA-2B		
+	This study	LP-NOMAG	PKQA-2	PKQA-2C		
+	This study	LP-NOMAG	PKQA-2	PKQA-2D		
+	This study	LP-NOMAG	PKQA-2	PKQA-2E		
+	This study	LP-NOMAG	PKQA-2	PKQA-2F		
+	This study	LP-NOMAG	PKQA-2	PKQA-2G		
+	This study	LP-NOMAG	PKQA-2	PKQA-2H		
+	This study	LP-NOMAG	PKQA-2	PKQA-2I		
+	This study	LP-NOMAG	PKQA-2	PKQA-2J		
+	This study	LP-NOMAG	PKQA-2	PKQA-2K		
+	This study	LP-NOMAG	PKQA-2	PKQA-2L		
+	This study	LP-NOMAG	PKQA-2	PKQA-2M		
+	This study	LP-NOMAG	PKQA-3	PKQA-3A		
+	This study	LP-NOMAG	PKQA-3	PKQA-3B		
+	This study	LP-NOMAG	PKQA-3	PKQA-3C		
+	This study	LP-NOMAG	PKQA-3	PKQA-3D		
+	This study	LP-NOMAG	PKQA-3	PKQA-3E		
+	This study	LP-NOMAG	PKQA-3	PKQA-3F		
+	This study	LP-NOMAG	PKQA-3	PKQA-3G		
+	This study	LP-NOMAG	PKQA-3	PKQA-3H		
+	This study	LP-NOMAG	PKQA-4	PKQA-4A		
+	This study	LP-NOMAG	PKQA-4	PKQA-4B		
+	This study	LP-NOMAG	PKQA-4	PKQA-4C		
+	This study	LP-NOMAG	PKQA-4	PKQA-4D		
+	This study	LP-NOMAG	PKQA-4	PKQA-4E		
+	This study	LP-NOMAG	PKQA-4	PKQA-4F		
+	This study	LP-NOMAG	PKQA-4	PKQA-4G		
+	This study	LP-NOMAG	PKQA-4	PKQA-4H		
+	This study	LP-NOMAG	PKQA-5	PKQA-5A		
+	This study	LP-NOMAG	PKQA-5	PKQA-5B		
+	This study	LP-NOMAG	PKQA-5	PKQA-5C		
+	This study	LP-NOMAG	PKQA-5	PKQA-5D		
+	This study	LP-NOMAG	PKQA-5	PKQA-5E		
+	This study	LP-NOMAG	PKQA-5	PKQA-5F		
+	This study	LP-NOMAG	PKQA-5	PKQA-5G		
+	This study	LP-NOMAG	PKQA-5	PKQA-5H		
+	This study	LP-NOMAG	PKQA-5	PKQA-5I		
+	This study	LP-NOMAG	PKQA-5	PKQA-5J		
+	This study	LP-NOMAG	PKQA-5	PKQA-5K		
+	This study	LP-NOMAG	PKQA-5	PKQA-5L		
+	This study	LP-NOMAG	PKQA-5	PKQA-5M		
+	This study	LP-NOMAG	PKQA-5	PKQA-5N		
+	This study	LP-NOMAG	PKQA-5	PKQA-5O		
+	This study	LP-NOMAG	PKQA-5	PKQA-5P		
+	This study	LP-NOMAG	PKQA-5	PKQA-5Q		
+	This study	LP-NOMAG	PKQA-6	PKQA-6A		
+	This study	LP-NOMAG	PKQA-6	PKQA-6B		
+	This study	LP-NOMAG	PKQA-6	PKQA-6C		
+	This study	LP-NOMAG	PKQA-6	PKQA-6D		
+	This study	LP-NOMAG	PKQA-6	PKQA-6E		
+	This study	LP-NOMAG	PKQA-6	PKQA-6F		
+	This study	LP-NOMAG	PKQA-6	PKQA-6G		
+	This study	LP-NOMAG	PKQA-6	PKQA-6H		
+	This study	LP-NOMAG	PKQA-6	PKQA-6I		
+	This study	LP-NOMAG	PKQA-6	PKQA-6J		
+	This study	LP-NOMAG	PKQA-6	PKQA-6K		
+	This study	LP-NOMAG	PKQA-6	PKQA-6L		
+	This study	LP-NOMAG	PKQA-6	PKQA-6M		
+	This study	LP-NOMAG	PKQA-7	PKQA-7A		
+	This study	LP-NOMAG	PKQA-7	PKQA-7B		
+	This study	LP-NOMAG	PKQA-7	PKQA-7C		
+	This study	LP-NOMAG	PKQA-7	PKQA-7D		
+	This study	LP-NOMAG	PKQA-7	PKQA-7E		
+	This study	LP-NOMAG	PKQA-7	PKQA-7F		
+	This study	LP-NOMAG	PKQA-7	PKQA-7G		
+	This study	LP-NOMAG	PKQA-7	PKQA-7H		
+	This study	LP-NOMAG	PKQA-7	PKQA-7I		
+	This study	LP-NOMAG	PKQA-7	PKQA-7J		
+	This study	LP-NOMAG	PKQA-7	PKQA-7K		
+	This study	LP-NOMAG	PKQA-7	PKQA-7L		
+	This study	LP-NOMAG	PKQA-8	PKQA-8A		
+	This study	LP-NOMAG	PKQA-8	PKQA-8B		
+	This study	LP-NOMAG	PKQA-8	PKQA-8C		
+	This study	LP-NOMAG	PKQA-8	PKQA-8D		
+	This study	LP-NOMAG	PKQA-8	PKQA-8E		
+	This study	LP-NOMAG	PKQA-8	PKQA-8F		
+	This study	LP-NOMAG	PKQA-8	PKQA-8G		
+	This study	LP-NOMAG	PKQA-8	PKQA-8H		
+	This study	LP-NOMAG	PKQA-8	PKQA-8I		
+	This study	LP-NOMAG	PKQA-8	PKQA-8J		
+	This study	LP-NOMAG	PKQA-8	PKQA-8K		
+	This study	LP-NOMAG	PKQA-8	PKQA-8L		
+	This study	LP-NOMAG	PKQA-8	PKQA-8M		
+	This study	LP-NOMAG	PKQA-9	PKQA-9A		
+	This study	LP-NOMAG	PKQA-9	PKQA-9B		
+	This study	LP-NOMAG	PKQA-9	PKQA-9C		
+	This study	LP-NOMAG	PKQA-9	PKQA-9D		
+	This study	LP-NOMAG	PKQA-9	PKQA-9E		
+	This study	LP-NOMAG	PKQA-9	PKQA-9F		
+	This study	LP-NOMAG	PKQA-9	PKQA-9G		
+	This study	LP-NOMAG	PKQA-9	PKQA-9H		
+	This study	LP-NOMAG	PKQA-9	PKQA-9I		
+	This study	LP-NOMAG	PKQA-0	PKQA-0A		
+	This study	LP-NOMAG	PKQA-0	PKQA-0B		
+	This study	LP-NOMAG	PKQA-0	PKQA-0C		
+	This study	LP-NOMAG	PKQA-0	PKQA-0D		
+	This study	LP-NOMAG	PKQA-0	PKQA-0E		
+	This study	LP-NOMAG	PKQA-0	PKQA-0F		
+	This study	LP-NOMAG	PKQA-0	PKQA-0G		
+	This study	LP-NOMAG	PKQA-0	PKQA-0H		
+	This study	LP-NOMAG	PKSF-1	PKSF-1A		
+	This study	LP-NOMAG	PKSF-1	PKSF-1B		
+	This study	LP-NOMAG	PKSF-1	PKSF-1C		
+	This study	LP-NOMAG	PKSF-1	PKSF-1D		
+	This study	LP-NOMAG	PKSF-1	PKSF-1E		
+	This study	LP-NOMAG	PKSF-1	PKSF-1F		
+	This study	LP-NOMAG	PKSF-1	PKSF-1G		
+	This study	LP-NOMAG	PKSF-1	PKSF-1H		
+	This study	LP-NOMAG	PKSF-1	PKSF-1I		
+	This study	LP-NOMAG	PKSF-1	PKSF-1J		
+	This study	LP-NOMAG	PKSF-1	PKSF-1K		
+	This study	LP-NOMAG	PKSF-1	PKSF-1L		
+	This study	LP-NOMAG	PKSF-1	PKSF-1M		
+	This study	LP-NOMAG	PKSF-2	PKSF-2A		
+	This study	LP-NOMAG	PKSF-2	PKSF-2B		
+	This study	LP-NOMAG	PKSF-2	PKSF-2C		
+	This study	LP-NOMAG	PKSF-2	PKSF-2D		
+	This study	LP-NOMAG	PKSF-2	PKSF-2E		
+	This study	LP-NOMAG	PKSF-2	PKSF-2F		
+	This study	LP-NOMAG	PKSF-2	PKSF-2G		
+	This study	LP-NOMAG	PKSF-2	PKSF-2H		
+	This study	LP-NOMAG	PKSF-2	PKSF-2I		
+	This study	LP-NOMAG	PKSF-2	PKSF-2J		
+	This study	LP-NOMAG	PKSF-2	PKSF-2K		
+	This study	LP-NOMAG	PKSF-2	PKSF-2L		
+	This study	LP-NOMAG	PKSF-3	PKSF-3A		
+	This study	LP-NOMAG	PKSF-3	PKSF-3B		
+	This study	LP-NOMAG	PKSF-3	PKSF-3C		
+	This study	LP-NOMAG	PKSF-3	PKSF-3D		
+	This study	LP-NOMAG	PKSF-3	PKSF-3E		
+	This study	LP-NOMAG	PKSF-3	PKSF-3F		
+	This study	LP-NOMAG	PKSF-3	PKSF-3G		
+	This study	LP-NOMAG	PKSF-3	PKSF-3H		
+	This study	LP-NOMAG	PKSF-3	PKSF-3I		
+	This study	LP-NOMAG	PKSF-3	PKSF-3J		
+	This study	LP-NOMAG	PKSF-3	PKSF-3K		
+	This study	LP-NOMAG	PKSF-3	PKSF-3L		
+	This study	LP-NOMAG	PKSF-3	PKSF-3M		
+	This study	LP-NOMAG	PKSF-4	PKSF-4A		
+	This study	LP-NOMAG	PKSF-4	PKSF-4B		
+	This study	LP-NOMAG	PKSF-4	PKSF-4C		
+	This study	LP-NOMAG	PKSF-4	PKSF-4D		
+	This study	LP-NOMAG	PKSF-4	PKSF-4E		
+	This study	LP-NOMAG	PKSF-4	PKSF-4F		
+	This study	LP-NOMAG	PKSF-4	PKSF-4G		
+	This study	LP-NOMAG	PKSF-4	PKSF-4H		
+	This study	LP-NOMAG	PKSF-4	PKSF-4I		
+	This study	LP-NOMAG	PKSF-4	PKSF-4J		
+	This study	LP-NOMAG	PKSF-4	PKSF-4K		
+	This study	LP-NOMAG	PKSF-4	PKSF-4L		
+	This study	LP-NOMAG	PKSF-5	PKSF-5A		
+	This study	LP-NOMAG	PKSF-5	PKSF-5B		
+	This study	LP-NOMAG	PKSF-5	PKSF-5C		
+	This study	LP-NOMAG	PKSF-5	PKSF-5D		
+	This study	LP-NOMAG	PKSF-5	PKSF-5E		
+	This study	LP-NOMAG	PKSF-5	PKSF-5F		
+	This study	LP-NOMAG	PKSF-5	PKSF-5G		
+	This study	LP-NOMAG	PKSF-5	PKSF-5H		
+	This study	LP-NOMAG	PKSF-5	PKSF-5I		
+	This study	LP-NOMAG	PKSF-5	PKSF-5J		
+	This study	LP-NOMAG	PKSF-5	PKSF-5K		
+	This study	LP-NOMAG	PKSF-5	PKSF-5L		
+	This study	LP-NOMAG	PKSF-5	PKSF-5M		
+	This study	LP-NOMAG	PKSF-6	PKSF-6A		
+	This study	LP-NOMAG	PKSF-6	PKSF-6B		
+	This study	LP-NOMAG	PKSF-6	PKSF-6C		
+	This study	LP-NOMAG	PKSF-6	PKSF-6D		
+	This study	LP-NOMAG	PKSF-6	PKSF-6E		
+	This study	LP-NOMAG	PKSF-6	PKSF-6F		
+	This study	LP-NOMAG	PKSF-6	PKSF-6G		
+	This study	LP-NOMAG	PKSF-7	PKSF-7A		
+	This study	LP-NOMAG	PKSF-7	PKSF-7B		
+	This study	LP-NOMAG	PKSF-7	PKSF-7C		
+	This study	LP-NOMAG	PKSF-7	PKSF-7D		
+	This study	LP-NOMAG	PKSF-7	PKSF-7E		
+	This study	LP-NOMAG	PKSF-7	PKSF-7F		
+	This study	LP-NOMAG	PKSF-7	PKSF-7G		
+	This study	LP-NOMAG	PKSF-7	PKSF-7H		
+	This study	LP-NOMAG	PKSF-7	PKSF-7I		
+	This study	LP-NOMAG	PKSF-7	PKSF-7J		
+	This study	LP-NOMAG	PKSF-8	PKSF-8A		
+	This study	LP-NOMAG	PKSF-8	PKSF-8B		
+	This study	LP-NOMAG	PKSF-8	PKSF-8C		
+	This study	LP-NOMAG	PKSF-8	PKSF-8D		
+	This study	LP-NOMAG	PKSF-8	PKSF-8E		
+	This study	LP-NOMAG	PKSF-8	PKSF-8F		
+	This study	LP-NOMAG	PKSF-8	PKSF-8G		
+	This study	LP-NOMAG	PKSF-8	PKSF-8H		
+	This study	LP-NOMAG	PKSF-9	PKSF-9A		
+	This study	LP-NOMAG	PKSF-9	PKSF-9B		
+	This study	LP-NOMAG	PKSF-9	PKSF-9C		
+	This study	LP-NOMAG	PKSF-9	PKSF-9D		
+	This study	LP-NOMAG	PKSF-9	PKSF-9E		
+	This study	LP-NOMAG	PKSF-9	PKSF-9F		
+	This study	LP-NOMAG	PKSF-9	PKSF-9G		
+	This study	LP-NOMAG	PKSF-9	PKSF-9H		
+	This study	LP-NOMAG	PKSF-9	PKSF-9I		
+	This study	LP-NOMAG	PKSF-9	PKSF-9J		
+	This study	LP-NOMAG	PKSF-0	PKSF-0A		
+	This study	LP-NOMAG	PKSF-0	PKSF-0B		
+	This study	LP-NOMAG	PKSF-0	PKSF-0C		
+	This study	LP-NOMAG	PKSF-0	PKSF-0D		
+	This study	LP-NOMAG	PKSF-0	PKSF-0E		
+	This study	LP-NOMAG	PKSF-0	PKSF-0F		
+	This study	LP-NOMAG	PKSF-0	PKSF-0G		
+	This study	LP-NOMAG	PKSF-0	PKSF-0H		
+	This study	LP-NOMAG	PKSF-0	PKSF-0I		
+	This study	LP-NOMAG	PKSF-0	PKSF-0J		
+	This study	LP-NOMAG	PKSF-0	PKSF-0K		
+	This study	LP-NOMAG	PKSF-0	PKSF-0L		
+	This study	LP-NOMAG	PKSF-0	PKSF-0M		
+	This study	LP-NOMAG	PKSF-0	PKSF-0N		
+	This study	LP-NOMAG	PKSF-1.	PKSF-1.A		
+	This study	LP-NOMAG	PKSF-1.	PKSF-1.B		
+	This study	LP-NOMAG	PKSF-1.	PKSF-1.C		
+	This study	LP-NOMAG	PKSF-1.	PKSF-1.D		
+	This study	LP-NOMAG	PKSF-1.	PKSF-1.E		
+	This study	LP-NOMAG	PKSF-1.	PKSF-1.F		
+	This study	LP-NOMAG	PKSF-1.	PKSF-1.G		
+	This study	LP-NOMAG	PKSF-1.	PKSF-1.H		
+	This study	LP-NOMAG	PKSF-1.	PKSF-1.I		
+	This study	LP-NOMAG	PKSF-1.	PKSF-1.J		
+	This study	LP-NOMAG	PKSF-1.	PKSF-1.K		
+	This study	LP-NOMAG	PKSF-1.	PKSF-1.L		
+	This study	LP-NOMAG	PKSF-1.	PKSF-1.M		
+	This study	LP-NOMAG	PKSF-1.	PKSF-1.N		
+	This study	LP-NOMAG	PKSF-1.	PKSF-1.O		
+	This study	LP-NOMAG	PKSF-1.	PKSF-1.P		
+	This study	LP-NOMAG	PKSI-1	PKSI-1A		
+	This study	LP-NOMAG	PKSI-1	PKSI-1B		
+	This study	LP-NOMAG	PKSI-1	PKSI-1C		
+	This study	LP-NOMAG	PKSI-1	PKSI-1D		
+	This study	LP-NOMAG	PKSI-1	PKSI-1E		
+	This study	LP-NOMAG	PKSI-1	PKSI-1F		
+	This study	LP-NOMAG	PKSI-1	PKSI-1G		
+	This study	LP-NOMAG	PKSH-1	PKSH-1A		
+	This study	LP-NOMAG	PKSH-1	PKSH-1B		
+	This study	LP-NOMAG	PKSH-1	PKSH-1C		
+	This study	LP-NOMAG	PKSH-1	PKSH-1D		
+	This study	LP-NOMAG	PKSH-1	PKSH-1E		
+	This study	LP-NOMAG	PKSH-1	PKSH-1F		
+	This study	LP-NOMAG	PKSH-1	PKSH-1G		
+	This study	LP-NOMAG	PKSH-1	PKSH-1H		
+	This study	LP-NOMAG	PKSH-1	PKSH-1I		
+	This study	LP-NOMAG	PKSH-1	PKSH-1J		
+	This study	LP-NOMAG	PKSH-1	PKSH-1K		
+	This study	LP-NOMAG	PKSH-1	PKSH-1L		
+	This study	LP-NOMAG	PKSH-2	PKSH-2A		
+	This study	LP-NOMAG	PKSH-2	PKSH-2B		
+	This study	LP-NOMAG	PKSH-2	PKSH-2C		
+	This study	LP-NOMAG	PKSH-2	PKSH-2D		
+	This study	LP-NOMAG	PKSH-2	PKSH-2E		
+	This study	LP-NOMAG	PKSH-2	PKSH-2F		
+	This study	LP-NOMAG	PKSH-2	PKSH-2G		
+	This study	LP-NOMAG	PKSH-2	PKSH-2H		
+	This study	LP-NOMAG	PKSH-2	PKSH-2I		
+	This study	LP-NOMAG	PKSH-2	PKSH-2J		
+	This study	LP-NOMAG	PKSH-3	PKSH-3A		
+	This study	LP-NOMAG	PKSH-3	PKSH-3B		
+	This study	LP-NOMAG	PKSH-3	PKSH-3C		
+	This study	LP-NOMAG	PKSH-3	PKSH-3D		
+	This study	LP-NOMAG	PKSH-3	PKSH-3E		
+	This study	LP-NOMAG	PKSH-3	PKSH-3F		
+	This study	LP-NOMAG	PKSH-3	PKSH-3G		
+	This study	LP-NOMAG	PKSG-1	PKSG-1A		
+	This study	LP-NOMAG	PKSG-1	PKSG-1B		
+	This study	LP-NOMAG	PKSG-1	PKSG-1C		
+	This study	LP-NOMAG	PKSG-1	PKSG-1D		
+	This study	LP-NOMAG	PKSG-1	PKSG-1E		
+	This study	LP-NOMAG	PKSG-1	PKSG-1F		
+	This study	LP-NOMAG	PKSG-1	PKSG-1G		
+	This study	LP-NOMAG	PKSG-2	PKSG-2A		
+	This study	LP-NOMAG	PKSG-2	PKSG-2B		
+	This study	LP-NOMAG	PKSG-2	PKSG-2C		
+	This study	LP-NOMAG	PKSG-2	PKSG-2D		
+	This study	LP-NOMAG	PKSG-2	PKSG-2E		
+	This study	LP-NOMAG	PKSG-2	PKSG-2F		
+	This study	LP-NOMAG	PKSG-2	PKSG-2G		
+	This study	LP-NOMAG	PKSG-2	PKSG-2H		
+	This study	LP-NOMAG	PKSG-3	PKSG-3A		
+	This study	LP-NOMAG	PKSG-3	PKSG-3B		
+	This study	LP-NOMAG	PKSG-3	PKSG-3C		
+	This study	LP-NOMAG	PKSG-3	PKSG-3D		
+	This study	LP-NOMAG	PKSG-3	PKSG-3E		
+	This study	LP-NOMAG	PKSG-4	PKSG-4A		
+	This study	LP-NOMAG	PKSG-4	PKSG-4B		
+	This study	LP-NOMAG	PKSG-4	PKSG-4C		
+	This study	LP-NOMAG	PKSG-4	PKSG-4D		
+	This study	LP-NOMAG	PKSG-4	PKSG-4E		
+	This study	LP-NOMAG	PKSG-4	PKSG-4F		
+	This study	LP-NOMAG	PKSG-4	PKSG-4G		
+	This study	LP-NOMAG	PKSG-5	PKSG-5A		
+	This study	LP-NOMAG	PKSG-5	PKSG-5B		
+	This study	LP-NOMAG	PKSG-5	PKSG-5C		
+	This study	LP-NOMAG	PKSG-5	PKSG-5D		
+	This study	LP-NOMAG	PKSG-5	PKSG-5E		
+	This study	LP-NOMAG	PKSG-6	PKSG-6A		
+	This study	LP-NOMAG	PKSG-6	PKSG-6B		
+	This study	LP-NOMAG	PKSG-6	PKSG-6C		
+	This study	LP-NOMAG	PKSG-7	PKSG-7A		
+	This study	LP-NOMAG	PKSG-7	PKSG-7B		
+	This study	LP-NOMAG	PKSG-7	PKSG-7C		
+	This study	LP-NOMAG	PKSG-7	PKSG-7D		
+	This study	LP-NOMAG	PKSG-8	PKSG-8A		
+	This study	LP-NOMAG	PKSG-8	PKSG-8B		
+	This study	LP-NOMAG	PKSG-8	PKSG-8C		
+	This study	LP-NOMAG	PKSG-8	PKSG-8D		
+	This study	LP-NOMAG	PKSG-8	PKSG-8E		
+	This study	LP-NOMAG	PKSJ-1	PKSJ-1A		
+	This study	LP-NOMAG	PKSJ-1	PKSJ-1B		
+	This study	LP-NOMAG	PKSJ-1	PKSJ-1C		
+	This study	LP-NOMAG	PKSJ-1	PKSJ-1D		
+	This study	LP-NOMAG	PKSJ-1	PKSJ-1E		
+	This study	LP-NOMAG	PKSJ-2	PKSJ-2A		
+	This study	LP-NOMAG	PKSJ-2	PKSJ-2B		
+	This study	LP-NOMAG	PKSJ-2	PKSJ-2C		
+	This study	LP-NOMAG	PKSJ-2	PKSJ-2D		
+	This study	LP-NOMAG	PKSJ-2	PKSJ-2E		
+	This study	LP-NOMAG	PKSJ-3	PKSJ-3A		
+	This study	LP-NOMAG	PKSJ-3	PKSJ-3B		
+	This study	LP-NOMAG	PKSJ-3	PKSJ-3C		
+	This study	LP-NOMAG	PKSJ-3	PKSJ-3D		
+	This study	LP-NOMAG	PKSJ-3	PKSJ-3E		
+	This study	LP-NOMAG	PKSB-1	PKSB-1A		
+	This study	LP-NOMAG	PKSB-1	PKSB-1B		
+	This study	LP-NOMAG	PKSB-1	PKSB-1C		
+	This study	LP-NOMAG	PKSB-1	PKSB-1D		
+	This study	LP-NOMAG	PKSB-1	PKSB-1E		
+	This study	LP-NOMAG	PKSB-1	PKSB-1F		
+	This study	LP-NOMAG	PKSB-1	PKSB-1G		
+	This study	LP-NOMAG	PKSB-1	PKSB-1H		
+	This study	LP-NOMAG	WBEA-1	WBEA-1A		
+	This study	LP-NOMAG	WBEA-1	WBEA-1B		
+	This study	LP-NOMAG	WBEA-1	WBEA-1C		
+	This study	LP-NOMAG	WBEA-1	WBEA-1D		
+	This study	LP-NOMAG	WBEA-1	WBEA-1E		
+	This study	LP-NOMAG	WBEA-1	WBEA-1F		
+	This study	LP-NOMAG	WBEA-1	WBEA-1G		
+	This study	LP-NOMAG	WBEA-1	WBEA-1H		
+	This study	LP-NOMAG	WBEA-1	WBEA-1I		
+	This study	LP-NOMAG	WBEA-1	WBEA-1J		
+	This study	LP-NOMAG	WBEA-2	WBEA-2A		
+	This study	LP-NOMAG	WBEA-2	WBEA-2B		
+	This study	LP-NOMAG	WBEA-2	WBEA-2C		
+	This study	LP-NOMAG	WBEA-2	WBEA-2D		
+	This study	LP-NOMAG	WBEA-2	WBEA-2E		
+	This study	LP-NOMAG	PKSK-1	PKSK-1A		
+	This study	LP-NOMAG	PKSK-1	PKSK-1B		
+	This study	LP-NOMAG	PKSK-1	PKSK-1C		
+	This study	LP-NOMAG	PKSK-1	PKSK-1D		
+	This study	LP-NOMAG	PKSK-1	PKSK-1E		
+	This study	LP-NOMAG	PKSK-2	PKSK-2A		
+	This study	LP-NOMAG	PKSK-2	PKSK-2B		
+	This study	LP-NOMAG	PKSK-2	PKSK-2C		
+	This study	LP-NOMAG	PKSK-2	PKSK-2D		
+	This study	LP-NOMAG	PKSK-2	PKSK-2E		
+	This study	LP-NOMAG	PKSK-2	PKSK-2F		
