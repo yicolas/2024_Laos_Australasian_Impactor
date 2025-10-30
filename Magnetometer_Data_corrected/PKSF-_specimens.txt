@@ -1,130 +1,130 @@
 tab	specimens
 specimen	sample	analysts	citations	method_codes	volume	weight
-PKSF-1A	PKSF-1		This study	LP-NOMAG		
-PKSF-1B	PKSF-1		This study	LP-NOMAG		
-PKSF-1C	PKSF-1		This study	LP-NOMAG		
-PKSF-1D	PKSF-1		This study	LP-NOMAG		
-PKSF-1E	PKSF-1		This study	LP-NOMAG		
-PKSF-1F	PKSF-1		This study	LP-NOMAG		
-PKSF-1G	PKSF-1		This study	LP-NOMAG		
-PKSF-1H	PKSF-1		This study	LP-NOMAG		
-PKSF-1I	PKSF-1		This study	LP-NOMAG		
-PKSF-1J	PKSF-1		This study	LP-NOMAG		
-PKSF-1K	PKSF-1		This study	LP-NOMAG		
-PKSF-1L	PKSF-1		This study	LP-NOMAG		
-PKSF-1M	PKSF-1		This study	LP-NOMAG		
-PKSF-2A	PKSF-2		This study	LP-NOMAG		
-PKSF-2B	PKSF-2		This study	LP-NOMAG		
-PKSF-2C	PKSF-2		This study	LP-NOMAG		
-PKSF-2D	PKSF-2		This study	LP-NOMAG		
-PKSF-2E	PKSF-2		This study	LP-NOMAG		
-PKSF-2F	PKSF-2		This study	LP-NOMAG		
-PKSF-2G	PKSF-2		This study	LP-NOMAG		
-PKSF-2H	PKSF-2		This study	LP-NOMAG		
-PKSF-2I	PKSF-2		This study	LP-NOMAG		
-PKSF-2J	PKSF-2		This study	LP-NOMAG		
-PKSF-2K	PKSF-2		This study	LP-NOMAG		
-PKSF-2L	PKSF-2		This study	LP-NOMAG		
-PKSF-3A	PKSF-3		This study	LP-NOMAG		
-PKSF-3B	PKSF-3		This study	LP-NOMAG		
-PKSF-3C	PKSF-3		This study	LP-NOMAG		
-PKSF-3D	PKSF-3		This study	LP-NOMAG		
-PKSF-3E	PKSF-3		This study	LP-NOMAG		
-PKSF-3F	PKSF-3		This study	LP-NOMAG		
-PKSF-3G	PKSF-3		This study	LP-NOMAG		
-PKSF-3H	PKSF-3		This study	LP-NOMAG		
-PKSF-3I	PKSF-3		This study	LP-NOMAG		
-PKSF-3J	PKSF-3		This study	LP-NOMAG		
-PKSF-3K	PKSF-3		This study	LP-NOMAG		
-PKSF-3L	PKSF-3		This study	LP-NOMAG		
-PKSF-3M	PKSF-3		This study	LP-NOMAG		
-PKSF-4A	PKSF-4		This study	LP-NOMAG		
-PKSF-4B	PKSF-4		This study	LP-NOMAG		
-PKSF-4C	PKSF-4		This study	LP-NOMAG		
-PKSF-4D	PKSF-4		This study	LP-NOMAG		
-PKSF-4E	PKSF-4		This study	LP-NOMAG		
-PKSF-4F	PKSF-4		This study	LP-NOMAG		
-PKSF-4G	PKSF-4		This study	LP-NOMAG		
-PKSF-4H	PKSF-4		This study	LP-NOMAG		
-PKSF-4I	PKSF-4		This study	LP-NOMAG		
-PKSF-4J	PKSF-4		This study	LP-NOMAG		
-PKSF-4K	PKSF-4		This study	LP-NOMAG		
-PKSF-4L	PKSF-4		This study	LP-NOMAG		
-PKSF-5A	PKSF-5		This study	LP-NOMAG		
-PKSF-5B	PKSF-5		This study	LP-NOMAG		
-PKSF-5C	PKSF-5		This study	LP-NOMAG		
-PKSF-5D	PKSF-5		This study	LP-NOMAG		
-PKSF-5E	PKSF-5		This study	LP-NOMAG		
-PKSF-5F	PKSF-5		This study	LP-NOMAG		
-PKSF-5G	PKSF-5		This study	LP-NOMAG		
-PKSF-5H	PKSF-5		This study	LP-NOMAG		
-PKSF-5I	PKSF-5		This study	LP-NOMAG		
-PKSF-5J	PKSF-5		This study	LP-NOMAG		
-PKSF-5K	PKSF-5		This study	LP-NOMAG		
-PKSF-5L	PKSF-5		This study	LP-NOMAG		
-PKSF-5M	PKSF-5		This study	LP-NOMAG		
-PKSF-6A	PKSF-6		This study	LP-NOMAG		
-PKSF-6B	PKSF-6		This study	LP-NOMAG		
-PKSF-6C	PKSF-6		This study	LP-NOMAG		
-PKSF-6D	PKSF-6		This study	LP-NOMAG		
-PKSF-6E	PKSF-6		This study	LP-NOMAG		
-PKSF-6F	PKSF-6		This study	LP-NOMAG		
-PKSF-6G	PKSF-6		This study	LP-NOMAG		
-PKSF-7A	PKSF-7		This study	LP-NOMAG		
-PKSF-7B	PKSF-7		This study	LP-NOMAG		
-PKSF-7C	PKSF-7		This study	LP-NOMAG		
-PKSF-7D	PKSF-7		This study	LP-NOMAG		
-PKSF-7E	PKSF-7		This study	LP-NOMAG		
-PKSF-7F	PKSF-7		This study	LP-NOMAG		
-PKSF-7G	PKSF-7		This study	LP-NOMAG		
-PKSF-7H	PKSF-7		This study	LP-NOMAG		
-PKSF-7I	PKSF-7		This study	LP-NOMAG		
-PKSF-7J	PKSF-7		This study	LP-NOMAG		
-PKSF-8A	PKSF-8		This study	LP-NOMAG		
-PKSF-8B	PKSF-8		This study	LP-NOMAG		
-PKSF-8C	PKSF-8		This study	LP-NOMAG		
-PKSF-8D	PKSF-8		This study	LP-NOMAG		
-PKSF-8E	PKSF-8		This study	LP-NOMAG		
-PKSF-8F	PKSF-8		This study	LP-NOMAG		
-PKSF-8G	PKSF-8		This study	LP-NOMAG		
-PKSF-8H	PKSF-8		This study	LP-NOMAG		
-PKSF-9A	PKSF-9		This study	LP-NOMAG		
-PKSF-9B	PKSF-9		This study	LP-NOMAG		
-PKSF-9C	PKSF-9		This study	LP-NOMAG		
-PKSF-9D	PKSF-9		This study	LP-NOMAG		
-PKSF-9E	PKSF-9		This study	LP-NOMAG		
-PKSF-9F	PKSF-9		This study	LP-NOMAG		
-PKSF-9G	PKSF-9		This study	LP-NOMAG		
-PKSF-9H	PKSF-9		This study	LP-NOMAG		
-PKSF-9I	PKSF-9		This study	LP-NOMAG		
-PKSF-9J	PKSF-9		This study	LP-NOMAG		
-PKSF-0A	PKSF-0		This study	LP-NOMAG		
-PKSF-0B	PKSF-0		This study	LP-NOMAG		
-PKSF-0C	PKSF-0		This study	LP-NOMAG		
-PKSF-0D	PKSF-0		This study	LP-NOMAG		
-PKSF-0E	PKSF-0		This study	LP-NOMAG		
-PKSF-0F	PKSF-0		This study	LP-NOMAG		
-PKSF-0G	PKSF-0		This study	LP-NOMAG		
-PKSF-0H	PKSF-0		This study	LP-NOMAG		
-PKSF-0I	PKSF-0		This study	LP-NOMAG		
-PKSF-0J	PKSF-0		This study	LP-NOMAG		
-PKSF-0K	PKSF-0		This study	LP-NOMAG		
-PKSF-0L	PKSF-0		This study	LP-NOMAG		
-PKSF-0M	PKSF-0		This study	LP-NOMAG		
-PKSF-0N	PKSF-0		This study	LP-NOMAG		
-PKSF-1.A	PKSF-1.		This study	LP-NOMAG		
-PKSF-1.B	PKSF-1.		This study	LP-NOMAG		
-PKSF-1.C	PKSF-1.		This study	LP-NOMAG		
-PKSF-1.D	PKSF-1.		This study	LP-NOMAG		
-PKSF-1.E	PKSF-1.		This study	LP-NOMAG		
-PKSF-1.F	PKSF-1.		This study	LP-NOMAG		
-PKSF-1.G	PKSF-1.		This study	LP-NOMAG		
-PKSF-1.H	PKSF-1.		This study	LP-NOMAG		
-PKSF-1.I	PKSF-1.		This study	LP-NOMAG		
-PKSF-1.J	PKSF-1.		This study	LP-NOMAG		
-PKSF-1.K	PKSF-1.		This study	LP-NOMAG		
-PKSF-1.L	PKSF-1.		This study	LP-NOMAG		
-PKSF-1.M	PKSF-1.		This study	LP-NOMAG		
-PKSF-1.N	PKSF-1.		This study	LP-NOMAG		
-PKSF-1.O	PKSF-1.		This study	LP-NOMAG		
-PKSF-1.P	PKSF-1.		This study	LP-NOMAG		
+PKSF-1A	PKSF-1	NA	This study	LP-NOMAG		
+PKSF-1B	PKSF-1	NA	This study	LP-NOMAG		
+PKSF-1C	PKSF-1	NA	This study	LP-NOMAG		
+PKSF-1D	PKSF-1	NA	This study	LP-NOMAG		
+PKSF-1E	PKSF-1	NA	This study	LP-NOMAG		
+PKSF-1F	PKSF-1	NA	This study	LP-NOMAG		
+PKSF-1G	PKSF-1	NA	This study	LP-NOMAG		
+PKSF-1H	PKSF-1	NA	This study	LP-NOMAG		
+PKSF-1I	PKSF-1	NA	This study	LP-NOMAG		
+PKSF-1J	PKSF-1	NA	This study	LP-NOMAG		
+PKSF-1K	PKSF-1	NA	This study	LP-NOMAG		
+PKSF-1L	PKSF-1	NA	This study	LP-NOMAG		
+PKSF-1M	PKSF-1	NA	This study	LP-NOMAG		
+PKSF-2A	PKSF-2	NA	This study	LP-NOMAG		
+PKSF-2B	PKSF-2	NA	This study	LP-NOMAG		
+PKSF-2C	PKSF-2	NA	This study	LP-NOMAG		
+PKSF-2D	PKSF-2	NA	This study	LP-NOMAG		
+PKSF-2E	PKSF-2	NA	This study	LP-NOMAG		
+PKSF-2F	PKSF-2	NA	This study	LP-NOMAG		
+PKSF-2G	PKSF-2	NA	This study	LP-NOMAG		
+PKSF-2H	PKSF-2	NA	This study	LP-NOMAG		
+PKSF-2I	PKSF-2	NA	This study	LP-NOMAG		
+PKSF-2J	PKSF-2	NA	This study	LP-NOMAG		
+PKSF-2K	PKSF-2	NA	This study	LP-NOMAG		
+PKSF-2L	PKSF-2	NA	This study	LP-NOMAG		
+PKSF-3A	PKSF-3	NA	This study	LP-NOMAG		
+PKSF-3B	PKSF-3	NA	This study	LP-NOMAG		
+PKSF-3C	PKSF-3	NA	This study	LP-NOMAG		
+PKSF-3D	PKSF-3	NA	This study	LP-NOMAG		
+PKSF-3E	PKSF-3	NA	This study	LP-NOMAG		
+PKSF-3F	PKSF-3	NA	This study	LP-NOMAG		
+PKSF-3G	PKSF-3	NA	This study	LP-NOMAG		
+PKSF-3H	PKSF-3	NA	This study	LP-NOMAG		
+PKSF-3I	PKSF-3	NA	This study	LP-NOMAG		
+PKSF-3J	PKSF-3	NA	This study	LP-NOMAG		
+PKSF-3K	PKSF-3	NA	This study	LP-NOMAG		
+PKSF-3L	PKSF-3	NA	This study	LP-NOMAG		
+PKSF-3M	PKSF-3	NA	This study	LP-NOMAG		
+PKSF-4A	PKSF-4	NA	This study	LP-NOMAG		
+PKSF-4B	PKSF-4	NA	This study	LP-NOMAG		
+PKSF-4C	PKSF-4	NA	This study	LP-NOMAG		
+PKSF-4D	PKSF-4	NA	This study	LP-NOMAG		
+PKSF-4E	PKSF-4	NA	This study	LP-NOMAG		
+PKSF-4F	PKSF-4	NA	This study	LP-NOMAG		
+PKSF-4G	PKSF-4	NA	This study	LP-NOMAG		
+PKSF-4H	PKSF-4	NA	This study	LP-NOMAG		
+PKSF-4I	PKSF-4	NA	This study	LP-NOMAG		
+PKSF-4J	PKSF-4	NA	This study	LP-NOMAG		
+PKSF-4K	PKSF-4	NA	This study	LP-NOMAG		
+PKSF-4L	PKSF-4	NA	This study	LP-NOMAG		
+PKSF-5A	PKSF-5	NA	This study	LP-NOMAG		
+PKSF-5B	PKSF-5	NA	This study	LP-NOMAG		
+PKSF-5C	PKSF-5	NA	This study	LP-NOMAG		
+PKSF-5D	PKSF-5	NA	This study	LP-NOMAG		
+PKSF-5E	PKSF-5	NA	This study	LP-NOMAG		
+PKSF-5F	PKSF-5	NA	This study	LP-NOMAG		
+PKSF-5G	PKSF-5	NA	This study	LP-NOMAG		
+PKSF-5H	PKSF-5	NA	This study	LP-NOMAG		
+PKSF-5I	PKSF-5	NA	This study	LP-NOMAG		
+PKSF-5J	PKSF-5	NA	This study	LP-NOMAG		
+PKSF-5K	PKSF-5	NA	This study	LP-NOMAG		
+PKSF-5L	PKSF-5	NA	This study	LP-NOMAG		
+PKSF-5M	PKSF-5	NA	This study	LP-NOMAG		
+PKSF-6A	PKSF-6	NA	This study	LP-NOMAG		
+PKSF-6B	PKSF-6	NA	This study	LP-NOMAG		
+PKSF-6C	PKSF-6	NA	This study	LP-NOMAG		
+PKSF-6D	PKSF-6	NA	This study	LP-NOMAG		
+PKSF-6E	PKSF-6	NA	This study	LP-NOMAG		
+PKSF-6F	PKSF-6	NA	This study	LP-NOMAG		
+PKSF-6G	PKSF-6	NA	This study	LP-NOMAG		
+PKSF-7A	PKSF-7	NA	This study	LP-NOMAG		
+PKSF-7B	PKSF-7	NA	This study	LP-NOMAG		
+PKSF-7C	PKSF-7	NA	This study	LP-NOMAG		
+PKSF-7D	PKSF-7	NA	This study	LP-NOMAG		
+PKSF-7E	PKSF-7	NA	This study	LP-NOMAG		
+PKSF-7F	PKSF-7	NA	This study	LP-NOMAG		
+PKSF-7G	PKSF-7	NA	This study	LP-NOMAG		
+PKSF-7H	PKSF-7	NA	This study	LP-NOMAG		
+PKSF-7I	PKSF-7	NA	This study	LP-NOMAG		
+PKSF-7J	PKSF-7	NA	This study	LP-NOMAG		
+PKSF-8A	PKSF-8	NA	This study	LP-NOMAG		
+PKSF-8B	PKSF-8	NA	This study	LP-NOMAG		
+PKSF-8C	PKSF-8	NA	This study	LP-NOMAG		
+PKSF-8D	PKSF-8	NA	This study	LP-NOMAG		
+PKSF-8E	PKSF-8	NA	This study	LP-NOMAG		
+PKSF-8F	PKSF-8	NA	This study	LP-NOMAG		
+PKSF-8G	PKSF-8	NA	This study	LP-NOMAG		
+PKSF-8H	PKSF-8	NA	This study	LP-NOMAG		
+PKSF-9A	PKSF-9	NA	This study	LP-NOMAG		
+PKSF-9B	PKSF-9	NA	This study	LP-NOMAG		
+PKSF-9C	PKSF-9	NA	This study	LP-NOMAG		
+PKSF-9D	PKSF-9	NA	This study	LP-NOMAG		
+PKSF-9E	PKSF-9	NA	This study	LP-NOMAG		
+PKSF-9F	PKSF-9	NA	This study	LP-NOMAG		
+PKSF-9G	PKSF-9	NA	This study	LP-NOMAG		
+PKSF-9H	PKSF-9	NA	This study	LP-NOMAG		
+PKSF-9I	PKSF-9	NA	This study	LP-NOMAG		
+PKSF-9J	PKSF-9	NA	This study	LP-NOMAG		
+PKSF-0A	PKSF-0	NA	This study	LP-NOMAG		
+PKSF-0B	PKSF-0	NA	This study	LP-NOMAG		
+PKSF-0C	PKSF-0	NA	This study	LP-NOMAG		
+PKSF-0D	PKSF-0	NA	This study	LP-NOMAG		
+PKSF-0E	PKSF-0	NA	This study	LP-NOMAG		
+PKSF-0F	PKSF-0	NA	This study	LP-NOMAG		
+PKSF-0G	PKSF-0	NA	This study	LP-NOMAG		
+PKSF-0H	PKSF-0	NA	This study	LP-NOMAG		
+PKSF-0I	PKSF-0	NA	This study	LP-NOMAG		
+PKSF-0J	PKSF-0	NA	This study	LP-NOMAG		
+PKSF-0K	PKSF-0	NA	This study	LP-NOMAG		
+PKSF-0L	PKSF-0	NA	This study	LP-NOMAG		
+PKSF-0M	PKSF-0	NA	This study	LP-NOMAG		
+PKSF-0N	PKSF-0	NA	This study	LP-NOMAG		
+PKSF-1.A	PKSF-1.	NA	This study	LP-NOMAG		
+PKSF-1.B	PKSF-1.	NA	This study	LP-NOMAG		
+PKSF-1.C	PKSF-1.	NA	This study	LP-NOMAG		
+PKSF-1.D	PKSF-1.	NA	This study	LP-NOMAG		
+PKSF-1.E	PKSF-1.	NA	This study	LP-NOMAG		
+PKSF-1.F	PKSF-1.	NA	This study	LP-NOMAG		
+PKSF-1.G	PKSF-1.	NA	This study	LP-NOMAG		
+PKSF-1.H	PKSF-1.	NA	This study	LP-NOMAG		
+PKSF-1.I	PKSF-1.	NA	This study	LP-NOMAG		
+PKSF-1.J	PKSF-1.	NA	This study	LP-NOMAG		
+PKSF-1.K	PKSF-1.	NA	This study	LP-NOMAG		
+PKSF-1.L	PKSF-1.	NA	This study	LP-NOMAG		
+PKSF-1.M	PKSF-1.	NA	This study	LP-NOMAG		
+PKSF-1.N	PKSF-1.	NA	This study	LP-NOMAG		
+PKSF-1.O	PKSF-1.	NA	This study	LP-NOMAG		
+PKSF-1.P	PKSF-1.	NA	This study	LP-NOMAG		

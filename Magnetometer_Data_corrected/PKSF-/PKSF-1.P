@@ -1,2 +1,2 @@
-PKSF- 1.P sun compass orientation
-      0 107.8  53.0   0.0   0.0   1.0
+PKSF- 1.P 
+        109.5  53.0   0.0   0.0   1.0
