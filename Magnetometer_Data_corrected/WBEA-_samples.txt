@@ -1,4 +1,17 @@
 tab	samples
 sample	site	height	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes
-WBEA-1	WBEA	1397				NA	   -0.4	    0.0	    0.0	   90.0	  -22.0	This study	SO-CMD-NORTH
-WBEA-2	WBEA	1397				NA	   78.6	    0.0	    0.0	   90.0	   -8.0	This study	SO-CMD-NORTH
+WBEA-1A	WBEA	1397					   -0.4	    0.0	    0.0	   90.0	  -22.0	This study	SO-CMD-NORTH
+WBEA-1B	WBEA	1397					   -0.4	    0.0	    0.0	   90.0	  -22.0	This study	SO-CMD-NORTH
+WBEA-1C	WBEA	1397					   -0.4	    0.0	    0.0	   90.0	  -22.0	This study	SO-CMD-NORTH
+WBEA-1D	WBEA	1397					   -0.4	    0.0	    0.0	   90.0	  -22.0	This study	SO-CMD-NORTH
+WBEA-1E	WBEA	1397					   -0.4	    0.0	    0.0	   90.0	  -22.0	This study	SO-CMD-NORTH
+WBEA-1F	WBEA	1397					   -0.4	    0.0	    0.0	   90.0	  -22.0	This study	SO-CMD-NORTH
+WBEA-1G	WBEA	1397					   -0.4	    0.0	    0.0	   90.0	  -22.0	This study	SO-CMD-NORTH
+WBEA-1H	WBEA	1397					   -0.4	    0.0	    0.0	   90.0	  -22.0	This study	SO-CMD-NORTH
+WBEA-1I	WBEA	1397					   -0.4	    0.0	    0.0	   90.0	  -22.0	This study	SO-CMD-NORTH
+WBEA-1J	WBEA	1397					   -0.4	    0.0	    0.0	   90.0	  -22.0	This study	SO-CMD-NORTH
+WBEA-2A	WBEA	1397					   78.6	    0.0	    0.0	   90.0	   -8.0	This study	SO-CMD-NORTH
+WBEA-2B	WBEA	1397					   78.6	    0.0	    0.0	   90.0	   -8.0	This study	SO-CMD-NORTH
+WBEA-2C	WBEA	1397					   78.6	    0.0	    0.0	   90.0	   -8.0	This study	SO-CMD-NORTH
+WBEA-2D	WBEA	1397					   78.6	    0.0	    0.0	   90.0	   -8.0	This study	SO-CMD-NORTH
+WBEA-2E	WBEA	1397					   78.6	    0.0	    0.0	   90.0	   -8.0	This study	SO-CMD-NORTH

@@ -1,3 +1,9 @@
 tab	samples
 sample	site	height	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes
-PKSI-1	PKSI	553				NA	  226.7	    0.0	    0.0	   88.7	  -25.0	This study	SO-CMD-NORTH
+PKSI-1A	PKSI	553				NA	  226.7	    0.0	    0.0	   88.7	  -25.0	This study	SO-CMD-NORTH
+PKSI-1B	PKSI	553				NA	  226.7	    0.0	    0.0	   88.7	  -25.0	This study	SO-CMD-NORTH
+PKSI-1C	PKSI	553				NA	  226.7	    0.0	    0.0	   88.7	  -25.0	This study	SO-CMD-NORTH
+PKSI-1D	PKSI	553				NA	  226.7	    0.0	    0.0	   88.7	  -25.0	This study	SO-CMD-NORTH
+PKSI-1E	PKSI	553				NA	  226.7	    0.0	    0.0	   88.7	  -25.0	This study	SO-CMD-NORTH
+PKSI-1F	PKSI	553				NA	  226.7	    0.0	    0.0	   88.7	  -25.0	This study	SO-CMD-NORTH
+PKSI-1G	PKSI	553				NA	  226.7	    0.0	    0.0	   88.7	  -25.0	This study	SO-CMD-NORTH

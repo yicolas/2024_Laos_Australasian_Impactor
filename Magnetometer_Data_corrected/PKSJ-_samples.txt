@@ -1,5 +1,17 @@
 tab	samples
 sample	site	height	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes
-PKSJ-1	PKSJ	601				NA	  181.2	    0.0	    0.0	   88.7	  -13.0	This study	SO-CMD-NORTH
-PKSJ-2	PKSJ	601				NA	   -9.3	    0.0	    0.0	   88.7	  -16.0	This study	SO-CMD-NORTH
-PKSJ-3	PKSJ	601				NA	  -41.3	    0.0	    0.0	   88.7	  -11.5	This study	SO-CMD-NORTH
+PKSJ-1A	PKSJ	601				NA	  181.2	    0.0	    0.0	   88.7	  -13.0	This study	SO-CMD-NORTH
+PKSJ-1B	PKSJ	601				NA	  181.2	    0.0	    0.0	   88.7	  -13.0	This study	SO-CMD-NORTH
+PKSJ-1C	PKSJ	601				NA	  181.2	    0.0	    0.0	   88.7	  -13.0	This study	SO-CMD-NORTH
+PKSJ-1D	PKSJ	601				NA	  181.2	    0.0	    0.0	   88.7	  -13.0	This study	SO-CMD-NORTH
+PKSJ-1E	PKSJ	601				NA	  181.2	    0.0	    0.0	   88.7	  -13.0	This study	SO-CMD-NORTH
+PKSJ-2A	PKSJ	601				NA	   -9.3	    0.0	    0.0	   88.7	  -16.0	This study	SO-CMD-NORTH
+PKSJ-2B	PKSJ	601				NA	   -9.3	    0.0	    0.0	   88.7	  -16.0	This study	SO-CMD-NORTH
+PKSJ-2C	PKSJ	601				NA	   -9.3	    0.0	    0.0	   88.7	  -16.0	This study	SO-CMD-NORTH
+PKSJ-2D	PKSJ	601				NA	   -9.3	    0.0	    0.0	   88.7	  -16.0	This study	SO-CMD-NORTH
+PKSJ-2E	PKSJ	601				NA	   -9.3	    0.0	    0.0	   88.7	  -16.0	This study	SO-CMD-NORTH
+PKSJ-3A	PKSJ	601				NA	  -41.3	    0.0	    0.0	   88.7	  -11.5	This study	SO-CMD-NORTH
+PKSJ-3B	PKSJ	601				NA	  -41.3	    0.0	    0.0	   88.7	  -11.5	This study	SO-CMD-NORTH
+PKSJ-3C	PKSJ	601				NA	  -41.3	    0.0	    0.0	   88.7	  -11.5	This study	SO-CMD-NORTH
+PKSJ-3D	PKSJ	601				NA	  -41.3	    0.0	    0.0	   88.7	  -11.5	This study	SO-CMD-NORTH
+PKSJ-3E	PKSJ	601				NA	  -41.3	    0.0	    0.0	   88.7	  -11.5	This study	SO-CMD-NORTH

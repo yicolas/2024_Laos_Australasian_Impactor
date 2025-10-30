@@ -1,10 +1,10 @@
 tab	specimens
 specimen	sample	analysts	citations	method_codes	volume	weight
-PKSB-1A	PKSB-1		This study	LP-NOMAG		
-PKSB-1B	PKSB-1		This study	LP-NOMAG		
-PKSB-1C	PKSB-1		This study	LP-NOMAG		
-PKSB-1D	PKSB-1		This study	LP-NOMAG		
-PKSB-1E	PKSB-1		This study	LP-NOMAG		
-PKSB-1F	PKSB-1		This study	LP-NOMAG		
-PKSB-1G	PKSB-1		This study	LP-NOMAG		
-PKSB-1H	PKSB-1		This study	LP-NOMAG		
+PKSB-1A	PKSB-1A	NA	This study	LP-NOMAG		
+PKSB-1B	PKSB-1B	NA	This study	LP-NOMAG		
+PKSB-1C	PKSB-1C	NA	This study	LP-NOMAG		
+PKSB-1D	PKSB-1D	NA	This study	LP-NOMAG		
+PKSB-1E	PKSB-1E	NA	This study	LP-NOMAG		
+PKSB-1F	PKSB-1F	NA	This study	LP-NOMAG		
+PKSB-1G	PKSB-1G	NA	This study	LP-NOMAG		
+PKSB-1H	PKSB-1H	NA	This study	LP-NOMAG		

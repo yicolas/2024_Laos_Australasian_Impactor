@@ -1,7 +1,25 @@
 tab	samples
 sample	site	height	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes
-NWFA-1	NWFA	518				NA	  156.1	    0.0	    0.0	   90.0	  -59.0	This study	SO-CMD-NORTH
-NWFA-2	NWFA	518				NA	  179.2	    0.0	    0.0	   90.0	  -47.5	This study	SO-CMD-NORTH
-NWFA-3	NWFA	518				NA	  217.5	    0.0	    0.0	   90.0	  -41.5	This study	SO-CMD-NORTH
-NWFA-4	NWFA	518				NA	  155.3	    0.0	    0.0	   90.0	  -60.0	This study	SO-CMD-NORTH
-NWFA-5	NWFA	518				NA	  228.3	    0.0	    0.0	   90.0	 -110.0	This study	SO-CMD-NORTH
+NWFA-1A	NWFA	518				NA	  156.1	    0.0	    0.0	   90.0	  -59.0	This study	SO-CMD-NORTH
+NWFA-1B	NWFA	518				NA	  156.1	    0.0	    0.0	   90.0	  -59.0	This study	SO-CMD-NORTH
+NWFA-1C	NWFA	518				NA	  156.1	    0.0	    0.0	   90.0	  -59.0	This study	SO-CMD-NORTH
+NWFA-1D	NWFA	518				NA	  156.1	    0.0	    0.0	   90.0	  -59.0	This study	SO-CMD-NORTH
+NWFA-1E	NWFA	518				NA	  156.1	    0.0	    0.0	   90.0	  -59.0	This study	SO-CMD-NORTH
+NWFA-1F	NWFA	518				NA	  156.1	    0.0	    0.0	   90.0	  -59.0	This study	SO-CMD-NORTH
+NWFA-1G	NWFA	518				NA	  156.1	    0.0	    0.0	   90.0	  -59.0	This study	SO-CMD-NORTH
+NWFA-1H	NWFA	518				NA	  156.1	    0.0	    0.0	   90.0	  -59.0	This study	SO-CMD-NORTH
+NWFA-1I	NWFA	518				NA	  156.1	    0.0	    0.0	   90.0	  -59.0	This study	SO-CMD-NORTH
+NWFA-2A	NWFA	518				NA	  179.2	    0.0	    0.0	   90.0	  -47.5	This study	SO-CMD-NORTH
+NWFA-2B	NWFA	518				NA	  179.2	    0.0	    0.0	   90.0	  -47.5	This study	SO-CMD-NORTH
+NWFA-2C	NWFA	518				NA	  179.2	    0.0	    0.0	   90.0	  -47.5	This study	SO-CMD-NORTH
+NWFA-2D	NWFA	518				NA	  179.2	    0.0	    0.0	   90.0	  -47.5	This study	SO-CMD-NORTH
+NWFA-2E	NWFA	518				NA	  179.2	    0.0	    0.0	   90.0	  -47.5	This study	SO-CMD-NORTH
+NWFA-3A	NWFA	518				NA	  217.5	    0.0	    0.0	   90.0	  -41.5	This study	SO-CMD-NORTH
+NWFA-3B	NWFA	518				NA	  217.5	    0.0	    0.0	   90.0	  -41.5	This study	SO-CMD-NORTH
+NWFA-3C	NWFA	518				NA	  217.5	    0.0	    0.0	   90.0	  -41.5	This study	SO-CMD-NORTH
+NWFA-4A	NWFA	518				NA	  155.3	    0.0	    0.0	   90.0	  -60.0	This study	SO-CMD-NORTH
+NWFA-4B	NWFA	518				NA	  155.3	    0.0	    0.0	   90.0	  -60.0	This study	SO-CMD-NORTH
+NWFA-4C	NWFA	518				NA	  155.3	    0.0	    0.0	   90.0	  -60.0	This study	SO-CMD-NORTH
+NWFA-5A	NWFA	518				NA	  228.3	    0.0	    0.0	   90.0	 -110.0	This study	SO-CMD-NORTH
+NWFA-5B	NWFA	518				NA	  228.3	    0.0	    0.0	   90.0	 -110.0	This study	SO-CMD-NORTH
+NWFA-5C	NWFA	518				NA	  228.3	    0.0	    0.0	   90.0	 -110.0	This study	SO-CMD-NORTH

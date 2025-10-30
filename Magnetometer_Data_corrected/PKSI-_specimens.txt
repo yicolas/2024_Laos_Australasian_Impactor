@@ -1,9 +1,9 @@
 tab	specimens
 specimen	sample	analysts	citations	method_codes	volume	weight
-PKSI-1A	PKSI-1	NA	This study	LP-NOMAG		
-PKSI-1B	PKSI-1	NA	This study	LP-NOMAG		
-PKSI-1C	PKSI-1	NA	This study	LP-NOMAG		
-PKSI-1D	PKSI-1	NA	This study	LP-NOMAG		
-PKSI-1E	PKSI-1	NA	This study	LP-NOMAG		
-PKSI-1F	PKSI-1	NA	This study	LP-NOMAG		
-PKSI-1G	PKSI-1	NA	This study	LP-NOMAG		
+PKSI-1A	PKSI-1A	NA	This study	LP-NOMAG		
+PKSI-1B	PKSI-1B	NA	This study	LP-NOMAG		
+PKSI-1C	PKSI-1C	NA	This study	LP-NOMAG		
+PKSI-1D	PKSI-1D	NA	This study	LP-NOMAG		
+PKSI-1E	PKSI-1E	NA	This study	LP-NOMAG		
+PKSI-1F	PKSI-1F	NA	This study	LP-NOMAG		
+PKSI-1G	PKSI-1G	NA	This study	LP-NOMAG		

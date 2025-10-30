@@ -1,3 +1,10 @@
 tab	samples
 sample	site	height	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes
-PKSB-1	PKSB	906					   27.4	    0.0	    0.0	   88.7	  -19.5	This study	SO-CMD-NORTH
+PKSB-1A	PKSB	906				NA	   27.4	    0.0	    0.0	   88.7	  -19.5	This study	SO-CMD-NORTH
+PKSB-1B	PKSB	906				NA	   27.4	    0.0	    0.0	   88.7	  -19.5	This study	SO-CMD-NORTH
+PKSB-1C	PKSB	906				NA	   27.4	    0.0	    0.0	   88.7	  -19.5	This study	SO-CMD-NORTH
+PKSB-1D	PKSB	906				NA	   27.4	    0.0	    0.0	   88.7	  -19.5	This study	SO-CMD-NORTH
+PKSB-1E	PKSB	906				NA	   27.4	    0.0	    0.0	   88.7	  -19.5	This study	SO-CMD-NORTH
+PKSB-1F	PKSB	906				NA	   27.4	    0.0	    0.0	   88.7	  -19.5	This study	SO-CMD-NORTH
+PKSB-1G	PKSB	906				NA	   27.4	    0.0	    0.0	   88.7	  -19.5	This study	SO-CMD-NORTH
+PKSB-1H	PKSB	906				NA	   27.4	    0.0	    0.0	   88.7	  -19.5	This study	SO-CMD-NORTH

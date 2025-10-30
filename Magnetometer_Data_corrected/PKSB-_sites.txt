@@ -1,3 +1,3 @@
 tab	sites
 site	location	lat	lon	analysts	citations
-PKSB	PKSB	15.2	106.2		This study
+PKSB	PKSB	15.2	106.2	NA	This study
