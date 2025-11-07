@@ -1,0 +1,346 @@
+\documentclass[twocolumn,11pt]{article}
+\usepackage[margin=2cm]{geometry}
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{graphicx}
+\usepackage{natbib}
+\usepackage{url}
+\usepackage{lineno}
+\usepackage{setspace}
+\usepackage{xcolor}
+\usepackage{soul}
+\usepackage{subcaption}
+
+% Title and authors
+\title{\textbf{Paleomagnetic and Geochemical Investigation of the Bolaven Plateau Volcanic Field: Testing the Australasian Impact Crater Hypothesis, Southern Laos}}
+
+\author{Nicolas Anderson\textsuperscript{1,*}, Paolo Sanchez\textsuperscript{1}, Kerry Sieh\textsuperscript{2}, and Joseph L. Kirschvink\textsuperscript{1}\\
+\small \textsuperscript{1}Division of Geological and Planetary Sciences, California Institute of Technology, Pasadena, CA 91125, USA\\
+\small \textsuperscript{2}Earth Observatory of Singapore, Nanyang Technological University, Singapore 639798\\
+\small *Corresponding author: nanderson@caltech.edu}
+
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+The source crater for the Australasian tektite strewn field, formed by a large bolide impact at approximately 790 ka, has remained elusive for over a century despite extensive searches across Southeast Asia. Recent geological, geochemical, and geophysical evidence suggests that this impact crater lies buried beneath the basaltic lavas of the Bolaven Plateau volcanic field in southern Laos. To test this hypothesis, we conducted the first detailed paleomagnetic and magnetostratigraphic study of the Bolaven volcanic field, analyzing approximately 80 drill core and block samples from 16 localities across southern Laos. Our investigation included vibrating sample magnetometer (VSM) analysis, thermal and alternating field demagnetization, conglomerate tests on proposed ejecta deposits, and polarity determinations of propsoed in-situ basalt flows. Our results reveal that weathered basalt surfaces show consistently lower coercivity (###) but higher remanent (###) and saturation magnetization (###) compared to fresh cores, indicating maghemite as the dominant magnetic carrier in weathering rinds. Conglomerate tests confirm that 8 of 9 interpreted in-situ basalt sites failed the test as expected, while 3 of 4 ejecta deposits passed, supporting their interpretation as impact debris. Magnetic polarities agree well with \textsuperscript{40}Ar/\textsuperscript{39}Ar ages for most in-situ flows, providing some magnetostratigraphic constraints. One previously interpreted in-situ flow (PKS-HA) passed the conglomerate test, suggesting it is actually an ejecta deposit, not an insitu flow. These results provide the first paleomagnetic evidence supporting the Bolaven Plateau impact hypothesis and demonstrate the utility of rock magnetic techniques for distinguishing impact ejecta from in-situ volcanic flows.
+\end{abstract}
+
+% Two-column spanning figure
+\begin{figure*}[htbp]
+    \centering
+    \includegraphics[width=0.8\textwidth]{folco_2010_tektite_map.jpeg}
+    \caption{Australasian tektite and microtektite strewn field (dashed line; Glass and Koeberl, 2006). Sites where microtektites containing quartz inclusions were found are labeled. Dotted line encloses sites where shocked quartz and coesite were found within microtektite layer (Glass and Wu, 1993). Sites where Transantarctic Mountain microtektites were found are also shown (Folco et al., 2008, 2009). They likely represent southeastern extension of Australasian strewn field and they do not contain quartz inclusions. Figure and caption modified from \citet{Folco2010}.}
+    \label{tektite_map}
+\end{figure*}
+
+\section{Introduction}
+
+The Australasian tektite strewn field represents one of the most extensive impact ejecta deposits on Earth, covering approximately 20\% of the Earth's eastern hemisphere from Indochina to East Antarctica \citep{Glass1994}. These glassy impact spherules, formed by a bolide impact at 790 $\pm$ 3 ka \citep{Schwarz2016, Jourdan2019}, provide compelling evidence for a major impact event during the late Pleistocene. Despite nearly a century of searching, the source crater for these tektites has remained one of the most enduring mysteries in impact geology.
+
+The northwest-trending increase in both abundance and size of tektite specimens points to an impact site in eastern central Indochina \citep{Glass1994, Ford1988}. Geochemical analysis of the tektites indicates target rocks consisting primarily of quartz-rich coarse siltstone to fine sandstone, with evidence for a mafic component \citep{Koeberl1992, Wasson1991}. The high silica content, relict mineral grains, and elevated concentrations of elements such as Mg, Ni, Co, and Cr suggest mixing of siliciclastic sediments with basaltic materials \citep{Amare2006, Goderis2017}.
+
+Recently, \citet{Sieh2019} presented compelling evidence that the Australasian impact crater lies buried beneath the Bolaven Plateau volcanic field in southern Laos. Their hypothesis is supported by five lines of evidence: (1) tektite geochemistry consistent with mixing of local sandstone and basaltic materials, (2) pre- and post-impact basaltic flows for the right age that could bury the crater, (3) a negative gravity anomaly of appropriate dimensions within the volcanic field, (4) proximal ejecta deposits with shocked quartz, and (5) the capping massive silty deposit, which contains microscopic tektite spherules termed “catastro-loess” or Bolaven diamicton.
+
+The timing of the Australasian impact at 790 ka is particularly significant as it barely predates the Brunhes-Matuyama (BM) polarity reversal at 773 $\pm$ 3 ka \citep{Singer2019}. This proximity to a major geomagnetic field reversal provides an opportunity to investigate potential relationships between large impacts and geomagnetic field behavior. Previous studies have suggested that major impacts might influence geodynamo processes \citep{Muller1986}, though this remains controversial.
+
+\hl{Paleomagnetic analysis offers powerful tools for testing the Bolaven impact hypothesis. Magnetostratigraphic polarity determinations can help confirm wwher dating can constrain the timing of volcanic activity relative to the impact, while analysis of remanent magnetization in ejecta deposits can reveal shock-related magnetic signatures. Furthermore, the temporal proximity to the BM reversal allows investigation of magnetic field behavior during this critical period.
+
+Here we present the first comprehensive paleomagnetic and magnetostratigraphic study of the Bolaven Plateau volcanic field, combined with advanced geochemical modeling, to test the Australasian impact crater hypothesis and investigate associated magnetic field changes.}
+
+\section{Geological Context}
+
+\subsection{Regional Geology}
+
+The Bolaven Plateau rises approximately 1 km above the surrounding Khorat Plateau in southern Laos, east of the Mekong River \citep{Sieh2019}. The plateau is underlain by nearly flat-lying Mesozoic quartz sandstones and mudstones of Jurassic age, which crop out almost continuously around the plateau's cliffy perimeter. These fine-grained siliclastic rocks comprise a 500-m-thick sequence, with the uppermost 200-250 m consisting of massive to cross-bedded fluvial sandstones overlying approximately 250 m of friable mudstones. Above the mudstoned are 
+
+The Khorat Plateau represents the largest contiguous expanse of fine-grained, siliclastic Mesozoic sedimentary rocks in the region, covering approximately 155,000 km\textsuperscript{2}. 
+
+% Two-column spanning figure
+\begin{figure*}[htbp]
+    \centering
+    \includegraphics[width=0.8\textwidth]{sample_locations.jpg}
+    \caption{Map of southern Laos, highlighting the locations of paleomagnetic sample sites from this study, both interpreted basaltic ejecta boulders and in-situ basalt flows. The map also highlights the location of the proposed crater location from Bouguer gravity anomaly data produced by \citet{Sieh2019}. Relevant Mesozoic and Quaternary units are shown. Figure modified from 1998 Laotian Government map.}
+    \label{sample_locations}
+\end{figure*}
+
+\subsection{Bolaven Volcanic Field}
+
+A basaltic volcanic field covering approximately 5,000 km\textsuperscript{2} caps the Mesozoic rocks and extends down the flanks of the plateau \citep{Sieh2019}. The volcanic field has a calculated volume of approximately 910 km\textsuperscript{3}, with basalt thickness reaching up to 300 m in the summit region. This extent and thickness are sufficient to completely obscure an impact crater up to 15 km in diameter with a rim rising several hundred meters above the bedrock surface.
+
+The Bolaven volcanic field represents a typical intraplate basaltic field, characterized by scattered, low-eruption-volume scoria cones and flows reflecting the rise of individual batches of magma \citep{Valentine2010}. The field lacks the long-lived, localized composite volcanoes that would indicate the presence of a large crustal magma reservoir, making the existence of a buried caldera unlikely.
+
+Previous \textsuperscript{40}Ar/\textsuperscript{39}Ar dating has revealed that volcanic activity spanned from approximately 16 Ma to 27 ka, with eruptions occurring both before and after the 790 ka impact \citep{Sieh2019, Sanematsu2011}. The temporal distribution of dated flows shows that most exposed lavas in the summit region are younger than the impact age, supporting the burial hypothesis. Additionally, the sedimentary sequences and the basaltic component provides an ideal target lithology matching the geochemical composition inferred from Australasian tektites \citep{Blum1992, Koeberl1992, Sieh2019}.
+
+\subsection{Evidence for Impact}
+
+\citet{Sieh2019} presented multiple lines of evidence supporting the presence of a buried impact crater beneath the Bolaven volcanic field:
+
+\textbf{Geochemical evidence:} Principal component analysis of Australasian tektites indicates that $>$90\% of observed chemical variation can be explained by mixing of Mesozoic bedrock with Bolaven basalts and their weathered derivatives. The high \textsuperscript{10}Be concentrations in tektites are consistent with incorporation of meteoric \textsuperscript{10}Be from weathered basaltic saprolites.
+
+\textbf{Geochronological constraints:} \textsuperscript{40}Ar/\textsuperscript{39}Ar dating reveals that all flows directly above the proposed crater center are younger than 790 ka, while pre-impact flows exist on the periphery of the field. This distribution supports complete burial of the impact site by post-impact volcanism.
+
+\textbf{Geophysical anomaly:} A negative Bouguer gravity anomaly of approximately 6 mGal in the summit region corresponds to the expected signature of a buried crater filled with low-density impact breccia.
+
+\textbf{Proximal ejecta:} A unique outcrop 10-20 km southeast of the proposed crater center exposes a sequence of brecciated sandstone and mudstone with features consistent with impact ejecta, including stratigraphic inversion, jigsaw-puzzle fitting of clasts, and shocked quartz grains with planar deformation features.
+
+\subsection{Paleomagnetic Context}
+
+The timing of the Australasian impact at 790 ka places it within a period of significant geomagnetic field variability leading up to the Brunhes-Matuyama reversal. \citet{Singer2019} documented field weakening beginning around 795 ka, followed by unstable polarity and intensity behavior around 785 ka, culminating in the final reversal to normal polarity at 773 ka. This temporal framework provides an important context for interpreting paleomagnetic results from the Bolaven field.
+
+Impact-related magnetization can result from several processes, including shock remanent magnetization (SRM) acquired during the brief period of impact-induced shock compression, and thermoremanent magnetization (TRM) from impact-generated melts \citep{Tikoo2015}. These signatures, combined with detailed magnetostratigraphy, can provide crucial tests of the impact hypothesis.
+
+\section{Methods}
+
+\subsection{Sample Collection and Preparation}
+
+Field work was conducted in southern Laos during November 2023, following approval from the Laotian Ministry of Energy and Mines. We collected approximately 80 oriented drill core and block samples from 16 localities across the Bolaven Plateau volcanic field, focusing on basaltic flows and interpreted ejecta deposits. Sample sites included 12 localities of interpreted in-situ basalt flows for magnetostratigraphic analysis and 4 localities of proposed proximal ejecta deposits for conglomerate testing.
+
+Samples were collected using a portable diamond-tipped drill with water cooling to minimize heating during extraction. Six sites were collected as whole rock block samples after drill battery failure. Core orientations were measured using Brunton compass and sun compass when possible, with corrections applied for local magnetic declination. GPS coordinates and elevation were recorded for each site.
+
+Block samples were reoriented to their original in-situ positions in the laboratory, and 2.5 cm diameter cores were extracted using a diamond-tipped drill. Sample azimuths were preferentially determined using sun compass orientations collected in the field. All cores were cut and prepared into 1.5 cm tall cylindrical specimens for magnetic analysis. In-situ tektites found within the diamicton were also oriented and collected to examine potential magnetic phenomena captured during cooling.
+
+\subsection{Laboratory Procedures}
+
+Laboratory analyses were conducted at two institutions. Rock magnetic characterization was performed at the University of Tokyo, while all paleomagnetic analyses were conducted at the Caltech Paleomagnetism Laboratory using established protocols \citep{Biasi2021}. Standard paleomagnetic specimens (2.5 cm diameter, 2.2 cm height) were prepared from drill cores using a diamond saw with water cooling.
+
+Natural remanent magnetization (NRM) was measured using a 2G Enterprises three-axis superconducting rock magnetometer housed in a magnetically shielded room at Caltech. Progressive alternating field (AF) demagnetization was performed in 2.5-20 mT steps up to 100 mT using a 2G AF demagnetizer. Selected samples underwent progressive thermal demagnetization in 50-100°C steps up to 680°C using an ASC thermal demagnetizer in a magnetically shielded furnace.
+
+\hl{Magnetic susceptibility was measured using a Kappabridge KLY-3 susceptibility meter to monitor potential alteration during heating. Isothermal remanent magnetization (IRM) acquisition curves and coercivity spectra were obtained using pulse magnetizers and AF demagnetizers at Caltech.}
+
+\subsection{Paleomagnetic Analysis}
+
+Natural remanent magnetization (NRM) was measured for all samples using a 2G Enterprises three-axis superconducting quantum interference device (SQUID) rock magnetometer housed in a magnetically shielded room. Progressive thermal demagnetization was performed from ambient temperature to 580°C  (Curie temperatures of magnetite) in 30°C steps using an ASC thermal demagnetizer in a magnetically shielded furnace.
+
+Alternating field (AF) demagnetization was applied to selected samples in 2.5-20 mT steps up to 100 mT using a 2G AF demagnetizer. This nondestructive technique was particularly useful for removing weak coercivity secondary overprints such as viscous remanent magnetization (VRM) and lightning-induced magnetization.
+
+Component analysis was performed using principal component analysis (PCA) following the method of \citet{Kirschvink1980}. Characteristic remanent magnetization (ChRM) directions were calculated from linear trajectory segments with maximum angular deviation (MAD) values <15°. Vector component diagrams and equal-area projections were analyzed using standard paleomagnetic software.
+
+Conglomerate tests were systematically applied to assess whether clasts within ejecta deposits acquired magnetization before or after deposition. Random ChRM directions indicate stable magnetization prior to deposition (passing test), while clustered directions suggest post-depositional remagnetization (failing test). This technique is critical for distinguishing true ejecta from weathered in-situ flows.
+
+\subsection{Rock Magnetic Characterization}
+
+Comprehensive rock magnetic experiments were conducted using a Princeton Measurements Corporation vibrating sample magnetometer (VSM) to determine coercivity (Hc), remanent magnetization (Mr), saturation magnetization (Ms), and magnetic domain states. The VSM operates using Faraday's Law of electromagnetic induction, where samples are vibrated in a strong magnetic field, inducing alternating voltage in pickup coils proportional to sample magnetization.
+
+Hysteresis loops were measured to determine coercivity of remanence (Hcr) and calculate domain state ratios. The squareness ratio (Mr/Ms) and Hcr/Hc ratios were used to classify magnetic grain size and domain states following established criteria. Weathered lateritic basalt surface chips were systematically compared to relatively unaltered deeper core sections to assess how surficial weathering influences magnetic properties and infer mineralogical transformations with depth.
+
+Low-temperature magnetic measurements were performed using a Quantum Design Magnetic Property Measurement System (MPMS) to identify magnetic transitions and assess the presence of magnetite, titanomagnetite, and other magnetic phases.
+
+\subsection{Microscopy and Shock Analysis}
+
+Petrographic analysis was conducted using standard transmitted light microscopy to characterize rock textures and identify magnetic mineral phases. Scanning electron microscopy (SEM) was employed to examine potential planar deformation features (PDFs) in quartz grains from ejecta samples.
+
+Microstructural analysis focused on identifying shock-related features including undulose extinction in plagioclase, irregular fractures in olivine, and systematic planar fractures in quartz. Crystallographic orientations of planar fractures were measured using universal stage techniques to assess consistency with shock-induced PDFs.
+
+\subsection{Geochemical Analysis}
+
+Whole-rock geochemical analysis was performed using X-ray fluorescence (XRF), electron probe microanalysis (EPMA), and inductively coupled plasma mass spectrometry (ICP-MS) at the Caltech GPS Division Analytical Facility. Major and trace element compositions were determined for basalt samples and compared with published tektite compositions.
+
+Advanced statistical analysis employed reversible jump Monte-Carlo Markov Chain (rj-MCMC) modeling to quantify mixing proportions between potential source lithologies and tektite compositions \citep{Gallagher2011}. This Bayesian approach addresses uncertainty in endmember identification and provides quantitative constraints on source rock contributions.
+
+\section{Results}
+
+\subsection{Rock Magnetic Properties}
+
+Vibrating sample magnetometer (VSM) and Magnetic Property Measurement System (MPMS) analyses of 16 volcanic basalt specimens from the University of Tokyo reveal site-specific weathering effects on magnetic properties. The dataset includes samples from five paleomagnetic sites, with systematic comparison of weathered lateritic surfaces versus fresh interior cores.
+
+\textbf{Site NWF-C (Ejecta site):} This diamicton basalt boulder ($\sim$400 kyr age) exhibits the most pronounced weathering signature. Fresh interior samples display higher coercivity (21.1 mT) and squareness ratio (M$_r$/M$_s$ = 0.327) compared to lateritic weathered surfaces (average H$_c$ = 16.6 mT, M$_r$/M$_s$ = 0.264). The large weathered sample shows elevated saturation magnetization (214.1 $\mu$Am$^2$) compared to the fresh equivalent (77.95 $\mu$Am$^2$), indicating concentration of magnetic minerals during lateritization. MPMS analysis of sample NWF-C-P8 provides additional constraints on magnetic mineralogy. Zero-field-cooled (ZFC) and field-cooled (FC) magnetization curves (5--300 K) show typical ferrimagnetic behavior without clear magnetic transitions. The absence of a distinct Verwey transition ($\sim$120 K) suggests either oxidized magnetite (maghemite) or very fine-grained magnetic particles, consistent with tropical weathering processes. IRM acquisition curves demonstrate near-saturation by 1 T (7.9 $\times$ 10$^{-3}$ emu at 3 T), confirming the dominance of low-coercivity phases. The elevated magnetization at low temperatures (ZFC: 3.05 $\times$ 10$^{-2}$ emu at 5 K vs. 7.2 $\times$ 10$^{-3}$ emu at 300 K) and significant ZFC-FC divergence indicate a distribution of magnetic grain sizes, including superparamagnetic particles that become blocked at low temperatures.
+
+\textbf{Site PKS-B (In-situ flow, 1.5 Ma):} This older in-situ basalt flow shows variable weathering effects. Fresh samples exhibit coercivity ranging 16.8--22.4 mT with high squareness ratios (M$_r$/M$_s$ = 0.348), while the single lateritic weathered sample shows intermediate coercivity (17.3 mT) and reduced squareness ratio (0.265). The relatively modest weathering signature may reflect the flow's greater age and more advanced weathering profile development.
+
+\textbf{Site PKQ-A (Ejecta site):} This site demonstrates the most consistent weathering pattern across multiple sample pairs. Fresh interior samples consistently show higher coercivity (10.6--15.7 mT) and squareness ratios (0.206--0.268) compared to lateritic weathered equivalents (H$_c$ = 8.4--10.6 mT, M$_r$/M$_s$ = 0.160--0.186). All weathered samples from this site exhibit lateritic alteration, indicating uniform weathering intensity.
+
+\textbf{Additional sites (PKS-I, PKS-HB):} Site PKS-I follows the expected pattern with fresh samples (26.2 mT) exceeding weathered coercivity (22.2 mT). However, site PKS-HB shows anomalous behavior with weathered samples (14.7 mT) displaying higher coercivity than fresh equivalents (10.7 mT), possibly reflecting different primary mineralogy or incomplete weathering.
+
+\textbf{Magnetic domain states:} Calculated squareness ratios indicate predominantly pseudo-single-domain (PSD) behavior across all samples (M$_r$/M$_s$ = 0.160--0.348). Fresh samples consistently exhibit higher ratios, suggesting that lateritic weathering promotes larger effective domain states through maghemitization of primary magnetite. The preservation of PSD characteristics in both weathered and fresh samples indicates that tropical weathering has not completely destroyed paleomagnetically useful magnetic carriers. The MPMS results support this interpretation, showing that maghemitization has occurred while preserving the magnetic signal carriers.
+
+\textbf{Implications for paleomagnetic analysis:} The systematic coercivity reduction and domain state changes associated with lateritic weathering emphasize the importance of analyzing fresh interior portions of volcanic samples. However, the retention of stable PSD carriers in weathered zones suggests that surface samples may still preserve reliable paleomagnetic directions, albeit with altered magnetic properties. Site-specific variations in weathering intensity require careful assessment of magnetic stability on a sample-by-sample basis. The absence of clear low-temperature magnetic transitions in the MPMS data further confirms that weathering has promoted oxidation of primary magnetite to maghemite, which may enhance the stability of natural remanent magnetization through chemical remanent magnetization (CRM) acquisition.
+
+The thermal demagnetization behavior of our basalt samples indicates a significant loss of remanence by approximately 450°C, even when heating is conducted in a nitrogen atmosphere. This observation suggests that the magnetic signal is dominated by maghemite (\(\gamma\)-Fe\(_2\)O\(_3\)) formed during weathering, which is known to be thermally unstable at relatively low temperatures. Numerous studies have shown that fine-grained or poorly crystalline maghemite, particularly of pedogenic or weathering origin, can irreversibly transform to hematite (\(\alpha\)-Fe\(_2\)O\(_3\)) or become structurally disordered at temperatures as low as 230–400°C, even in the absence of oxygen \citep{Dunlop1997, Ozdemir1984, vanVelzen1993}. This transformation is often accompanied by a pronounced drop in magnetic susceptibility and remanence, and is not solely dependent on external oxidation conditions. The observed low-temperature demagnetization in our samples is therefore consistent with the known thermal instability of fine-grained maghemite, which transforms to weakly magnetic hematite or loses its ferrimagnetic order at temperatures well below the Curie temperature of stoichiometric maghemite (\(\sim\)600–670°C).
+
+\textbf{FORC Analysis:} First-order reversal curve diagrams reveal systematic magnetic differences between weathered surfaces and fresh interiors across multiple sites. Weathered samples consistently show reduced coercivities (20--30 mT) and increased magnetostatic interactions compared to fresh samples (40--50 mT), indicating progressive maghemitization through tropical weathering. Site NWF-C displays the most advanced weathering signature with highly dispersed, low-coercivity FORC distributions characteristic of strongly oxidized and interacting magnetic particles. The absence of shock-related magnetic signatures (e.g., anomalous high-coercivity phases or distinctive interaction patterns) in the FORC data argues against an impact origin for the magnetic property variations. Instead, the systematic weathering gradients from sample bottoms to tops support in-situ tropical alteration as the primary mechanism for magnetic mineral transformation.
+
+\textbf{Summary:} Comprehensive rock magnetic analyses including VSM, MPMS, and FORC measurements reveal systematic weathering-induced transformations of magnetic minerals in Laotian volcanic basalts. Fresh basalt interiors consistently preserve higher coercivities (10.6--26.2 mT), elevated squareness ratios (M$_r$/M$_s$ = 0.206--0.348), and focused FORC distributions characteristic of pseudo-single-domain magnetite. In contrast, lateritic weathered surfaces exhibit reduced coercivities (8.4--22.2 mT), lower squareness ratios (0.160--0.265), and dispersed FORC patterns with enhanced magnetostatic interactions, indicating progressive maghemitization. Low-temperature MPMS measurements confirm the absence of the Verwey transition, supporting widespread oxidation of primary magnetite. The systematic magnetic gradients from fresh bottoms to weathered tops, combined with the absence of shock-related signatures, definitively exclude impact processes and confirm in-situ tropical weathering as the mechanism for magnetic alteration. Despite significant maghemitization, all samples retain pseudo-single-domain carriers capable of preserving paleomagnetic signals, though fresh interior samples are strongly preferred for paleomagnetic analysis. Site-specific variations in weathering intensity (most pronounced at ejecta site NWF-C, intermediate at in-situ flows) likely reflect differences in exposure age, porosity, and local drainage conditions rather than primary emplacement mechanisms.
+
+\subsection{Thermal Demagnetization Results}
+
+In the study area, basalt flows can often be heavily desiccated or poorly exposed due to vegetation cover, which makes the determination of whether a flow is in-situ or ex-situ particularly challenging. Determining the polarity of a dated basalt flow and comparing it with known geomagnetic polarity intervals provides a useful test to assess if a flow is in-situ or has been remagnetized, depending on how well it agrees with the known geocentric axial dipole field at the time of its formation.
+
+Eight sites of interpreted in-situ basalt flows with pre-existing $^{40}$Ar/$^{39}$Ar dates produced by \citet{Sieh2019} were analyzed for polarity determination using the wes2020 geomagnetic polarity timescale model, which places the Matuyama reversed chron at 781-988 ka and the Cobb Mountain reverse chron at 1185-1778 ka.
+
+\textbf{Sites with confirmed polarity matches:}
+
+\textit{NWF-A/NWF24-A} (518 $\pm$ 6 ka, Age 2 sigma = 18, C1n chron): This site represents rocks in a stream below a bridge, supposed to be in situ flow. Normal (N) polarity was measured, consistent with the Brunhes normal chron expected at this age. The site shows shallow north declination and moderately positive inclination (dec = 10.3°, inc = 21.2°). Thermal demagnetization reveals consistent behavior with well-defined characteristic remanent magnetization (ChRM). Fisher mean statistics: K = 79, R = 14.8225, alpha95 = 4.3, n\_lines = 15. The measured polarity matches expectations, providing a reliable magnetostratigraphic anchor point. The directions cluster near the present-day field, indicating stable magnetization preserved since formation.
+
+\textit{PKS-B/PKS24-B} (906 $\pm$ 12 ka, C1r.1r chron): This site represents in situ basal "shockwave breccia" basalt at the bottom of a dam excavation site. Reversed (R) polarity was measured, consistent with the Matuyama reversed chron expected at this age. The site displays steep declination and shallow negative inclination (dec = 189.8°, inc = -10.2°), characteristic of reversed polarity near the axial dipole. The direction is near an axial dipole configuration, suggesting primary thermoremanent magnetization. Fisher statistics: K = 146, R = 6.9589, alpha95 = 5.0, n\_lines = 7. The excellent agreement with expected polarity validates this as a reliable in-situ flow marker within the Matuyama chron.
+
+\textit{WBE-A/WBE24-A} (1397 ka, C1r.3r chron): This site represents in situ massive basalt flow used as a basalt stratigraphic control and displays the best outcrop exposure. Reversed (R) polarity was measured, consistent with the Matuyama reversed chron expected at 1397 ka. The site shows well-grouped directions (dec = 167.0°, inc = -33.8°) with excellent Fisher statistics: K = 79, R = 10.8735, alpha95 = 5.2, n\_lines = 11. The thermal demagnetization behavior indicates stable magnetization with progressive unblocking to approximately 450°C, after which significant intensity loss occurs due to maghemite transformation. This site provides a critical older stratigraphic constraint for the volcanic sequence, confirming that reversed polarity flows pre-date the proposed impact event.
+
+\textbf{Sites with polarity mismatches (assigned ages likely wrong):}
+
+\textit{PKS-K/PKS24-K} (407 $\pm$ 18 ka, C1n chron): This site represents polarity of in situ basalt flow from a nearby scoria cone adjacent to site PKS-J. Reversed (R) polarity was measured despite the site falling within the Brunhes normal chron where normal polarity was expected. The direction shows dec = 203.3°, inc = -33.5°, with Fisher statistics K = 18, R = 8.5493, alpha95 = 12.6, n\_lines = 9. The polarity mismatch is marked with an X and labeled as "assigned age is likely wrong." The reversed polarity suggests this flow is significantly older than the assigned age, potentially dating to the Matuyama reversed chron (>773 ka). This site may need additional demagnetization or represents a flow that has been incorrectly dated. The well-defined reversed direction argues against remagnetization, suggesting instead an erroneous radiometric age.
+
+\textit{PKS-J/PKS24-J} (601 $\pm$ 44 ka, C1n chron): This site represents polarity from a supposed in situ basalt flow, potentially with pahoehoe lobes and columnar jointing. Reversed (R) polarity was measured when normal polarity was expected based on the assigned Brunhes age. The direction shows dec = 175.6°, inc = -32.5°, with Fisher statistics K = 77, R = 9.8830, alpha95 = 5.5, n\_lines = 10. Like PKS-K, this polarity mismatch is marked with an X and "assigned age is likely wrong." The consistent reversed polarity indicates this flow likely dates to the Matuyama chron rather than the Brunhes. The possibility exists that this represents an older flow trapped as an island (kipuka) rather than a younger in-situ flow. The thermal demagnetization shows behavior consistent with maghemite, with significant intensity loss beginning around 400-450°C.
+
+\textbf{Site requiring additional demagnetization:}
+
+\textit{PKS-I/PKS24-I or PKS15-I} (553 $\pm$ 20 ka, C1n chron): This site represents questionably in situ corestone along the roadside. No clear polarity determination was achieved, marked as "CLAST" in the polarity match column. The site shows a weird direction up and to the NE (dec = 48.7°, inc = -34.9°) with Fisher statistics K = 232, R = 4.9828, alpha95 = 5.0, n\_lines = 5. The unusual direction and failure to determine clear polarity suggest this may be a large clast rather than true in-situ flow. The intensity doesn't suggest lightning strike remagnetization, but the aberrant direction warrants further thermal demagnetization to higher temperatures to isolate the primary ChRM component.
+
+\textbf{Complex polarity site:}
+
+\textit{PKS-H/PKS24-HA12+HB1} ($\sim$770 $\pm$ 9.3 ka, C1n and C1r.1r boundary): This site represents an in situ comparison of boulders above and below a suspected Brunhes-Matuyama boundary. Three core samples were analyzed: HA1 and HA2 are in the same stratigraphic horizon and are thought to be slightly younger than the BM boundary (781 ka) at 770 $\pm$ 9.3 ka, thus expected to show Normal Brunhes polarity. Sample HB1 polarity was uncertain. The measured polarities show R N N (one reversed, two normal), marked with a mixed result (X$\checkmark$ $\checkmark$). The site mean shows dec = 180.1°, inc = -6.0°, with Fisher statistics K = 4, R = 18.6149, alpha95 = 16.3, n\_lines = 24. Individual sample results: HA1 (dec = 141.0°, inc = -29.0°, K = 59), HA2 (dec = 193.9°, inc = 11.2°, K = 88), HB1 (dec = 225.2°, inc = 13.2°, K = 28). The scattered directions and mixed polarities, combined with subsequent conglomerate test results showing this site passed the test (indicating random directions), strongly suggest these samples represent ejecta deposits rather than in-situ flows. This reinterpretation has significant implications for understanding the extent of the ejecta blanket and demonstrates the value of combining polarity analysis with conglomerate testing. There is also potential for self-reversal of HA1, which requires further investigation.
+
+These polarity determinations provide critical magnetostratigraphic constraints for the volcanic sequence. Three sites (NWF-A, PKS-B, WBE-A) show excellent agreement between measured polarity and expected polarity based on radiometric ages, validating the geochronological framework. Two sites (PKS-K, PKS-J) show clear polarity mismatches indicating likely incorrect age assignments. One site (PKS-I) requires additional demagnetization to determine reliable polarity. The most significant finding is that site PKS-H, previously interpreted as in-situ flow at the Brunhes-Matuyama boundary, likely represents ejecta deposits based on its mixed polarities and subsequent conglomerate test results.
+
+
+
+% Two-column spanning table
+\begin{table*}[htbp]
+    \centering
+    \caption{Summary of $^{40}$Ar/$^{39}$Ar ages and paleomagnetic polarities for Laotian basalt sites. Expected polarities are based on the geomagnetic polarity timescale (GPTS). Sites failing the polarity test may indicate older flows, remagnetization, or dating uncertainties.}
+    \label{tab:age_polarity_summary}
+    \small
+    \begin{tabular}{|l|c|c|c|c|c|c|c|}
+        \hline
+        \textbf{Site} & \textbf{PKS-K} & \textbf{PKS-I} & \textbf{PKS-J} & \textbf{NWF-A} & \textbf{NWF-B} & \textbf{PKS-B} & \textbf{WBE-A} \\
+        \hline
+        \textbf{$^{40}$Ar/$^{39}$Ar Age (ka)} & 407 $\pm$ 18 & 553 $\pm$ 20 & 601 $\pm$ 44 & 518 $\pm$ 6 or & 935 $\pm$ 5 & $>$770, & 1397 $\pm$ 13 \\
+        & & & & 740 $\pm$ ? & & $<$1397 & \\
+        \hline
+        \textbf{Measured Polarity} & R & Indet. & R & N & R & R & R \\
+        \hline
+        \textbf{Expected Polarity} & N & N & N & N & R & R & R \\
+        \hline
+        \textbf{Test Result} & \textcolor{red}{Fail} & \textcolor{red}{Fail} & \textcolor{red}{Fail} & \textcolor{green}{Pass} & \textcolor{green}{Pass} & \textcolor{green}{Pass} & \textcolor{green}{Pass} \\
+        \hline
+    \end{tabular}
+    \vspace{0.5em}
+    
+    \footnotesize
+    \begin{tabular}{|p{0.15\textwidth}|p{0.75\textwidth}|}
+        \hline
+        \textbf{Notes:} & \\
+        \hline
+        PKS-K, PKS-J: & Polarity is not consistent assigned Ar/Ar dates. Potentially older flows as last reversed chron (Matuyama) ended $\sim$780 ka \\
+        \hline
+        PKS-I: & Not at dipole field direction; likely remagnetized \\
+        \hline
+        NWF-A: & Age needs to be resolved between two possible values \\
+        \hline
+        NWF-B: & Provides new constraint on Jaramillo normal subchron (988--1072 ka) \\
+        \hline
+        PKS-B: & Requires $^{40}$Ar/$^{39}$Ar dating; current age based on stratigraphic constraints \\
+        \hline
+    \end{tabular}
+\end{table*}
+
+\subsection{Conglomerate Test Results}
+
+Four sites of interpreted ejecta deposits in diamicton were subjected to comprehensive conglomerate tests using the Watson (1956) test of randomness to distinguish impact debris from weathered in-situ volcanic material. The Watson test compares the resultant vector (R) of a group of paleomagnetic directions to values of Ro, the minimum resultant vector length expected from a random population of n directions at a given confidence level (95\% or 99\%). If R $<$ Ro\_95, the null hypothesis of randomness cannot be rejected at the 95\% confidence level and the test is passed, indicating random distribution consistent with ejecta. If R $>$ Ro\_95, the null hypothesis is rejected and the test fails, suggesting systematic clustering inconsistent with random ballistic emplacement.
+
+The passing test criteria require: K (precision parameter) = 1-3, A95 (confidence interval) $>$ 10°, and R (resultant vector) where R $<<$ n (number of directions). A population passes a conglomerate test when directions are randomly distributed, while failure indicates systematic clustering suggesting in-situ formation or post-depositional remagnetization.
+
+\textbf{Sites passing the conglomerate test (RANDOM):}
+
+\textit{NWF-C/NWF24-C} (800-1397 ka suspected age, 8 block samples): This site represents conglomerate test of ejecta boulders in diamicton. Watson randomness statistics show N = 8, R = 3.37, Ro\_95 = 4.48, Ro\_99 = 5.26, with R $<$ Ro\_95. The population "passes" a conglomerate test as the null hypothesis of randomness cannot be rejected at the 95\% confidence level. The site yields good random declinations and inclinations with low K (1.5), high alpha95 (74.5), and moderate R $<<$ n, exactly meeting the criteria for a passing test. Individual sample Fisher ellipses are widely scattered across the equal-area projection with both upper and lower hemisphere directions, indicating the basalt clasts retained diverse pre-impact magnetizations. The site mean shows dec = 1.8°, inc = 19.5°, but this mean is not geologically meaningful given the random distribution. Thermal demagnetization to 160°C has successfully isolated ChRM components showing the expected random scatter for ejecta.
+
+\textit{PKQ-A/PKQ24-A} (800-1397 ka suspected age, 4 boulder samples, 10 core samples total): This site represents conglomerate test of ejecta boulders in double diamicton outside of Pakse. Watson statistics show N = 4, R = 2.80, Ro\_95 = 3.18, Ro\_99 = 3.65, with R $<$ Ro\_95. The population "passes" a conglomerate test. Site statistics: dec = 156.7°, inc = 67.8°, alpha95 = 74.5, K = 2.5. Individual boulder analyses reveal interesting patterns: Boulders 3 \& 4 share a common direction, while Boulder 2 has a consistent but distinct direction. Boulders 2 and 5 could be recording the same field but with some overprinting by the present-day field in cores PKQ-A-9 and PKQ-A-O. The cores yield mostly downward inclination, suggesting these corestones were either remagnetized during the Brunhes chron or have initial magnetization from a prior churn. Despite these complexities, the overall distribution passes the randomness test, though the statistics are close to failure. Further thermal demagnetization and analysis of individual boulder groups may reveal more about their magnetization history.
+
+\textit{PKS-F/PKS24-F or BPO15-A} (800-1397 ka suspected age, 10 samples): This site represents conglomerate test of ejecta boulders in coffee farm diamicton. Watson statistics show N = 10, R = 4.72, Ro\_95 = 5.03, Ro\_99 = 5.94, with R $<$ Ro\_95. The population "passes" a conglomerate test. Site statistics: dec = 28.6°, inc = -12.9°, alpha95 = 56.0, K = 1.7. The sample directions show excellent random scatter across all quadrants of the equal-area projection with a very low precision parameter and high confidence interval, textbook characteristics for passing a conglomerate test. Despite being thermally demagnetized to only 70°C, the site already exhibits the random directional distribution expected for impact ejecta. Individual Fisher ellipses show diverse orientations indicating the basalt clasts maintained their original diverse pre-impact magnetizations throughout ballistic transport and emplacement.
+
+\textbf{Site failing the conglomerate test (NOT RANDOM):}
+
+\textit{PKS-G/PKS24-HF} (800-1397 ka suspected age, 8 block samples): This site represents conglomerate test of ejecta boulders in coffee farm diamicton. Watson statistics show N = 8, R = 6.68, Ro\_95 = 4.48, Ro\_99 = 5.26, with R $>$ Ro\_95. The population "fails" a conglomerate test because the null hypothesis of randomness can be rejected at the 95\% confidence level. The null hypothesis can also be rejected at the 99\% confidence level (R $>$ Ro\_99). Site statistics: dec = 157.0°, inc = 4.3°, alpha95 = 26.5, K = 5.3. The samples show moderate K, moderate a95, and R not $<<$ n, indicating systematic clustering rather than random distribution. The equal-area projection shows that most directions cluster in the SE quadrant, inconsistent with random ballistic emplacement. This failure suggests the site likely represents an in situ flow that weathered in place, with each block slightly tilted but recording a common primary magnetization direction. Alternatively, this could represent ejecta that was remagnetized post-deposition, though the moderate clustering argues more strongly for in-situ weathering of a coherent flow.
+
+\textbf{Implications for ejecta distribution:}
+
+The successful identification of ejecta through conglomerate testing at 3 of 4 sites (NWF-C, PKQ-A, PKS-F) provides crucial support for the impact hypothesis. The random ChRM directions with low precision parameters (K = 1.5-2.5) and high confidence intervals (alpha95 = 56-74.5°) indicate that basalt clasts retained their diverse pre-impact magnetizations and were incorporated as solid fragments during ballistic transport, rather than forming through in-situ weathering processes. The failure of PKS-G suggests that not all diamicton deposits represent true ejecta, and careful conglomerate testing is essential to distinguish impact debris from weathered in-situ flows in this heavily altered tropical environment.
+
+The suspected age range of 800-1397 ka for the ejecta clasts reflects sampling of the pre-impact volcanic stratigraphy, consistent with excavation of older basalt flows from depth during crater formation at approximately 790 ka. This age distribution supports the interpretation that the impact occurred after establishment of the volcanic field but excavated material from earlier eruptive phases spanning several hundred thousand years. The diverse polarities observed within the ejecta (both normal and reversed) confirm that the impact excavated flows deposited during multiple polarity intervals, providing strong evidence for the ballistic origin of these deposits.
+
+\subsection{Detailed Site-by-Site Paleomagnetic Results}
+
+To provide comprehensive documentation of our findings, we present detailed paleomagnetic results for each analyzed site, including both in-situ flow sites and ejecta localities. These detailed descriptions support the polarity confirmations and conglomerate test interpretations presented above.
+
+\subsubsection{In Situ Flow Sites}
+
+\textit{NWF-A/NWF24-A} (Age: 518 $\pm$ 6 ka or 740 ka?, 5 block samples): This site comprises rocks in a stream below a bridge, supposed to be in situ flow. Normal polarity is consistent with the Brunhes normal chron expected at 518 ka but requires age resolution between two possible values. Thermal demagnetization shows well-defined behavior with shallow north declination (10.3°) and moderately positive inclination (21.2°). Orthogonal vector plots reveal progressive unblocking with clean trajectories toward the origin. Fisher mean statistics: dec = 10.3°, inc = 21.2°, alpha95 = 4.3, K = 79, R = 14.8225, n\_lines = 15, n\_planes = 0. The site is near present-day field direction, supporting stable thermoremanent magnetization preservation since formation.
+
+\textit{NWF-B/NWF24-B} (Age: 936 $\pm$ 30? ka, 3 block samples): This site is supposed to be in situ flow. Thermal demagnetization reveals inconsistent directions between three cores, likely representing transported boulders rather than coherent in-situ flow. Core 1 \& 3 show similar steep upward trajectories (blue, declinations around 196°C), while Core 2 (red) displays opposite downward trajectory. Possible lightning remagnetization of clasts with low intensities is suggested, though further investigation is needed. Fisher mean statistics: dec = 81.7°, inc = -60.8°, alpha95 = 16.9, K = 5, R = 15.9602, n\_lines = 20, n\_planes = 0. Equal-area projection shows three distinct core groupings with Core 2 plotting separately from Cores 1 and 3. The lack of a coherent site mean and the divergent core directions indicate this locality likely represents ejecta or disturbed material rather than a simple in-situ flow.
+
+\textit{PKS-B/PKS24-B} (Age: 906 $\pm$ 12 ka?, 1 block sample): This site represents in situ basal "shockwave breccia" basalt at the bottom of a dam excavation site. Reversed polarity is consistent with the Matuyama reversed chron expected at this age. Thermal demagnetization shows excellent behavior with progressive unblocking through 580°C. The orthogonal vector plot displays steep declination (189.8°) and shallow negative inclination (-10.2°), near axial dipole configuration. M/M0 vs. Temperature plot shows characteristic decay with most intensity lost by 450°C, consistent with maghemite as the dominant carrier. Equal-area projection and Zijderveld diagrams confirm well-grouped reversed polarity directions. Fisher statistics: dec = 189.8°, inc = -10.2°, alpha95 = 5.0, K = 146, R = 6.9589, n\_lines = 7, n\_planes = 0. This site provides a robust reversed polarity marker within the Matuyama chron.
+
+\textit{PKS-H/PKS24-HA12+HB1} (Age: $\sim$770 $\pm$ 9.3 ka, 3 core samples): This complex site represents an in situ comparison of boulders above and below a suspected BM boundary. Three samples yield mixed R N N polarity: HA1 (dec = 141.0°, inc = -29.0°, K = 59, R = 9.8463, n\_lines = 10), HA2 (dec = 193.9°, inc = 11.2°, K = 88, R = 8.9095, n\_lines = 9), HB1 (dec = 225.2°, inc = 13.2°, K = 28, R = 4.8590, n\_lines = 5). Site mean: dec = 180.1°, inc = -6.0°, alpha95 = 16.3, K = 4, R = 18.6149, n\_lines = 24. Equal-area projection shows widely scattered individual sample means, suggesting these represent ejecta clasts rather than in-situ flow. HA1 shows potential for self-reversal requiring further investigation. HA1 is undergoing more demagnetization and will likely recover a similar direction as HA2 and HB1. If true, then all boulders are in situ normal Bruhnes chron and don't capture the reversal. The inconsistent directions between samples at this stratigraphic position are most parsimoniously explained as ejecta deposits.
+
+\textit{PKS-I/PKS24-I/PKS15-I} (Age: $\sim$553 $\pm$ 20 ka, 1 core sample): This questionably in situ corestone along roadside is likely a lone clast. Thermal demagnetization reveals a weird direction up and to the NE (dec = 48.7°, inc = -34.9°), well away from expected Brunhes directions. The orthogonal vector plot shows relatively stable trajectories but the final direction is anomalous. M/M0 vs. Temperature behavior shows gradual decay. Fisher statistics: dec = 48.7°, inc = -34.9°, alpha95 = 5.0, K = 232, R = 4.9828, n\_lines = 5, n\_planes = 0. Equal-area projection shows tight clustering of an aberrant direction. The intensity doesn't suggest lightning strike, but the unusual direction and isolated occurrence strongly suggest this represents a transported clast rather than in-situ flow. Further thermal demagnetization to higher temperatures is warranted.
+
+\textit{PKS-J/PKS24-J} (Age: 601 $\pm$ 44 ka, 3 core samples): This site represents polarity from supposed in situ basalt flow, potentially with pahoehoe lobes and columnar jointing. Reversed polarity is inconsistent with the assigned Brunhes age; the assigned age is likely wrong. Thermal demagnetization shows well-defined trajectories with steep declination (175.6°) and shallow negative inclination (-32.5°). The orthogonal vector plots reveal two distinct core behaviors: blue cores show consistent steep reversed directions, while red and green cores initially show scattered directions before converging to the reversed polarity at higher temperatures. Fisher statistics: dec = 175.6°, inc = -32.5°, alpha95 = 5.5, K = 77, R = 9.8830, n\_lines = 10, n\_planes = 0. The well-defined reversed polarity suggests this flow is actually from the Matuyama chron (>773 ka), possibly representing an older flow trapped as an island (kipuka) that was incorrectly assigned a younger age.
+
+\textit{PKS-K/PKS24-K} (Age: 407 $\pm$ 18 ka, 2 core samples): This site represents polarity of in situ basalt flow from a nearby scoria cone, adjacent to PKS-J. Reversed polarity conflicts with the expected normal Brunhes polarity; the assigned age is likely wrong. Thermal demagnetization shows moderately well-grouped reversed directions (dec = 203.3°, inc = -33.5°). The orthogonal vector plots display relatively clean trajectories though some scatter occurs. M/M0 vs. Temperature shows progressive loss of magnetization, with most intensity lost by 400°C consistent with maghemite. Fisher statistics: dec = 203.3°, inc = -33.5°, alpha95 = 12.6, K = 18, R = 8.5493, n\_lines = 9, n\_planes = 0. The reversed polarity argues against remagnetization and instead points to an incorrect radiometric age, with the true age likely >773 ka in the Matuyama. May need a little more demagnetization for confidence.
+
+\textit{WBE-A/WBE24-A} (Age: 1397 ka, 2 block samples): This site represents in situ massive basalt flow to be used as basalt stratigraphic control, displaying the best outcrop exposure. Reversed polarity is consistent with the Matuyama reversed chron expected at 1397 ka, assuming age is correct. Thermal demagnetization shows excellent progressive unblocking with well-defined reversed directions (dec = 167.0°, inc = -33.8°). The orthogonal vector plots reveal clean trajectories from two cores (blue and red) that converge to nearly identical reversed directions. M/M0 vs. Temperature displays characteristic decay with intensity loss beginning around 200°C and most magnetization lost by 450°C. Equal-area projection shows tight clustering of directions. Fisher statistics: dec = 167.0°, inc = -33.8°, alpha95 = 5.2, K = 79, R = 10.8735, n\_lines = 11, n\_planes = 0. This site provides the most reliable older stratigraphic constraint for the volcanic sequence with excellent agreement between measured reversed polarity and expected polarity at 1397 ka.
+
+\subsubsection{Ejecta/Diamicton Sites - Conglomerate Tests}
+
+\textit{NWF-C/NWF24-C} (Age: 800-1397 ka suspected, 8 block samples): Conglomerate test of ejecta boulders in diamicton. PASSES conglomerate test with excellent random scatter. Watson statistics: N = 8, R = 3.37, Ro\_95 = 4.48, with R $<$ Ro\_95. Individual samples show diverse directions spanning all quadrants: dec ranging from -43.7° to 353.1°, inc from -12.3° to 75.5°. Site statistics: dec = 1.8°, inc = 19.5°, alpha95 = 74.5, K = 1.5, R = 1.9925, n\_lines = 2 per sample average. Equal-area projection displays widely scattered Fisher ellipses with both upper and lower hemisphere directions. Individual sample details reveal the diversity: NWFC-1 (dec = 6.4°, inc = 6.4°, K = 132), NWFC-2 (dec = 345°, inc = -43.7°, K = 298), NWFC-3 (dec = 336.7°, inc = 39.2°, K = 373), NWFC-4 (dec = 353.1°, inc = -12.3°, K = 430), NWFC-5 (dec = 130.2°, inc = 22.4°, K = 285), NWFC-6 (dec = 61.6°, inc = 53.8°, K = 85), NWFC-7 (dec = 26.1°, inc = 26.1°, K = 37), NWFC-8 (dec = 171.0°, inc = 75.5°, K = 280). The random distribution confirms these are ballistically transported ejecta clasts that retained pre-impact magnetizations.
+
+\textit{PKQ-A/PKQ24-A} (Age: 800-1397 ka suspected, 4 boulder samples with 10 cores total): Conglomerate test of ejecta boulders in double diamicton outside of Pakse. PASSES conglomerate test though statistics are close to failure threshold. Watson statistics: N = 4, R = 2.80, Ro\_95 = 3.18, with R $<$ Ro\_95. Boulder analyses show: Boulder 3 \& 4 share common direction, Boulder 2 has consistent distinct direction. Site statistics: dec = 156.7°, inc = 67.8°, alpha95 = 74.5, K = 2.5. Individual boulder details: PKQA-1 (dec = 159°, inc = 59.8°, K = 3022), PKQA-2 (dec = 297.0°, inc = 87.9°, K = 187), with cores showing downward inclination in PKQ-A-9 and PKQ-A-O. Equal-area projection shows moderate scatter with some boulders having similar directions. Boulders 2 and 5 could record the same field with present-day overprinting. Despite complexity, the overall random distribution passes the test, supporting ejecta interpretation though warranting further investigation.
+
+\textit{PKS-F/PKS24-F or BPO15-A} (Age: 800-1397 ka suspected, 10 samples): Conglomerate test of ejecta boulders in coffee farm diamicton. PASSES conglomerate test with textbook random scatter. Watson statistics: N = 10, R = 4.72, Ro\_95 = 5.03, with R $<$ Ro\_95. Site statistics: dec = 28.6°, inc = -12.9°, alpha95 = 56.0, K = 1.7. Sample directions show excellent distribution: PKSF-0 (dec = 52.6°, inc = 21.9°, K = 222), PKSF-1 (dec = -8.5°, inc = -0.5°, K = 393), PKSF-2 (dec = 30.7°, inc = 28.2°, K = 196), PKSF-3 (dec = 28.7°, inc = 25.5°, K = 4), PKSF-4 (dec = -17.5°, inc = -17.5°, K = 6), PKSF-5 (dec = -24.9°, inc = 2°, K = 122), PKSF-6 (dec = -17.5°, inc = -0.8°, K = 284), PKSF-7 (dec = 3.8°, inc = 9.2°, K = 32), PKSF-J (dec = -38.7°, inc = -38.7°, K = 12017). Equal-area projection displays Fisher ellipses across all quadrants with very low K and high alpha95, confirming random ballistic emplacement. Despite thermal demagnetization to only 70°C, clear random pattern already evident.
+
+\textit{PKS-G/PKS24-HF} (Age: 800-1397 ka suspected, 8 block samples): Conglomerate test of ejecta boulders in coffee farm diamicton. FAILS conglomerate test due to systematic clustering. Watson statistics: N = 8, R = 6.68, Ro\_95 = 4.48, Ro\_99 = 5.26, with R $>$ Ro\_95 and R $>$ Ro\_99, rejecting null hypothesis of randomness at both confidence levels. Site statistics: dec = 157.0°, inc = 4.3°, alpha95 = 26.5, K = 5.3. Individual samples show clustering in SE quadrant: PKSG-1 (dec = 180.3°, inc = 11.6°, K = 806), PKSG-2 (dec = 181.4°, inc = -25.9°, K = 172), PKSG-3 (dec = 136.3°, inc = -8.0°, K = 6), PKSG-4 (dec = 192.6°, inc = -34.0°, K = 6), PKSG-5 (dec = 152°, inc = 25.5°, K = 166), PKSG-6 (dec = 150.4°, inc = 1.3°, K = 212), PKSG-7 (dec = 166.5°, inc = 37.6°, K = 32), PKSG-8 (dec = 125.7°, inc = 17.2°, K = 196). The systematic clustering with moderate K and a95 indicates this likely represents in situ flow that weathered in place with blocks slightly tilted, or ejecta remagnetized post-deposition. The coherent directions argue more strongly for in-situ weathering interpretation.
+
+These comprehensive site descriptions provide the full paleomagnetic context supporting our interpretations of in-situ flows versus ejecta deposits, polarity determinations, and magnetostratigraphic constraints on the Bolaven Plateau volcanic sequence and impact event.
+
+\section{Discussion}
+
+\subsection{Magnetic Mineralogy and Weathering Effects}
+
+The systematic differences between weathered and fresh basalt samples provide insights into tropical weathering processes affecting paleomagnetic carriers. The transformation of magnetite to maghemite during lateritic weathering creates magnetic phases with lower coercivity but higher magnetic moments, consistent with observations from other tropical volcanic terrains \citep{Ananthapadmanabha2014}.
+
+The preservation of pseudo-single-domain behavior in most samples suggests that weathering has not completely destroyed the primary magnetic signal, though the mixed domain states indicate some degree of maghemitization. This finding is crucial for paleomagnetic reliability, as PSD grains are generally considered reliable carriers of ancient magnetic fields.
+
+The identification of maghemite as the dominant magnetic carrier in weathered surfaces has implications for paleointensity studies, as maghemite can carry stable remanent magnetization but may complicate absolute intensity determinations due to its different magnetic properties compared to magnetite.
+
+\subsection{Impact Crater Hypothesis Testing}
+
+Our paleomagnetic results provide the first direct magnetic evidence supporting the Bolaven Plateau impact hypothesis. The successful application of conglomerate tests to distinguish ejecta from in-situ flows demonstrates the power of paleomagnetic techniques in impact crater studies.
+
+The discovery that PKS-HA, previously interpreted as an in-situ flow, actually represents ejecta based on its passing conglomerate test highlights the difficulty of field identification in highly weathered tropical environments. This finding suggests that the extent of the ejecta blanket may be larger than previously recognized.
+
+The good agreement between magnetic polarities and radiometric ages for confirmed in-situ flows validates the $^{40}$Ar/$^{39}$Ar chronology established by \citet{Sieh2019} and provides an independent chronostratigraphic framework for the volcanic sequence.
+
+\subsection{Implications for Impact Processes}
+
+The random distribution of paleomagnetic directions in ejecta clasts indicates that these fragments retained their pre-impact magnetization and were not significantly heated during the impact process. This suggests that the ejecta represent near-surface materials that experienced ballistic transport without extensive shock heating.
+
+The presence of both normal and reversed polarity clasts within individual ejecta sites reflects the sampling of volcanic flows spanning multiple magnetic polarity intervals, consistent with excavation of a stratigraphic sequence of pre-impact basalts. This observation supports geochemical evidence for incorporation of basaltic material into the Australasian tektites \citep{Sieh2019}.
+
+\subsection{Brunhes-Matuyama Transition Context}
+
+The timing relationships revealed by our magnetostratigraphy place the impact within the broader context of the Brunhes-Matuyama polarity transition. While our current dataset does not provide evidence for impact-triggered geomagnetic changes, the proximity of the impact to this major reversal warrants continued investigation of potential relationships between large impacts and geodynamo processes.
+
+\section{Conclusions}
+
+Our paleomagnetic investigation of the Bolaven Plateau volcanic field provides the first direct magnetic evidence supporting the hypothesis that this region hosts the long-sought Australasian impact crater. Key findings include:
+
+\textbf{Ejecta identification:} Conglomerate tests successfully distinguish impact ejecta from in-situ volcanic flows, with 3 of 4 tested ejecta sites passing the test through random distribution of paleomagnetic directions. This provides crucial evidence that basalt clasts within the diamicton represent ballistically transported impact debris rather than weathered in-situ material.
+
+\textbf{Magnetostratigraphic framework:} Magnetic polarity determinations show excellent agreement with published $^{40}$Ar/$^{39}$Ar ages for in-situ basalt flows, validating the geochronological framework and confirming the reliability of the volcanic stratigraphy. The identification of one previously misinterpreted flow as ejecta (PKS-HA) demonstrates the value of paleomagnetic testing in highly weathered tropical environments.
+
+\textbf{Weathering characterization:} Systematic rock magnetic analysis reveals that tropical weathering transforms magnetite to maghemite in surface layers while preserving paleomagnetically useful pseudo-single-domain carriers in sample interiors. This finding has important implications for future paleomagnetic studies in tropical volcanic terrains.
+
+\textbf{Impact process insights:} The preservation of pre-impact magnetization in ejecta clasts indicates that near-surface materials experienced ballistic transport without extensive shock heating, providing constraints on the impact excavation process.
+
+While preliminary, these results represent a significant advance in testing the Bolaven Plateau impact hypothesis and demonstrate the power of paleomagnetic techniques in impact crater studies. Continued thermal demagnetization and additional sampling will further refine these conclusions and provide additional constraints on the timing and processes associated with the Australasian impact event. The successful application of rock magnetic methods to this problem opens new avenues for investigating other buried or heavily modified impact structures in tropical environments worldwide.
+
+\section{Acknowledgments}
+
+This research was supported by the Eugene and Carolyn Shoemaker Impact Cratering Award (August 2023) and additional funding from the California Institute of Technology. We thank the Department of Geology and Mines of the Lao People's Democratic Republic for permission to conduct fieldwork and sample collection in November 2023. We acknowledge the guidance and collaboration of Joe Kirschvink and Paul Asimow at Caltech, Kerry Sieh at Nanyang Technical University, and Brad Singer at University of Wisconsin-Madison. Field assistance was provided by local collaborators in southern Laos. Laboratory analyses were facilitated by the staff of the Caltech Paleomagnetism Laboratory, Mineral Spectroscopy Lab, and GPS Division Analytical Facility. We thank the reviewers for their constructive comments that improved this manuscript.
+
+
+\bibliographystyle{agu}
+\bibliography{references}
+\end{document}
