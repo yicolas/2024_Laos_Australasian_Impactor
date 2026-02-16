@@ -1,0 +1,6 @@
+2025-12-30 17:56:42: NWF-B-3I: : Unacceptable slop moving changer  from hole  10 to hole  9.    Target position: -9142  Current position: -9782    Execution has been paused. Please check machine.
+2026-01-02 15:49:53: NWF-B-3I: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2026-01-02 15:52:14: NWF-B-3I: : Unacceptable slop on up/down motor moving from   4115 to  52095 at speed  5000000.    Target position:  52095  Current position:  2067    Execution has been paused. Please check machine.
+2026-01-02 15:52:20: NWF-B-3I: : Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  
+2026-01-02 17:59:56: NWF-B-3I: IRMz  0 (Up): Unacceptable slop on up/down motor moving from   5322 to  17283 at speed  35000001.    Target position:  17283  Current position:  7921    Execution has been paused. Please check machine.
+2026-01-05 14:12:25: NWF-B-3I: IRMz  0 (Up): Shoemaker 2G Magnetometer Sample Changer is now operating at code Blue  

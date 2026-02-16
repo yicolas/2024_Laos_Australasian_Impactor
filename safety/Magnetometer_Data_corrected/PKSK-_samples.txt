@@ -1,0 +1,4 @@
+tab	samples
+sample	site	height	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes
+PKSK-1	PKSK	553				NA	    1.7	    0.0	    0.0	   88.7	  -28.0	This study	SO-CMD-NORTH
+PKSK-2	PKSK	553				NA	  150.7	    0.0	    0.0	   88.7	  -18.0	This study	SO-CMD-NORTH

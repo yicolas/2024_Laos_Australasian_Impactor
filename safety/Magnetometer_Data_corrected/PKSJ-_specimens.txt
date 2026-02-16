@@ -1,0 +1,17 @@
+tab	specimens
+specimen	sample	analysts	citations	method_codes	volume	weight
+PKSJ-1A	PKSJ-1	NA	This study	LP-NOMAG		
+PKSJ-1B	PKSJ-1	NA	This study	LP-NOMAG		
+PKSJ-1C	PKSJ-1	NA	This study	LP-NOMAG		
+PKSJ-1D	PKSJ-1	NA	This study	LP-NOMAG		
+PKSJ-1E	PKSJ-1	NA	This study	LP-NOMAG		
+PKSJ-2A	PKSJ-2	NA	This study	LP-NOMAG		
+PKSJ-2B	PKSJ-2	NA	This study	LP-NOMAG		
+PKSJ-2C	PKSJ-2	NA	This study	LP-NOMAG		
+PKSJ-2D	PKSJ-2	NA	This study	LP-NOMAG		
+PKSJ-2E	PKSJ-2	NA	This study	LP-NOMAG		
+PKSJ-3A	PKSJ-3	NA	This study	LP-NOMAG		
+PKSJ-3B	PKSJ-3	NA	This study	LP-NOMAG		
+PKSJ-3C	PKSJ-3	NA	This study	LP-NOMAG		
+PKSJ-3D	PKSJ-3	NA	This study	LP-NOMAG		
+PKSJ-3E	PKSJ-3	NA	This study	LP-NOMAG		

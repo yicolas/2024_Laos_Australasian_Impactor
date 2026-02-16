@@ -1,0 +1,3 @@
+tab	sites
+site	location	lat	lon	analysts	citations
+NWFA	NWFA	15.6	106.1	NA	This study

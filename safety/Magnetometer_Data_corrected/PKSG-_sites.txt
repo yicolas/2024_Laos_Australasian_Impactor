@@ -1,0 +1,3 @@
+tab	sites
+site	location	lat	lon	analysts	citations
+PKSG	PKSG	15.2	106.2	NA	This study

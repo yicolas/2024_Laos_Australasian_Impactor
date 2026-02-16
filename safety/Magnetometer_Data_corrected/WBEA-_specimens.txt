@@ -1,0 +1,17 @@
+tab	specimens
+specimen	sample	analysts	citations	method_codes	volume	weight
+WBEA-1A	WBEA-1	NA	This study	LP-NOMAG		
+WBEA-1B	WBEA-1	NA	This study	LP-NOMAG		
+WBEA-1C	WBEA-1	NA	This study	LP-NOMAG		
+WBEA-1D	WBEA-1	NA	This study	LP-NOMAG		
+WBEA-1E	WBEA-1	NA	This study	LP-NOMAG		
+WBEA-1F	WBEA-1	NA	This study	LP-NOMAG		
+WBEA-1G	WBEA-1	NA	This study	LP-NOMAG		
+WBEA-1H	WBEA-1	NA	This study	LP-NOMAG		
+WBEA-1I	WBEA-1	NA	This study	LP-NOMAG		
+WBEA-1J	WBEA-1	NA	This study	LP-NOMAG		
+WBEA-2A	WBEA-2	NA	This study	LP-NOMAG		
+WBEA-2B	WBEA-2	NA	This study	LP-NOMAG		
+WBEA-2C	WBEA-2	NA	This study	LP-NOMAG		
+WBEA-2D	WBEA-2	NA	This study	LP-NOMAG		
+WBEA-2E	WBEA-2	NA	This study	LP-NOMAG		

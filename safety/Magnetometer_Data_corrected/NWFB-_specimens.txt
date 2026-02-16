@@ -1,0 +1,27 @@
+tab	specimens
+specimen	sample	analysts	citations	method_codes	volume	weight
+NWFB-1A	NWFB-1	NA	This study	LP-NOMAG		
+NWFB-1B	NWFB-1	NA	This study	LP-NOMAG		
+NWFB-1C	NWFB-1	NA	This study	LP-NOMAG		
+NWFB-1D	NWFB-1	NA	This study	LP-NOMAG		
+NWFB-1E	NWFB-1	NA	This study	LP-NOMAG		
+NWFB-1F	NWFB-1	NA	This study	LP-NOMAG		
+NWFB-1G	NWFB-1	NA	This study	LP-NOMAG		
+NWFB-1H	NWFB-1	NA	This study	LP-NOMAG		
+NWFB-2A	NWFB-2	NA	This study	LP-NOMAG		
+NWFB-2B	NWFB-2	NA	This study	LP-NOMAG		
+NWFB-2C	NWFB-2	NA	This study	LP-NOMAG		
+NWFB-2D	NWFB-2	NA	This study	LP-NOMAG		
+NWFB-2E	NWFB-2	NA	This study	LP-NOMAG		
+NWFB-2F	NWFB-2	NA	This study	LP-NOMAG		
+NWFB-2G	NWFB-2	NA	This study	LP-NOMAG		
+NWFB-2H	NWFB-2	NA	This study	LP-NOMAG		
+NWFB-3A	NWFB-3	NA	This study	LP-NOMAG		
+NWFB-3B	NWFB-3	NA	This study	LP-NOMAG		
+NWFB-3C	NWFB-3	NA	This study	LP-NOMAG		
+NWFB-3D	NWFB-3	NA	This study	LP-NOMAG		
+NWFB-3E	NWFB-3	NA	This study	LP-NOMAG		
+NWFB-3F	NWFB-3	NA	This study	LP-NOMAG		
+NWFB-3G	NWFB-3	NA	This study	LP-NOMAG		
+NWFB-3H	NWFB-3	NA	This study	LP-NOMAG		
+NWFB-3I	NWFB-3	NA	This study	LP-NOMAG		
