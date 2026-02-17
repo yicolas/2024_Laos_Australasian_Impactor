@@ -1,0 +1,120 @@
+MicroMag 2900/3900 Data File (Series 0016.002)
+Remanence curves:  DCD
+
+INSTRUMENT
+Configuration                   VSM
+Temperature control             None
+Hardware version                0004
+Software version                02/02/2016
+Units of measure                Hybrid SI
+Temperature in                  Celsius
+
+SAMPLE
+Mass                            N/A
+Volume                          N/A
+Demagnetizing factor            N/A
+
+SETTINGS
+Field range                     N/A
+Field (command)                 N/A
+Moment range                   +50.00000E-06
+Averaging time                 +100.0000E-03
+Temperature (command)           N/A
+Tmprtr difference correction    No
+Orientation                     0.000000E+00
+Vibration amplitude             1.0
+Calibration factor             +4.694038E+00
+Operating frequency            +83.00000E+00
+
+MEASUREMENT
+Description                    "PKS24-BA-P1 top small chip"
+Field (measured)                N/A
+Temperature (measured)          N/A
+Averages (completed)            N/A
+Measured on                     20/4-/3-28  18:52
+Elapsed time                   +187.1891E+00
+
+PROCESSING
+Background subtraction          No
+Delta-m processing              No
+Demagnetizing factor            No
+Normalization                   No
+Normalization factor            N/A
+Offset (field)                  No
+Offset (moment)                 No
+Pole saturation                 No
+Slope correction                No
+
+VIEWPORT
+Left                           -200.0000E-03
+Right                          +200.0000E-03
+Bottom                         -20.00000E-06
+Top                            +20.00000E-06
+Show X-axis?                    Yes
+Show Y-axis?                    Yes
+
+CHARACTERIZATION
+Initial slope                   N/A
+Saturation                      N/A
+Remanence                      +8.458299E-06
+Coercivity (direct)             N/A
+Coercivity (remanent)          +34.16328E-03
+S* (direct)                     N/A
+S* (DCD)                       -298.2520E-03
+
+SCRIPT
+Include IRM?                    No
+Include DCD?                    Yes
+Include direct moment?          No
+Demagnetize before measuring?   No
+Field sequence                  Linear
+Initial field                   0.000000E+00
+Final field                    +200.0000E-03
+Field increment                +2.000000E-03
+Pause at applied field         +1.000000E+00
+Slew rate to applied field     +1.000000E+00
+Averaging time                 +1.000000E+00
+Saturating field               +1.000000E+00
+Pause at saturating field      +1.000000E+00
+Saturating field applied        Only once
+Slew rate to saturating field  +1.000000E+00
+Pause at zero field            +1.000000E+00
+Slew rate to zero field        +1.000000E+00
+Number of segments              1
+Number of data                  25
+
+Segment   Averaging      Initial        Field         Final                    Final 
+ Number      Time         Field       Increment       Field         Pause      Index 
+             (s)           (T)           (T)           (T)           (s)     
+0000001,+1.000000E+00, 0.000000E+00,+2.000000E-03,-200.0000E-03,+1.000000E+00,0000025
+
+                           
+    Field       Remanence  
+     (T)          (Am2)    
+-2.140698E-06,+8.458299E-06
+-2.066861E-03,+8.100422E-06
+-3.975473E-03,+7.721343E-06
+-6.036629E-03,+7.267044E-06
+-8.085582E-03,+6.756219E-06
+-9.993141E-03,+6.242187E-06
+-12.04395E-03,+5.658506E-06
+-14.08880E-03,+5.053812E-06
+-16.00638E-03,+4.489629E-06
+-18.06000E-03,+3.887973E-06
+-19.95895E-03,+3.347997E-06
+-22.00686E-03,+2.783804E-06
+-24.07047E-03,+2.244933E-06
+-25.97591E-03,+1.765366E-06
+-28.02558E-03,+1.284390E-06
+-30.07652E-03,+828.1583E-09
+-31.98810E-03,+425.3927E-09
+-34.03907E-03,+23.14179E-09
+-36.09431E-03,-359.7799E-09
+-38.00210E-03,-697.3794E-09
+-40.05617E-03,-1.029957E-06
+-42.10501E-03,-1.345751E-06
+-44.01431E-03,-1.623628E-06
+-46.06605E-03,-1.900475E-06
+-48.12323E-03,-2.164943E-06
+
+MicroMag 2900/3900 Data File ends

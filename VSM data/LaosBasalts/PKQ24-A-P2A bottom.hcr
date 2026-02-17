@@ -1,0 +1,133 @@
+MicroMag 2900/3900 Data File (Series 0016.002)
+Remanence curves:  DCD
+
+INSTRUMENT
+Configuration                   VSM
+Temperature control             None
+Hardware version                0004
+Software version                02/02/2016
+Units of measure                Hybrid SI
+Temperature in                  Celsius
+
+SAMPLE
+Mass                            N/A
+Volume                          N/A
+Demagnetizing factor            N/A
+
+SETTINGS
+Field range                     N/A
+Field (command)                 N/A
+Moment range                   +500.0000E-06
+Averaging time                 +1.000000E+00
+Temperature (command)           N/A
+Tmprtr difference correction    No
+Orientation                     0.000000E+00
+Vibration amplitude             1.0
+Calibration factor             +4.933836E+00
+Operating frequency            +83.00000E+00
+
+MEASUREMENT
+Description                    "PKQ24-A-P2A bottom hcr"
+Field (measured)                N/A
+Temperature (measured)          N/A
+Averages (completed)            N/A
+Measured on                     20/4-/3-31  14:42
+Elapsed time                   +288.2923E+00
+
+PROCESSING
+Background subtraction          No
+Delta-m processing              No
+Demagnetizing factor            No
+Normalization                   No
+Normalization factor            N/A
+Offset (field)                  No
+Offset (moment)                 No
+Pole saturation                 No
+Slope correction                No
+
+VIEWPORT
+Left                           -200.0000E-03
+Right                          +200.0000E-03
+Bottom                         -50.00000E-06
+Top                            +50.00000E-06
+Show X-axis?                    Yes
+Show Y-axis?                    Yes
+
+CHARACTERIZATION
+Initial slope                   N/A
+Saturation                      N/A
+Remanence                      +33.88050E-06
+Coercivity (direct)             N/A
+Coercivity (remanent)          +32.97748E-03
+S* (direct)                     N/A
+S* (DCD)                       -662.0573E-03
+
+SCRIPT
+Include IRM?                    No
+Include DCD?                    Yes
+Include direct moment?          No
+Demagnetize before measuring?   No
+Field sequence                  Linear
+Initial field                   0.000000E+00
+Final field                    +200.0000E-03
+Field increment                +2.000000E-03
+Pause at applied field         +1.000000E+00
+Slew rate to applied field     +1.000000E+00
+Averaging time                 +1.000000E+00
+Saturating field               +1.000000E+00
+Pause at saturating field      +1.000000E+00
+Saturating field applied        Only once
+Slew rate to saturating field  +1.000000E+00
+Pause at zero field            +1.000000E+00
+Slew rate to zero field        +1.000000E+00
+Number of segments              1
+Number of data                  38
+
+Segment   Averaging      Initial        Field         Final                    Final 
+ Number      Time         Field       Increment       Field         Pause      Index 
+             (s)           (T)           (T)           (T)           (s)     
+0000001,+1.000000E+00, 0.000000E+00,+2.000000E-03,-200.0000E-03,+1.000000E+00,0000038
+
+                           
+    Field       Remanence  
+     (T)          (Am2)    
+-1.179495E-06,+33.88050E-06
+-2.067606E-03,+31.65868E-06
+-3.976854E-03,+29.44529E-06
+-6.035049E-03,+26.84140E-06
+-8.087674E-03,+24.10100E-06
+-9.993824E-03,+21.52323E-06
+-12.04606E-03,+18.84171E-06
+-14.09025E-03,+16.29933E-06
+-16.00177E-03,+14.08616E-06
+-18.05908E-03,+11.87480E-06
+-19.96062E-03,+9.967968E-06
+-22.00720E-03,+8.084860E-06
+-24.06872E-03,+6.326294E-06
+-25.97366E-03,+4.795899E-06
+-28.02196E-03,+3.282237E-06
+-30.07662E-03,+1.879526E-06
+-31.98577E-03,+624.5942E-09
+-34.03950E-03,-668.8774E-09
+-36.09439E-03,-1.854329E-06
+-38.00412E-03,-2.900504E-06
+-40.05485E-03,-3.954082E-06
+-42.10650E-03,-4.951643E-06
+-44.01479E-03,-5.848109E-06
+-46.06766E-03,-6.753988E-06
+-48.12093E-03,-7.619987E-06
+-50.02904E-03,-8.395187E-06
+-52.08682E-03,-9.184528E-06
+-53.98628E-03,-9.891965E-06
+-56.04162E-03,-10.61588E-06
+-58.08970E-03,-11.31301E-06
+-59.99435E-03,-11.93220E-06
+-62.06932E-03,-12.57188E-06
+-64.12304E-03,-13.18547E-06
+-66.03152E-03,-13.74544E-06
+-68.07543E-03,-14.31440E-06
+-70.13389E-03,-14.86338E-06
+-72.04307E-03,-15.35958E-06
+-74.09550E-03,-15.87067E-06
+
+MicroMag 2900/3900 Data File ends

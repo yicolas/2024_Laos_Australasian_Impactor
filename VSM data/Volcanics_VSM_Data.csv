@@ -1,0 +1,18 @@
+﻿marker_size,color,symbol,Group,Group 2,Weathered t/b,Laterite,Sample #,Mass (g),Hcr/Hc,Mr/Ms,Hc(mT),Mr(µAm^2),Ms(µAm^2),,Hcr(mT),Mr(µAm^2),Date Measured,Forc?,Comments
+300,red,^,Volcanics,Diamicton Basalt Boulder,bottom,no,NWF24-C-P8,0.307,1.816500711,0.327132777,21.09,25.5,77.95,,38.31,25.19,28-Mar,,"This is a chip frpm inside this concretion, ~400 kyr"
+300,red,^,Volcanics,Diamicton Basalt Boulder,top 1,yes,NWF24-C-P8,0.3,1.969824985,0.26611265,16.57,28.82,108.3,,32.64,28.48,28-Mar,,This is the weatherd zone at the surface of ther core; broke when removing from glue
+300,red,^,Volcanics,Diamicton Basalt Boulder,top 2,yes,NWF24-C-P8,0.896,1.942702051,0.26170014,16.58,56.03,214.1,,32.21,55.24,28-Mar,,big chunk to test consistency
+300,red,^,Volcanics,Diamicton Basalt Boulder,top 3,yes,NWF24-C-P8,0.185,,,,,,,,,,√,
+300,orange,p,Volcanics,"Insitu Basalt, 1.5 Ma",bottom 1,no,PKS24-BA-P1,0.299,1.460714286,0.347668769,16.8,33.63,96.73,,24.54,33.76,28-Mar,,Bottom of core into flow
+300,orange,p,Volcanics,"Insitu Basalt, 1.5 Ma",bottom 2,no,PKS24-BA-P1,0.371,,,22.4,26.3,71.69,,,,,√,
+300,orange,p,Volcanics,"Insitu Basalt, 1.5 Ma",top,yes,PKS24-BA-P1,0.164,1.976851852,0.264542936,17.28,8.595,32.49,,34.16,8.458,28-Mar,,weatherd thin rim of outermost core
+300,green,^,Volcanics,Diamicton Basalt Boulder,bottom,no,PKQ24-A-P5C,0.668,2.180451128,0.206315789,10.64,27.44,133,,23.2,27.71,29-Mar,,interior of long core (?) 
+300,green,^,Volcanics,Diamicton Basalt Boulder,top,yes,PKQ24-A-P5C,0.245,1.969312413,0.171255507,8.668,15.55,90.8,,17.07,15.75,29-Mar,,weathered - narrow loop
+300,blue,^,Volcanics,Diamicton Basalt Boulder,bottom,no,PKQ24-A-P5A,0.79,2.172883788,0.258106061,13.94,34.07,132,,30.29,34.31,29-Mar,,interior of long core (?) 
+300,blue,^,Volcanics,Diamicton Basalt Boulder,top,yes,PKQ24-A-P5A,0.286,1.991213488,0.159833333,8.422,19.18,120,,16.77,19.32,29-Mar,,Very narrow hysteresis loop!
+300,purple,^,Volcanics,Diamicton Basalt Boulder,top,yes,PKQ24-A-P2A,0.359,1.881740776,0.185524798,10.57,32.17,173.4,,19.89,32.05,31-Mar,,
+300,purple,^,Volcanics,Diamicton Basalt Boulder,bottom,no,PKQ24-A-P2A,0.637,2.096630642,0.268131868,15.73,34.16,127.4,,32.98,33.88,31-Mar,,sample broke upon removal from glue
+300,salmon,p,Volcanics,"Insitu Basalt, 533 +/- 20 Ka",top,yes,PKS24-I-P1,0.108,1.897158322,0.269733041,22.17,23.34,86.53,,42.06,22.88,31-Mar,√,
+300,salmon,p,Volcanics,"Insitu Basalt, 533 +/- 20 Ka",bottom,no,PKS24-I-P1,1.307,1.812523864,0.29681445,26.19,90.38,304.5,,47.47,88.32,31-Mar,√,rather large sample hence strong Mr
+300,teal,p,Volcanics,"Insitu Basalt, 770 Ka",top,no,PKS24-HB-P1,0.423,1.584751532,0.314915428,14.69,30.72,97.55,,23.28,31.2,31-Mar,√,
+300,teal,p,Volcanics,"Insitu Basalt, 770 Ka",bottom,yes,PKS24-HB-P1,0.0228,1.75257732,0.25794841,10.67,2.15,8.335,,18.7,2.181,31-Mar,√,tiny sample had top set sensitivity pretty low. Weird core in which the top was quite unweathered but the bottom was heavily. Reverse laterite is likely due to me drilling the core from the bottom
