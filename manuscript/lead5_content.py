@@ -107,7 +107,8 @@ FIG('fig3')
 # ----------------------------------------------------------- 3 METHODS
 H1('Methods')
 H2('Sampling and laboratory procedures')
-P(('We collected ~80 oriented drill cores and block samples from 12 basalt localities across the '
+P(('We collected 64 oriented drill cores and block samples (364 specimens) from 12 basalt '
+   'localities across the '
    'Bolaven Plateau in November 2023 (Fig. 2; Table 1): six interpreted in-situ flows for '
    'magnetostratigraphy and six boulder populations in diamicton for conglomerate testing. '
    'Orientations used sun compass where possible, with magnetic-declination corrections '
