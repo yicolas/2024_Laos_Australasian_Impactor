@@ -1,16 +1,14 @@
 # -*- coding: utf-8 -*-
-"""Build manuscript_LEAD_5.docx (MAPS main) + Supporting_Information_LEAD_5.docx
-from the fresh manuscript_LEAD_4.docx (Nick's 8-figure scheme). Anchored on caption
-and heading text, tolerant to missing pieces (warns instead of dying)."""
+"""Build manuscript_LEAD_5.docx (MAPS main) + Supporting_Information_LEAD_5.docx from the FINAL
+manuscript_LEAD_4.docx (7 main figures, Tables 1-3, embedded Supplementary Figs S1-S16 and
+Tables S1-S5). Anchored on caption/heading text; warns instead of dying."""
 import copy, os, re, zipfile
 import docx
 from docx.shared import Inches
 from lead5_content import MAIN, ABSTRACT
 
 SRC = '/mnt/user-data/uploads/Australasian Impactor/manuscript_LEAD_4.docx'
-NEWFIG = '/mnt/user-data/uploads/Plots/manuscript_figures'
 WARN = []
-
 src = docx.Document(SRC)
 SP = src.paragraphs
 os.makedirs('media4', exist_ok=True)
@@ -42,7 +40,7 @@ def heading_range(name):
             return i, j
     return i, len(SP)
 
-def images_before(idx, lookback=9):
+def images_before(idx, lookback=6):
     out, j = [], idx - 1
     while j >= 0 and idx - j <= lookback:
         m = par_media(SP[j]); t = SP[j].text.strip()
@@ -51,11 +49,7 @@ def images_before(idx, lookback=9):
         j -= 1
     return out
 
-def cap(idx):
-    return re.sub(r'\s+', ' ', SP[idx].text).strip()
-
-CAPI = {n: find_par(f'Figure {n}.') for n in range(1, 9)}
-SCAPI = {k: find_par(f'Figure {k}.') for k in ('S1', 'S2')}
+def cap(idx): return re.sub(r'\s+', ' ', SP[idx].text).strip()
 
 # ---------------- MAIN ----------------
 doc = docx.Document(SRC)
@@ -78,8 +72,7 @@ def add_pics(files, width=6.3, d=doc):
     for f in files:
         if not os.path.exists(f):
             WARN.append('missing image ' + f); continue
-        p = d.add_paragraph()
-        p.add_run().add_picture(f, width=Inches(width))
+        d.add_paragraph().add_run().add_picture(f, width=Inches(width))
 
 add('Title', [('Paleomagnetic and Geochemical Investigation of the Bolaven Plateau Volcanic '
     'Field: Testing the Australasian Impact Crater Hypothesis, Southern Laos', None)])
@@ -90,9 +83,9 @@ add('Author', [('Nicolas Anderson¹·*, Paolo Sanchez¹, Kerry Sieh², and Josep
 add('Abstract', [(ABSTRACT, None)])
 
 def place_src_fig(n):
-    i = CAPI.get(n)
+    i = find_par(f'Figure {n}.')
     if i is None:
-        WARN.append(f'Figure {n} caption not found in LEAD_4'); return
+        WARN.append(f'Figure {n} caption missing'); return
     add_pics(images_before(i))
     add('Body Text', [(f'Figure {n}.', 'b'), (' ' + cap(i).split('.', 1)[1].strip(), None)])
 
@@ -104,49 +97,29 @@ def place_table(n):
     body.append(copy.deepcopy(src.tables[n - 1]._tbl))
     add('Body Text', [('', None)])
 
-# content stream: FIG keys map to source figure numbers in Nick's scheme
+# content FIG keys -> final LEAD_4 figure numbers (None = skip)
 FIGMAP = {'fig1': 1, 'fig2': 2, 'fig3': 3, 'fig4': 4, 'fig5': None, 'fig6': 6,
-          'fig7': 7, 'fig8': 8, 'fig9': None, 'fig10': 5, 'fig5g': 5}
+          'fig7': None, 'fig8': 7, 'fig9': 'T3', 'fig10': 5}
 
-# Reorder: Results order in content = rockmag, [geochem], magnetostrat, conglomerate.
-# lead5_content MAIN still has geochem last; reorder blocks here.
-H = [(i, st, seg) for i, (st, seg) in enumerate(MAIN)]
+# Results order: rockmag -> geochem -> magnetostrat -> conglomerate (matches LEAD_4)
 def find_h2(title):
     for i, (st, seg) in enumerate(MAIN):
         if st == 'Heading 2' and seg[0][0] == title:
             return i
     return None
-i_rock = find_h2('Rock magnetism and magnetic mineralogy')
 i_pol = find_h2('Polarity of dated flows and magnetostratigraphy')
-i_cong = find_h2('Conglomerate tests of the diamicton boulders')
 i_geo = find_h2('Tektite geochemistry')
 i_disc = next(i for i, (st, seg) in enumerate(MAIN) if st == 'Heading 1' and seg[0][0] == 'Discussion')
 order = (list(range(0, i_pol)) + list(range(i_geo, i_disc)) +
          list(range(i_pol, i_geo)) + list(range(i_disc, len(MAIN))))
-STREAM = [MAIN[i] for i in order]
 
-for style, payload in STREAM:
+for style, payload in [MAIN[i] for i in order]:
     if style == 'FIG':
-        n = FIGMAP.get(payload)
-        if payload in ('fig1', 'fig2', 'fig3', 'fig4'):
-            k = int(payload[-1])
-            png = {1: 'Fig1/Fig1_Australasian_strewn_field.png', 2: 'Fig2/Fig2_southern_Laos.png',
-                   3: 'Fig3/Fig3_stratigraphy.png', 4: 'Fig4/Fig4_rock_magnetism.png'}[k]
-            add_pics([f'{NEWFIG}/{png}'])
-            i = CAPI.get(k)
-            if i is not None:
-                add('Body Text', [(f'Figure {k}.', 'b'), (' ' + cap(i).split('.', 1)[1].strip(), None)])
-            else:
-                WARN.append(f'caption {k} missing')
-        elif payload == 'fig5':
-            # SEM figure dropped from main in Nick's scheme -> skip (now Table S1/Fig S3)
-            continue
-        elif payload == 'fig9':
-            continue  # conglomerate panels live in Fig 8o-t
-        elif payload == 'fig10' or payload == 'fig5g':
-            place_src_fig(5)
-        elif n:
-            place_src_fig(n)
+        m = FIGMAP.get(payload)
+        if m == 'T3':
+            place_table(3)
+        elif m:
+            place_src_fig(m)
     elif style == 'TABLE':
         place_table(payload)
     else:
@@ -181,19 +154,18 @@ for el in list(b2):
 def sadd(style, segments): return add(style, segments, d=si)
 def sadd_pics(files, width=6.3): add_pics(files, width, d=si)
 
-def copy_range(a, b, skip_media=True):
+def copy_range(a, b, skip_media=True, skip_caps=True):
     for j in range(a, b):
         p = SP[j]; m = par_media(p); t = p.text.strip()
+        if m and skip_media:
+            continue
         if m and not skip_media:
             sadd_pics(m)
-            if t:
-                sadd('Body Text', [(t, None)])
-            continue
-        if m and skip_media:
+            if t: sadd('Body Text', [(t, None)])
             continue
         if not t:
             continue
-        if skip_media and re.match(r'^Figure \d+\.', t):
+        if skip_caps and re.match(r'^(Figure|Table) \d+\.', t):
             continue
         st = p.style.name
         segs = []
@@ -209,9 +181,8 @@ sadd('Title', [('Supporting Information for “Paleomagnetic and Geochemical Inv
     'Southern Laos”', None)])
 sadd('Author', [('Nicolas Anderson, Paolo Sanchez, Kerry Sieh, and Joseph L. Kirschvink', None)])
 sadd('Body Text', [('Contents: Text S1, sedimentology and stratigraphy of the target succession; '
-    'Text S2, supplementary methods; Text S3, site-by-site paleomagnetic documentation; Text S4, '
-    'supplementary geochemistry; Figures S1–S3; Table S1; Figure set S4 (complete '
-    'demagnetization and directional figures, A1–A62).', None)])
+    'Text S2, supplementary methods; Text S3, site-by-site paleomagnetic documentation; Figures '
+    'S1–S16; Tables S1–S5.', None)])
 
 sadd('Heading 1', [('Text S1. Sedimentology and stratigraphy of the target succession', None)])
 hr = heading_range('Sedimentology and Stratigraphy')
@@ -247,34 +218,34 @@ if hr:
     sadd('Heading 2', [('Detailed site descriptions', None)])
     copy_range(hr[0] + 1, hr[1])
 
-sadd('Heading 1', [('Text S4. Supplementary geochemistry and figures', None)])
-for k in ('S1', 'S2'):
-    i = SCAPI.get(k)
-    if i is None:
-        WARN.append(f'Figure {k} missing in LEAD_4'); continue
-    sadd_pics(images_before(i))
-    sadd('Body Text', [(f'Figure {k}.', 'b'), (' ' + cap(i).split('.', 1)[1].strip(), None)])
-sem = f'{NEWFIG}/Fig4/LS-H18_Area1_BSE.png'
-if os.path.exists(sem):
-    sadd_pics([sem])
-    sadd('Body Text', [('Figure S3.', 'b'), (' Back-scattered-electron image of fresh Bolaven '
-        'basalt specimen LS-H18 (Area 1) with the analysed points of Table S1. Bright grains are '
-        'Fe–Ti oxides (titanomagnetite); the groundmass is labradorite plus an Fe–Mg '
-        'silicate. No exotic, shock, or metallic phases are present.', None)])
+# Supplementary figures S1-S16: copy images + captions verbatim
+hr = heading_range('Supplementary figures')
+sadd('Heading 1', [('Supplementary Figures', None)])
+if hr:
+    copy_range(hr[0] + 1, hr[1], skip_media=False, skip_caps=False)
 else:
-    WARN.append('SEM BSE png missing')
+    WARN.append('Supplementary figures section missing')
 
-hr = heading_range('Supplementary: SEM/EDS mineral chemistry of specimen LS-H18')
-sadd('Heading 1', [('Table S1. SEM/EDS point analyses of specimen LS-H18', None)])
+# Supplementary tables S1-S5: captions + table elements in order
+hr = heading_range('Supplementary tables')
+sadd('Heading 1', [('Supplementary Tables', None)])
 if hr:
-    copy_range(hr[0] + 1, hr[1])
-b2.append(copy.deepcopy(src.tables[2]._tbl))
-
-hr = heading_range('Notebook-generated figures (for review)')
-sadd('Heading 1', [('Figure set S4. Complete demagnetization, directional and VGP figures '
-    '(A1–A62)', None)])
-if hr:
-    copy_range(hr[0] + 1, hr[1], skip_media=False)
+    tbl_idx = 3  # tables[3..7] follow main Tables 1-3 in document order
+    for j in range(hr[0] + 1, hr[1]):
+        t = SP[j].text.strip()
+        if not t: continue
+        mcap = re.match(r'^(Table S\d+\.)', t)
+        if mcap:
+            lead = mcap.group(1)
+            sadd('Body Text', [(lead, 'b'), (' ' + t[len(lead):].strip(), None)])
+            if tbl_idx < len(src.tables):
+                b2.append(copy.deepcopy(src.tables[tbl_idx]._tbl))
+                sadd('Body Text', [('', None)])
+                tbl_idx += 1
+        else:
+            sadd('Body Text', [(t, None)])
+else:
+    WARN.append('Supplementary tables section missing')
 
 si.save('Supporting_Information_LEAD_5.docx')
 print('WARNINGS:'); [print(' -', w) for w in WARN] or print(' none')

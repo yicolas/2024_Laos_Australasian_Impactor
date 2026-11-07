@@ -109,7 +109,7 @@ H1('Methods')
 H2('Sampling and laboratory procedures')
 P(('We collected 64 oriented drill cores and block samples (364 specimens) from 12 basalt '
    'localities across the '
-   'Bolaven Plateau in November 2023 (Fig. 2; Table 1): six interpreted in-situ flows for '
+   'Bolaven Plateau in November 2023 (Fig. 2; Tables 1, S1): six interpreted in-situ flows for '
    'magnetostratigraphy and six boulder populations in diamicton for conglomerate testing. '
    'Orientations used sun compass where possible, with magnetic-declination corrections '
    'otherwise. Block samples were re-oriented in the laboratory and cored; all specimens were '
@@ -136,7 +136,7 @@ P(('Hysteresis loops, back-field curves and first-order reversal curves (FORCs) 
    'paired fresh-interior and weathered-rind chips with a Princeton Measurements vibrating sample '
    'magnetometer at the University of Tokyo, and low-temperature remanence cycling on a Quantum '
    'Design MPMS (Fig. 4). Opaque phases in a fresh basalt were identified by SEM with '
-   'energy-dispersive spectroscopy (Table S1; Fig. S3). Petrographic screening for shock features '
+   'energy-dispersive spectroscopy (Fig. 4k,l; Table S4). Petrographic screening for shock features '
    'used transmitted-light microscopy and SEM.', None))
 H2('Tektite and target-rock geochemistry')
 P(('Major elements of seven Australasian tektites from Laos and Thailand were measured by EPMA '
@@ -156,7 +156,7 @@ H1('Results')
 H2('Rock magnetism and magnetic mineralogy')
 P(('Paired fresh' + EN + 'weathered measurements show a single coherent story (Fig. 4): the '
    'carrier is fine-grained, low-coercivity titanomagnetite (SEM/EDS: FeO 63' + EN + '74 wt%, '
-   'TiO₂ 16' + EN + '22 wt%; Table S1, Fig. S3) progressively oxidized to (titano)maghemite in '
+   'TiO₂ 16' + EN + '22 wt%; Fig. 4k,l; Table S4) progressively oxidized to (titano)maghemite in '
    'lateritic rinds. Hysteresis loops close by ~300 mT with no high-coercivity phase; all '
    'specimens plot in the pseudo-single-domain (PSD) field of the Day plot, and every one of '
    'seven fresh→weathered pairs shifts the same way, weathering lowering the squareness '
@@ -209,13 +209,13 @@ P(('PKS-H, interpreted by Sieh et al. (2020) as an in-situ flow at the B' + EN +
    'internal discordance means no in-situ B' + EN + 'M boundary is confirmed at this locality; '
    'the boulders are being redated.', None))
 P(('In sum, the magnetostratigraphy anchors the framework at three flows but contradicts it at '
-   'two, reclassifies one site as a clast and one as disturbed (Figs. 6i, 7, 8a,b). The ' + AR + ' '
+   'two, reclassifies one site as a clast and one as disturbed (Figs. 6i, 7a,b). The ' + AR + ' '
    'chronology that underpins the burial argument is therefore more complex than previously '
    'assumed, and its revision is prerequisite to tying the volcanic stratigraphy to the impact.', None))
 FIG('fig6'); TAB(1); TAB(2); FIG('fig7'); FIG('fig8')
 H2('Conglomerate tests of the diamicton boulders')
 P(('Six boulder populations were tested with the Watson (1956) randomness test on boulder-mean '
-   'directions (Fig. 8o' + EN + 't; critical values Ro by Monte Carlo). Random, pre-depositional '
+   'directions (Fig. 7o' + EN + 't, Table 3; critical values Ro by Monte Carlo). Random, pre-depositional '
    'magnetizations indicate transported clasts; clustering indicates an in-situ flow weathered '
    'into corestones or post-depositional remagnetization. All verdicts are unchanged when '
    'unresolved specimens contribute remagnetization circles instead of lines (McFadden & '
@@ -272,11 +272,11 @@ P(('Basalt is permitted but not demanded: 5' + PM + '4% in the main run ' + EN +
    'that the sampled endmembers are inadequate. Iridium is below the ~4 ppb detection limit, two orders '
    'of magnitude above the ≤0.005% chondritic component indicated by Os isotopes (Ackerman '
    'et al., 2019), and the apparent Pd signal is an ⁸⁹Y¹⁶O⁺ '
-   'interference (Fig. S2), so no projectile test is possible with these data. The mild '
+   'interference (Fig. S4), so no projectile test is possible with these data. The mild '
    'Ni' + EN + 'Cr' + EN + 'Co enrichment of the tektites is matched by weathered basalt and '
    'carries no meteoritic fingerprint. None of these results discriminates the Bolaven location '
    'from any other Indochinese source with similar sedimentary cover; details, data-quality '
-   'figures and sensitivity runs are shown in Figs. S1 and S2 and Text S4.', None))
+   'figures and sensitivity runs are given in Fig. 5m, Fig. S1 and Table S5.', None))
 FIG('fig10')
 
 # ----------------------------------------------------------- 5 DISCUSSION
