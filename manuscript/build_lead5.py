@@ -58,6 +58,18 @@ for el in list(body):
     if not el.tag.endswith('}sectPr'):
         body.remove(el)
 
+
+def append_el(el, d):
+    b = d.element.body
+    sect = None
+    for ch in b:
+        if ch.tag.endswith('}sectPr'):
+            sect = ch
+    if sect is not None:
+        sect.addprevious(el)
+    else:
+        b.append(el)
+
 def add(style, segments, d=doc):
     p = d.add_paragraph()
     try: p.style = style
@@ -94,7 +106,7 @@ def place_table(n):
     if i is None:
         WARN.append(f'Table {n} caption missing'); return
     add('Body Text', [(f'Table {n}.', 'b'), (' ' + cap(i).split('.', 1)[1].strip(), None)])
-    body.append(copy.deepcopy(src.tables[n - 1]._tbl))
+    append_el(copy.deepcopy(src.tables[n - 1]._tbl), doc)
     add('Body Text', [('', None)])
 
 # content FIG keys -> final LEAD_4 figure numbers (None = skip)
@@ -239,7 +251,7 @@ if hr:
             lead = mcap.group(1)
             sadd('Body Text', [(lead, 'b'), (' ' + t[len(lead):].strip(), None)])
             if tbl_idx < len(src.tables):
-                b2.append(copy.deepcopy(src.tables[tbl_idx]._tbl))
+                append_el(copy.deepcopy(src.tables[tbl_idx]._tbl), si)
                 sadd('Body Text', [('', None)])
                 tbl_idx += 1
         else:
