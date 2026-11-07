@@ -7,7 +7,7 @@ import docx
 from docx.shared import Inches
 from lead5_content import MAIN, ABSTRACT
 
-SRC = '/mnt/user-data/uploads/Australasian Impactor/manuscript_LEAD_4.docx'
+SRC = '/home/claude/manuscript_work/manuscript_LEAD_4.docx'
 WARN = []
 src = docx.Document(SRC)
 SP = src.paragraphs
