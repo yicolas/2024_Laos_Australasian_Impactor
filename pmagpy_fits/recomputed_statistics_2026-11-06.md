@@ -75,3 +75,32 @@ rather than on a Watson "pass."
 - `recomputed_unit_means.csv` — every core/boulder mean + VGP lat
 - `recomputed_site_means.csv` — site means
 - `recompute_site_stats.py` — reproducible script (seed 42)
+
+
+## McFadden & McElhinny (1988) lines-and-planes double-check (2026-11-07)
+
+Script: `mcfadden_gc_check.py`. Unresolved specimens (mt MAD>15 or dang>15) were re-expressed as
+great circles (DE-BFP planes fit to their demag arcs in specimen coordinates, poles rotated to
+geographic via per-specimen Kabsch rotations solved from that specimen's own paired lt/MT/mt fits;
+rotations verified by reproducing stored mt directions, median error 0.2 deg). Boulder means then
+combined lines + planes with pmag.dolnp.
+
+| Site | n boulders | R | Ro95 | Verdict | vs line-only |
+|---|---|---|---|---|---|
+| NWF-B | 3 | 2.38 | 2.62 | RANDOM pass | same |
+| NWF-C | 8 | 3.26 | 4.48 | RANDOM pass | same |
+| PKQ-A | 10 | 7.27 | 5.03 | CLUSTERED fail | same (3-field-boulder variant still passes, R 2.25) |
+| PKS-F | 11 | 6.09 | 5.28 | CLUSTERED fail | strengthens the fail (was 5.31 knife-edge) |
+| PKS-F | 10 | 5.92 | 5.03 | CLUSTERED fail | strengthens |
+| PKS-G | 8 | 6.58 | 4.48 | CLUSTERED fail | same |
+| PKS-H | 3 | 2.50 | 2.62 | RANDOM pass (no power) | same |
+
+Key movement: constraining PKSF-3 by great circles moves its boulder mean from 274/-24 (bad lines)
+to 330/-10, and PKSF-4 to 58/-22 - both into/near the NE-shallow cluster. **PKS-F therefore fails
+under every quality-controlled treatment** (MAD-screened lines; lines+planes at 10 and 11
+boulders); the only configuration that ever passed was unscreened lines including the unresolved
+fits. Recommended manuscript verdict upgraded from "indeterminate" to FAIL (clustered), with the
+450 C ceiling noted as the reason the shared component cannot be fully isolated.
+Exclusions: PKSF-4B/-4E (too few rotation pairs), PKSF-4K (angles not preserved), PKSF-6E/-6F
+(plane MAD > 15); PKSH-1C plane had poor rotation validation but is 1 of 11 specimens in its
+boulder (negligible effect).
