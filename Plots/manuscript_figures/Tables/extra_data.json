@@ -1,0 +1,751 @@
+{
+ "t3": [
+  {
+   "site": "NWF-B",
+   "mat": "Blocks (3)",
+   "N": 3,
+   "nspec": 20,
+   "R": 2.377294971522388,
+   "r95": 2.617425734584434,
+   "r99": 2.834636851625031,
+   "dec": 75.62880277050289,
+   "inc": -60.153327594992625,
+   "k": 3.211793559608143,
+   "a95": 84.8068227727225,
+   "lp": 2.38,
+   "verdict": "Random"
+  },
+  {
+   "site": "NWF-C",
+   "mat": "Boulders (8)",
+   "N": 8,
+   "nspec": 33,
+   "R": 3.262979530073039,
+   "r95": 4.469661010505115,
+   "r99": 5.241873276774436,
+   "dec": 2.775450695427773,
+   "inc": 22.007926546446114,
+   "k": 1.4777221345019713,
+   "a95": 77.02168948809282,
+   "lp": 3.26,
+   "verdict": "Random"
+  },
+  {
+   "site": "PKQ-A",
+   "mat": "Field boulders (3; 10 cores)",
+   "N": 3,
+   "nspec": 82,
+   "R": 2.2492103198901336,
+   "r95": 2.617425734584434,
+   "r99": 2.834636851625031,
+   "dec": 146.38682524024387,
+   "inc": 47.58285972673102,
+   "k": 2.6638618683561703,
+   "a95": 180.0,
+   "lp": 2.25,
+   "verdict": "Random"
+  },
+  {
+   "site": "PKS-F",
+   "mat": "Boulders (11)",
+   "N": 11,
+   "nspec": 105,
+   "R": 5.311276621774159,
+   "r95": 5.282510244453784,
+   "r99": 6.247373398463339,
+   "dec": 36.203163588324585,
+   "inc": -14.941564857401861,
+   "k": 1.7578636427069037,
+   "a95": 51.25206905936064,
+   "lp": 6.09,
+   "verdict": "Clustered"
+  },
+  {
+   "site": "PKS-G",
+   "mat": "Boulders (8)",
+   "N": 8,
+   "nspec": 33,
+   "R": 6.581812574369901,
+   "r95": 4.469661010505115,
+   "r99": 5.241873276774436,
+   "dec": 159.15852020226367,
+   "inc": 4.1154697597646175,
+   "k": 4.93587791958451,
+   "a95": 27.759401821525525,
+   "lp": 6.58,
+   "verdict": "Clustered"
+  },
+  {
+   "site": "PKS-H",
+   "mat": "Cores HA1, HA2, HB1",
+   "N": 3,
+   "nspec": 24,
+   "R": 2.51529172201491,
+   "r95": 2.617425734584434,
+   "r99": 2.834636851625031,
+   "dec": 184.17013839829826,
+   "inc": -3.678416851977386,
+   "k": 4.126193198750201,
+   "a95": 70.67638023923655,
+   "lp": 2.5,
+   "verdict": "Random"
+  }
+ ],
+ "t4": {
+  "main": {
+   "Bolaven alkali basalt": {
+    "mean": 1.091,
+    "sd": 2.704,
+    "p_present": 0.186,
+    "mean_all": 1.091
+   },
+   "Bolaven tholeiite": {
+    "mean": 3.659,
+    "sd": 5.244,
+    "p_present": 0.528,
+    "mean_all": 3.659
+   },
+   "Diamicton / \"catastro-loess\"": {
+    "mean": 0.356,
+    "sd": 1.646,
+    "p_present": 0.055,
+    "mean_all": 0.356
+   },
+   "Khorat mudstone": {
+    "mean": 3.25,
+    "sd": 5.642,
+    "p_present": 0.365,
+    "mean_all": 3.25
+   },
+   "Khorat sandstone": {
+    "mean": 35.574,
+    "sd": 15.355,
+    "p_present": 0.911,
+    "mean_all": 35.574
+   },
+   "Lateritic saprolite": {
+    "mean": 0.0,
+    "sd": 0.0,
+    "p_present": 0.0,
+    "mean_all": 0.0
+   },
+   "Metatuff": {
+    "mean": 9.858,
+    "sd": 5.659,
+    "p_present": 0.912,
+    "mean_all": 9.858
+   },
+   "Sedimentary laterite": {
+    "mean": 1.574,
+    "sd": 3.834,
+    "p_present": 0.168,
+    "mean_all": 1.574
+   },
+   "Unweathered shale (PAAS)": {
+    "mean": 26.845,
+    "sd": 23.118,
+    "p_present": 0.912,
+    "mean_all": 26.845
+   },
+   "Random": {
+    "mean": 17.793,
+    "sd": 13.205,
+    "p_present": 0.863,
+    "mean_all": 17.793
+   },
+   "All basalt": {
+    "mean": 4.75,
+    "sd": 5.442,
+    "p_present": 0.641,
+    "mean_all": 4.75
+   }
+  },
+  "no_random": {
+   "Bolaven alkali basalt": {
+    "mean": 8.614,
+    "sd": 9.723,
+    "p_present": 0.75,
+    "mean_all": 8.614
+   },
+   "Bolaven tholeiite": {
+    "mean": 10.207,
+    "sd": 5.108,
+    "p_present": 1.0,
+    "mean_all": 10.207
+   },
+   "Diamicton / \"catastro-loess\"": {
+    "mean": 0.986,
+    "sd": 2.96,
+    "p_present": 0.14,
+    "mean_all": 0.986
+   },
+   "Khorat mudstone": {
+    "mean": 32.161,
+    "sd": 20.825,
+    "p_present": 1.0,
+    "mean_all": 32.161
+   },
+   "Khorat sandstone": {
+    "mean": 26.211,
+    "sd": 13.285,
+    "p_present": 0.993,
+    "mean_all": 26.211
+   },
+   "Lateritic saprolite": {
+    "mean": 0.0,
+    "sd": 0.0,
+    "p_present": 0.0,
+    "mean_all": 0.0
+   },
+   "Metatuff": {
+    "mean": 14.66,
+    "sd": 11.065,
+    "p_present": 0.75,
+    "mean_all": 14.66
+   },
+   "Sedimentary laterite": {
+    "mean": 0.0,
+    "sd": 0.0,
+    "p_present": 0.0,
+    "mean_all": 0.0
+   },
+   "Unweathered shale (PAAS)": {
+    "mean": 7.161,
+    "sd": 8.479,
+    "p_present": 0.5,
+    "mean_all": 7.161
+   },
+   "All basalt": {
+    "mean": 18.821,
+    "sd": 9.399,
+    "p_present": 1.0,
+    "mean_all": 18.821
+   }
+  },
+  "no_alkali": {
+   "Bolaven alkali basalt": {
+    "mean": 0.014,
+    "sd": 0.172,
+    "p_present": 0.007,
+    "mean_all": 0.014
+   },
+   "Bolaven tholeiite": {
+    "mean": 7.284,
+    "sd": 9.467,
+    "p_present": 0.5,
+    "mean_all": 7.284
+   },
+   "Diamicton / \"catastro-loess\"": {
+    "mean": 2.403,
+    "sd": 3.491,
+    "p_present": 0.4,
+    "mean_all": 2.403
+   },
+   "Khorat mudstone": {
+    "mean": 3.838,
+    "sd": 4.633,
+    "p_present": 0.477,
+    "mean_all": 3.838
+   },
+   "Khorat sandstone": {
+    "mean": 40.113,
+    "sd": 11.937,
+    "p_present": 1.0,
+    "mean_all": 40.113
+   },
+   "Lateritic saprolite": {
+    "mean": 0.0,
+    "sd": 0.0,
+    "p_present": 0.0,
+    "mean_all": 0.0
+   },
+   "Metatuff": {
+    "mean": 6.178,
+    "sd": 6.271,
+    "p_present": 0.65,
+    "mean_all": 6.178
+   },
+   "Sedimentary laterite": {
+    "mean": 0.0,
+    "sd": 0.0,
+    "p_present": 0.0,
+    "mean_all": 0.0
+   },
+   "Unweathered shale (PAAS)": {
+    "mean": 28.203,
+    "sd": 15.789,
+    "p_present": 1.0,
+    "mean_all": 28.203
+   },
+   "Random": {
+    "mean": 11.967,
+    "sd": 8.65,
+    "p_present": 0.75,
+    "mean_all": 11.967
+   },
+   "All basalt": {
+    "mean": 7.298,
+    "sd": 9.487,
+    "p_present": 0.5,
+    "mean_all": 7.298
+   }
+  },
+  "local_only": {
+   "Bolaven alkali basalt": {
+    "mean": 11.895,
+    "sd": 6.281,
+    "p_present": 0.863,
+    "mean_all": 11.895
+   },
+   "Bolaven tholeiite": {
+    "mean": 6.306,
+    "sd": 5.527,
+    "p_present": 0.713,
+    "mean_all": 6.306
+   },
+   "Diamicton / \"catastro-loess\"": {
+    "mean": 0.694,
+    "sd": 2.053,
+    "p_present": 0.123,
+    "mean_all": 0.694
+   },
+   "Khorat mudstone": {
+    "mean": 25.527,
+    "sd": 11.997,
+    "p_present": 1.0,
+    "mean_all": 25.527
+   },
+   "Khorat sandstone": {
+    "mean": 25.014,
+    "sd": 11.21,
+    "p_present": 0.987,
+    "mean_all": 25.014
+   },
+   "Lateritic saprolite": {
+    "mean": 0.0,
+    "sd": 0.0,
+    "p_present": 0.0,
+    "mean_all": 0.0
+   },
+   "Metatuff": {
+    "mean": 30.563,
+    "sd": 12.871,
+    "p_present": 1.0,
+    "mean_all": 30.563
+   },
+   "Sedimentary laterite": {
+    "mean": 0.0,
+    "sd": 0.0,
+    "p_present": 0.0,
+    "mean_all": 0.0
+   },
+   "All basalt": {
+    "mean": 18.201,
+    "sd": 2.324,
+    "p_present": 1.0,
+    "mean_all": 18.201
+   }
+  }
+ },
+ "t4n": {
+  "main": 12,
+  "no_random": 4,
+  "no_alkali": 4,
+  "local_only": 4
+ },
+ "ts2": [
+  {
+   "site": "PKS-B",
+   "kind": "In-situ flow",
+   "sample": "PKS24-BA-P1",
+   "state": "fresh",
+   "mass": 0.299,
+   "Hc": 16.8,
+   "Hcr": 24.54,
+   "Mr": 33.63,
+   "Ms": 96.73,
+   "MrMs": 0.347668769,
+   "HcrHc": 1.460714286
+  },
+  {
+   "site": "PKS-B",
+   "kind": "In-situ flow",
+   "sample": "PKS24-BA-P1",
+   "state": "weathered",
+   "mass": 0.164,
+   "Hc": 17.28,
+   "Hcr": 34.16,
+   "Mr": 8.595,
+   "Ms": 32.49,
+   "MrMs": 0.264542936,
+   "HcrHc": 1.976851852
+  },
+  {
+   "site": "PKS-H (HB)",
+   "kind": "In-situ flow",
+   "sample": "PKS24-HB-P1",
+   "state": "fresh",
+   "mass": 0.423,
+   "Hc": 14.69,
+   "Hcr": 23.28,
+   "Mr": 30.72,
+   "Ms": 97.55,
+   "MrMs": 0.314915428,
+   "HcrHc": 1.584751532
+  },
+  {
+   "site": "PKS-H (HB)",
+   "kind": "In-situ flow",
+   "sample": "PKS24-HB-P1",
+   "state": "weathered",
+   "mass": 0.0228,
+   "Hc": 10.67,
+   "Hcr": 18.7,
+   "Mr": 2.15,
+   "Ms": 8.335,
+   "MrMs": 0.25794841,
+   "HcrHc": 1.75257732
+  },
+  {
+   "site": "PKS-I",
+   "kind": "Corestone",
+   "sample": "PKS24-I-P1",
+   "state": "fresh",
+   "mass": 1.307,
+   "Hc": 26.19,
+   "Hcr": 47.47,
+   "Mr": 90.38,
+   "Ms": 304.5,
+   "MrMs": 0.29681445,
+   "HcrHc": 1.812523864
+  },
+  {
+   "site": "PKS-I",
+   "kind": "Corestone",
+   "sample": "PKS24-I-P1",
+   "state": "weathered",
+   "mass": 0.108,
+   "Hc": 22.17,
+   "Hcr": 42.06,
+   "Mr": 23.34,
+   "Ms": 86.53,
+   "MrMs": 0.269733041,
+   "HcrHc": 1.897158322
+  },
+  {
+   "site": "NWF-C",
+   "kind": "Diamicton clast",
+   "sample": "NWF24-C-P8",
+   "state": "fresh",
+   "mass": 0.307,
+   "Hc": 21.09,
+   "Hcr": 38.31,
+   "Mr": 25.5,
+   "Ms": 77.95,
+   "MrMs": 0.327132777,
+   "HcrHc": 1.816500711
+  },
+  {
+   "site": "NWF-C",
+   "kind": "Diamicton clast",
+   "sample": "NWF24-C-P8",
+   "state": "weathered",
+   "mass": 0.3,
+   "Hc": 16.57,
+   "Hcr": 32.64,
+   "Mr": 28.82,
+   "Ms": 108.3,
+   "MrMs": 0.26611265,
+   "HcrHc": 1.969824985
+  },
+  {
+   "site": "PKQ-A (2A)",
+   "kind": "Diamicton clast",
+   "sample": "PKQ24-A-P2A",
+   "state": "fresh",
+   "mass": 0.637,
+   "Hc": 15.73,
+   "Hcr": 32.98,
+   "Mr": 34.16,
+   "Ms": 127.4,
+   "MrMs": 0.268131868,
+   "HcrHc": 2.096630642
+  },
+  {
+   "site": "PKQ-A (2A)",
+   "kind": "Diamicton clast",
+   "sample": "PKQ24-A-P2A",
+   "state": "weathered",
+   "mass": 0.359,
+   "Hc": 10.57,
+   "Hcr": 19.89,
+   "Mr": 32.17,
+   "Ms": 173.4,
+   "MrMs": 0.185524798,
+   "HcrHc": 1.881740776
+  },
+  {
+   "site": "PKQ-A (5A)",
+   "kind": "Diamicton clast",
+   "sample": "PKQ24-A-P5A",
+   "state": "fresh",
+   "mass": 0.79,
+   "Hc": 13.94,
+   "Hcr": 30.29,
+   "Mr": 34.07,
+   "Ms": 132.0,
+   "MrMs": 0.258106061,
+   "HcrHc": 2.172883788
+  },
+  {
+   "site": "PKQ-A (5A)",
+   "kind": "Diamicton clast",
+   "sample": "PKQ24-A-P5A",
+   "state": "weathered",
+   "mass": 0.286,
+   "Hc": 8.422,
+   "Hcr": 16.77,
+   "Mr": 19.18,
+   "Ms": 120.0,
+   "MrMs": 0.159833333,
+   "HcrHc": 1.991213488
+  },
+  {
+   "site": "PKQ-A (5C)",
+   "kind": "Diamicton clast",
+   "sample": "PKQ24-A-P5C",
+   "state": "fresh",
+   "mass": 0.668,
+   "Hc": 10.64,
+   "Hcr": 23.2,
+   "Mr": 27.44,
+   "Ms": 133.0,
+   "MrMs": 0.206315789,
+   "HcrHc": 2.180451128
+  },
+  {
+   "site": "PKQ-A (5C)",
+   "kind": "Diamicton clast",
+   "sample": "PKQ24-A-P5C",
+   "state": "weathered",
+   "mass": 0.245,
+   "Hc": 8.668,
+   "Hcr": 17.07,
+   "Mr": 15.55,
+   "Ms": 90.8,
+   "MrMs": 0.171255507,
+   "HcrHc": 1.969312413
+  }
+ ],
+ "ts3": [
+  {
+   "site": "NWF-A",
+   "lat": 15.6446,
+   "lon": 106.1427,
+   "setting": "In-situ flow",
+   "stype": "Block",
+   "orient": "Sun",
+   "nsamp": 5,
+   "nspec": 15,
+   "nacc": 15,
+   "nfits": 40
+  },
+  {
+   "site": "NWF-B",
+   "lat": 15.6236,
+   "lon": 105.9859,
+   "setting": "Blocks (transported)",
+   "stype": "Block",
+   "orient": "Magnetic (IGRF-corr.)",
+   "nsamp": 3,
+   "nspec": 20,
+   "nacc": 20,
+   "nfits": 58
+  },
+  {
+   "site": "NWF-C",
+   "lat": 15.4148,
+   "lon": 106.1433,
+   "setting": "Diamicton boulders",
+   "stype": "Block",
+   "orient": "Sun",
+   "nsamp": 8,
+   "nspec": 33,
+   "nacc": 33,
+   "nfits": 97
+  },
+  {
+   "site": "PKQ-A",
+   "lat": 15.102,
+   "lon": 105.8536,
+   "setting": "Diamicton boulders",
+   "stype": "Core",
+   "orient": "Sun (cores 0, 3 magnetic)",
+   "nsamp": 10,
+   "nspec": 83,
+   "nacc": 82,
+   "nfits": 238
+  },
+  {
+   "site": "PKS-B",
+   "lat": 15.1543,
+   "lon": 106.1897,
+   "setting": "In-situ flow",
+   "stype": "Block",
+   "orient": "Sun",
+   "nsamp": 1,
+   "nspec": 7,
+   "nacc": 7,
+   "nfits": 21
+  },
+  {
+   "site": "PKS-F",
+   "lat": 15.1131,
+   "lon": 106.2282,
+   "setting": "Diamicton boulders",
+   "stype": "Core",
+   "orient": "Sun",
+   "nsamp": 11,
+   "nspec": 112,
+   "nacc": 105,
+   "nfits": 334
+  },
+  {
+   "site": "PKS-G",
+   "lat": 15.1558,
+   "lon": 106.1903,
+   "setting": "Diamicton boulders",
+   "stype": "Block",
+   "orient": "Magnetic (IGRF-corr.)",
+   "nsamp": 8,
+   "nspec": 33,
+   "nacc": 33,
+   "nfits": 98
+  },
+  {
+   "site": "PKS-H",
+   "lat": 15.1557,
+   "lon": 106.1918,
+   "setting": "Two horizons (HA, HB)",
+   "stype": "Core",
+   "orient": "Sun",
+   "nsamp": 3,
+   "nspec": 24,
+   "nacc": 24,
+   "nfits": 68
+  },
+  {
+   "site": "PKS-I",
+   "lat": 15.2328,
+   "lon": 106.1908,
+   "setting": "Corestone",
+   "stype": "Core",
+   "orient": "Sun",
+   "nsamp": 1,
+   "nspec": 5,
+   "nacc": 5,
+   "nfits": 15
+  },
+  {
+   "site": "PKS-J",
+   "lat": 15.2431,
+   "lon": 106.2581,
+   "setting": "In-situ flow",
+   "stype": "Core",
+   "orient": "Magnetic (IGRF-corr.)",
+   "nsamp": 3,
+   "nspec": 12,
+   "nacc": 12,
+   "nfits": 36
+  },
+  {
+   "site": "PKS-K",
+   "lat": 15.2419,
+   "lon": 106.2585,
+   "setting": "In-situ flow",
+   "stype": "Core",
+   "orient": "Magnetic (IGRF-corr.)",
+   "nsamp": 2,
+   "nspec": 9,
+   "nacc": 9,
+   "nfits": 26
+  },
+  {
+   "site": "WBE-A",
+   "lat": 15.27,
+   "lon": 106.3472,
+   "setting": "Basal flow",
+   "stype": "Block",
+   "orient": "Magnetic (IGRF-corr.)",
+   "nsamp": 2,
+   "nspec": 11,
+   "nacc": 11,
+   "nfits": 31
+  }
+ ],
+ "ts4": [
+  {
+   "tek": "KK24_T1",
+   "loc": "Khon Kaen, NE Thailand",
+   "n": 30,
+   "nacc": 30,
+   "tmin": 97.735901,
+   "tmax": 99.657471,
+   "la": "\u2014"
+  },
+  {
+   "tek": "MG24_B1",
+   "loc": "Muong Nong area, Savannakhet, Laos",
+   "n": 6,
+   "nacc": 5,
+   "tmin": 96.774857,
+   "tmax": 98.580841,
+   "la": "\u2014"
+  },
+  {
+   "tek": "MNG24_A3_1",
+   "loc": "Muong Nong area, Savannakhet, Laos",
+   "n": 30,
+   "nacc": 30,
+   "tmin": 98.418533,
+   "tmax": 99.665756,
+   "la": "yes (5 sites \u00d7 5)"
+  },
+  {
+   "tek": "MNG24_A3_2",
+   "loc": "Muong Nong area, Savannakhet, Laos",
+   "n": 27,
+   "nacc": 0,
+   "tmin": 32.72007,
+   "tmax": 85.60714,
+   "la": "yes (5 sites \u00d7 5)"
+  },
+  {
+   "tek": "MNG24_A3_3",
+   "loc": "Muong Nong area, Savannakhet, Laos",
+   "n": 15,
+   "nacc": 0,
+   "tmin": 60.675705,
+   "tmax": 96.716072,
+   "la": "\u2014"
+  },
+  {
+   "tek": "MNG24_B1",
+   "loc": "Muong Nong area, Savannakhet, Laos",
+   "n": 20,
+   "nacc": 17,
+   "tmin": 96.270821,
+   "tmax": 97.964645,
+   "la": "\u2014"
+  },
+  {
+   "tek": "MNG24_C2",
+   "loc": "Muong Nong area, Savannakhet, Laos",
+   "n": 25,
+   "nacc": 0,
+   "tmin": 65.786957,
+   "tmax": 93.851257,
+   "la": "\u2014"
+  }
+ ]
+}

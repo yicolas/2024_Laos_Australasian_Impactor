@@ -1,0 +1,50 @@
+[
+ {
+  "site": "NWF-B",
+  "N": 3,
+  "R": 2.38,
+  "Ro95": 2.62,
+  "Ro99": 2.83,
+  "verdict": "RANDOM (pass)"
+ },
+ {
+  "site": "NWF-C",
+  "N": 8,
+  "R": 3.26,
+  "Ro95": 4.47,
+  "Ro99": 5.24,
+  "verdict": "RANDOM (pass)"
+ },
+ {
+  "site": "PKQ-A",
+  "N": 3,
+  "R": 2.25,
+  "Ro95": 2.62,
+  "Ro99": 2.83,
+  "verdict": "RANDOM (pass)"
+ },
+ {
+  "site": "PKS-F",
+  "N": 11,
+  "R": 5.31,
+  "Ro95": 5.28,
+  "Ro99": 6.25,
+  "verdict": "CLUSTERED (fail)"
+ },
+ {
+  "site": "PKS-G",
+  "N": 8,
+  "R": 6.58,
+  "Ro95": 4.47,
+  "Ro99": 5.24,
+  "verdict": "CLUSTERED (fail)"
+ },
+ {
+  "site": "PKS-H",
+  "N": 3,
+  "R": 2.52,
+  "Ro95": 2.62,
+  "Ro99": 2.83,
+  "verdict": "RANDOM (pass)"
+ }
+]

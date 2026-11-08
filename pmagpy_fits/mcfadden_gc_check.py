@@ -239,3 +239,7 @@ b3 = pd.DataFrame(rows)
 R, ro95, ro99, verdict = watson(b3)
 print(f'PKQA 3-field-boulder variant: R={R:.2f} Ro95={ro95:.2f} -> {verdict}')
 print(b3.round(1).to_string(index=False))
+
+# ---- export PKS-F records for the supplementary figure (Fig S) ----
+import pickle
+pickle.dump(dict(recs=recs['PKSF'], bdf=all_bd['PKSF']), open('pksf_lnp.pkl', 'wb'))

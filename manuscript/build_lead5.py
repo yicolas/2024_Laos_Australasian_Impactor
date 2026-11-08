@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """Build manuscript_LEAD_5.docx (MAPS main) + Supporting_Information_LEAD_5.docx from the FINAL
-manuscript_LEAD_4.docx (7 main figures, Tables 1-3, embedded Supplementary Figs S1-S16 and
+manuscript_LEAD_4.docx (7 main figures, Tables 1-3, embedded Supplementary Figs S1-S17 and
 Tables S1-S5). Anchored on caption/heading text; warns instead of dying."""
 import copy, os, re, zipfile
 import docx
@@ -194,7 +194,7 @@ sadd('Title', [('Supporting Information for “Paleomagnetic and Geochemical Inv
 sadd('Author', [('Nicolas Anderson, Paolo Sanchez, Kerry Sieh, and Joseph L. Kirschvink', None)])
 sadd('Body Text', [('Contents: Text S1, sedimentology and stratigraphy of the target succession; '
     'Text S2, supplementary methods; Text S3, site-by-site paleomagnetic documentation; Figures '
-    'S1–S16; Tables S1–S5.', None)])
+    'S1–S17; Tables S1–S5.', None)])
 
 sadd('Heading 1', [('Text S1. Sedimentology and stratigraphy of the target succession', None)])
 hr = heading_range('Sedimentology and Stratigraphy')
