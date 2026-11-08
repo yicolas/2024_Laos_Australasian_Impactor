@@ -1,0 +1,6 @@
+Paolo_Data/
+_archive/
+Code/geochem_rjmcmc/res_*.pkl
+Code/geochem_rjmcmc/out/
+__pycache__/
+.DS_Store
