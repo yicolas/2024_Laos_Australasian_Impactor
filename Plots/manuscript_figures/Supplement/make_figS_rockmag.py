@@ -7,7 +7,7 @@ import sys, os, glob, numpy as np, pandas as pd
 import matplotlib as mpl, matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
 import pmagpy.pmag as pmag
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, '/home/claude/fig8')
 from rmg import read_rmg
 from ea_helpers import xy, net, gad_stars, dot
 from pmag_sites import load, fisher, SLOTC
@@ -103,9 +103,12 @@ save(fig, 'FigS2_rockmag_extra')
 pd.DataFrame(rows, columns=['specimen', 'MDF_NRM_mT', 'MDF_ARM_mT', 'MDF_SIRM_mT', 'ARM_SIRM', 'SIRM_Am2', 'NRM_Am2']).round(4).to_csv(os.path.join(OUT, 'FigS2_rockmag_parameters.csv'), index=False)
 
 # ======================= S3: AF directions (geographic) =======================
-names = list(D)
-nc = 5; nr = int(np.ceil(len(names) / nc))
-fig = plt.figure(figsize=(7.09, 1.62 * nr + 0.8))
+# Specimens measured on the sample changer in 2025-26 wander along small circles from step to step
+# (rotational/holder artefact, not a demagnetization path): shown in no panel, listed in the caption.
+S3_EXCL = {'NWF-B-3I', 'NWF-C-7A', 'PKS-G-8E', 'WBE-A-1J'}
+names = [n for n in D if n not in S3_EXCL]
+nc = 4; nr = int(np.ceil(len(names) / nc))
+fig = plt.figure(figsize=(5.8, 1.62 * nr + 0.8))
 cm = plt.get_cmap('viridis')
 for k, nmk in enumerate(names):
     r = D[nmk]; a = r['nrm']
@@ -113,7 +116,7 @@ for k, nmk in enumerate(names):
     if not cand: print('no orientation for', nmk); continue
     az, dip = sa.loc[cand[0], 'azimuth'], sa.loc[cand[0], 'dip']        # same core -> same orientation
     g = np.array([pmag.dogeo(dd, ii, az, dip) for dd, ii in zip(a[:, 1], a[:, 2])])
-    ax = fig.add_axes([(0.01 + (k % nc) * 0.198), 1 - (0.38 + (k // nc + 1) * 1.62) / (1.62 * nr + 0.8), 0.17, 1.2 / (1.62 * nr + 0.8)])
+    ax = fig.add_axes([(0.02 + (k % nc) * 0.25), 1 - (0.38 + (k // nc + 1) * 1.62) / (1.62 * nr + 0.8), 0.21, 1.2 / (1.62 * nr + 0.8)])
     net(ax); gad_stars(ax, 12)
     x, y = xy(g[:, 0], g[:, 1]); ax.plot(x, y, color='0.75', lw=0.4, zorder=2)
     for j in range(len(g)):
@@ -122,9 +125,9 @@ for k, nmk in enumerate(names):
     if len(hs):
         m = fisher(hs.dir_dec, hs.dir_inc); dot(ax, m['dec'], m['inc'], SLOTC['HT'], s=26, marker='s', ec='k', lw=0.5, z=6)
     ax.set_title(nmk, fontsize=6, pad=1)
-cax = fig.add_axes([0.25, 0.02, 0.3, 0.012]); cb = mpl.colorbar.ColorbarBase(cax, cmap=cm, norm=mpl.colors.Normalize(0, 94), orientation='horizontal')
+cax = fig.add_axes([0.05, 0.04, 0.32, 0.014]); cb = mpl.colorbar.ColorbarBase(cax, cmap=cm, norm=mpl.colors.Normalize(0, 94), orientation='horizontal')
 cb.set_label('AF peak field (mT)', fontsize=5.6); cb.ax.tick_params(labelsize=5)
-fig.text(0.58, 0.022, '■ thermal HT mean of the same core (Fig. 7)   ★ GAD normal / ☆ reversed   filled lower / open upper hemisphere',
+fig.text(0.45, 0.045, '■ thermal HT mean of the same core (Fig. 7)\n★ GAD normal / ☆ reversed\nfilled lower / open upper hemisphere',
          fontsize=5.4, va='center')
 save(fig, 'FigS3_AF_directions')
 print(pd.DataFrame(rows, columns=['spec', 'mdfN', 'mdfA', 'mdfS', 'ARM/SIRM', 'SIRM', 'NRM']).round(3).to_string())
