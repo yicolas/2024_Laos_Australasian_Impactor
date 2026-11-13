@@ -1,0 +1,3 @@
+tab	locations
+location	location_type	lat_s	lat_n	lon_w	lon_e	geologic_classes	lithologies	sites	age_low	age_high	age_unit	citations	description
+Bolaven Plateau	Outcrop	15.102	15.6446	105.8536	106.3472	Igneous:Extrusive	Basalt	NWFA:NWFB:NWFC:PKQA:PKSB:PKSF:PKSG:PKSH:PKSI:PKSJ:PKSK:WBEA	400	1400	Ka	This study	Bolaven Plateau volcanic field, southern Laos; in-situ flows and diamicton boulders sampled March 2024

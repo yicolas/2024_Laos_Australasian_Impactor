@@ -12,8 +12,8 @@ SIG_MODEL = {o: (ACC[o]**2+0.05**2)**0.5 for o in ACC}
 SIG = SIG_MODEL
 RANDOM_HI = dict(SiO2=100,TiO2=5,Al2O3=40,FeOt=30,MnO=1,MgO=40,CaO=60,Na2O=10,K2O=10)
 
-def build_dictionary(include_paas=True, include_random=True, oxides=OX):
-    s = sources(); names=[]; mu=[]; sd=[]; lo=[]; hi=[]
+def build_dictionary(include_paas=True, include_random=True, oxides=OX, drop=()):
+    s = sources(); s = s[~s.type.isin(drop)]; names=[]; mu=[]; sd=[]; lo=[]; hi=[]
     for t, g in s.groupby('type'):
         x = g[oxides].values; m = np.median(x, 0)                     # robust: median and 1.4826*MAD
         sdev = 1.4826*np.median(np.abs(x-m), 0) if len(x) > 1 else np.zeros_like(m)
@@ -34,7 +34,7 @@ def one_chain(args):
     cfg, seed = args
     ox = cfg.get('oxides', OX)
     e = epma(); data = e[ox].values.T; data = data/data.sum(0)*100
-    dic = build_dictionary(cfg.get('paas', True), cfg.get('random', True), ox)
+    dic = build_dictionary(cfg.get('paas', True), cfg.get('random', True), ox, cfg.get('drop', ()))
     sig = SIG_PREC if cfg.get('sigma')=='precision' else SIG_MODEL
     m = RJMCMC(data, [sig[o] for o in ox], dic, lam=cfg.get('lam',10), kmax=30, seed=seed)
     t0 = time.time(); out, trace, acc = m.run(cfg['n'], cfg['burn'], thin=cfg.get("thin",200))
@@ -44,6 +44,7 @@ def one_chain(args):
 if __name__ == '__main__':
     name = sys.argv[1]; n = int(sys.argv[2]); chains = int(sys.argv[3])
     cfgs = {'main':dict(), 'precision':dict(sigma='precision'), 'no_random':dict(random=False), 'local_only':dict(paas=False, random=False),
+            'no_metatuff':dict(drop=('Metatuff',)), 'local_no_metatuff':dict(paas=False, random=False, drop=('Metatuff',)),
             'no_alkali':dict(oxides=[o for o in OX if o not in ('Na2O','K2O')])}
     cfg = dict(cfgs[name], n=n, burn=n//2)
     with Pool(min(chains, 8)) as p: res = p.map(one_chain, [(cfg, 1000+i) for i in range(chains)])
