@@ -152,7 +152,7 @@ def fig16(S, mixtr):
     ax.plot(x, litv[1], color='0.5', lw=1.2)
     for t, g in l.groupby('tektite'):
         ax.plot(x, [g[el].median()/CI[el] for el in REE], '-o', ms=3.5, color=TCOL.get(t, '#5aa0e0'), lw=1.6, label=f'{t} (LA-ICP-MS)')
-    for nm in ['Khorat sandstone','Khorat mudstone','Bolaven tholeiite','Bolaven alkali basalt','Lateritic saprolite','Diamicton / "catastro-loess"','Sedimentary laterite','Metatuff','Unweathered shale (PAAS)']:
+    for nm in ['Khorat sandstone','Khorat mudstone','Bolaven tholeiite','Bolaven alkali basalt','Lateritic saprolite','Diamicton / "catastro-loess"','Sedimentary laterite','Unweathered shale (PAAS)']:
         ax.plot(x, [tr[nm][el]/CI[el] for el in REE], '--', color=SCOL[nm], lw=.9, label=LAB(nm))
     ax.set_yscale('log'); ax.set_xticks(x); ax.set_xticklabels(REE); ax.set_ylabel('sample / CI chondrite')
     ax.legend(fontsize=5.8, loc='lower left', ncol=2, frameon=False); ax.set_ylim(3, 800)
@@ -166,7 +166,7 @@ def fig16(S, mixtr):
         ax.scatter(mixtr['Th/Sc'], mixtr['Eu/Eu*'], s=4, c='#2ca02c', alpha=.25, lw=0, label='posterior mixtures (bulk)')
     for t, g in l.groupby('tektite'):
         ax.scatter(g.Th/g.Sc, eu_star(g), s=14, c=TCOL.get(t, '#5aa0e0'), edgecolors='k', lw=.3, label=t)
-    for nm in ['Khorat sandstone','Khorat mudstone','Bolaven tholeiite','Bolaven alkali basalt','Lateritic saprolite','Diamicton / "catastro-loess"','Sedimentary laterite','Metatuff','Unweathered shale (PAAS)']:
+    for nm in ['Khorat sandstone','Khorat mudstone','Bolaven tholeiite','Bolaven alkali basalt','Lateritic saprolite','Diamicton / "catastro-loess"','Sedimentary laterite','Unweathered shale (PAAS)']:
         d = tr[nm]; ax.scatter(d['Th']/d['Sc'], eu_star(d), marker='*', s=150, c=SCOL[nm], edgecolors='k', lw=.5)
     ax.axhline(1, color='k', ls=':', lw=.7); ax.set_xscale('log'); ax.set_xlim(0.05, 3); ax.set_ylim(0.4, 1.25)
     ax.set_xlabel('Th / Sc'); ax.set_ylabel('Eu / Eu*'); ax.legend(fontsize=6, loc='lower left', frameon=False)

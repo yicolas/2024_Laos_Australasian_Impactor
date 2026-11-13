@@ -23,8 +23,8 @@ ABSTRACT = (
  'reversed flows with Brunhes ages require redating, and the flow thought to span the '
  'Brunhes' + EN + 'Matuyama boundary is internally discordant, so no in-situ reversal record is '
  'confirmed. Reversible-jump Bayesian unmixing of 82 quality-screened tektite analyses requires '
- 'a sediment-dominated parent less weathered than any exposed Khorat Group rock, permits at most '
- '~10' + EN + '20% basalt, and cannot discriminate Bolaven from other Indochinese sources. The '
+ 'a sediment-dominated parent less weathered than any exposed Khorat Group rock, permits ~4' + EN + '25% basalt '
+ '(capped at ~10' + EN + '20% by trace-element ratios), and cannot discriminate Bolaven from other Indochinese sources. The '
  'hypothesis survives both tests but gains no independent support; the volcanic chronology '
  'needs revision first.'
 )
@@ -255,16 +255,16 @@ P(('Only 82 of 153 EPMA analyses, on four tektites, have oxide totals ≥ 97 wt%
    '(Th/Sc = 1.14 and 1.20, Eu/Eu* = 0.69 and 0.66). Reversible-jump unmixing of the accepted '
    'analyses (Fig. 5i' + EN + 'm) constrains the type of parent material even though the number of '
    'components is unconstrained: a quartz-rich sand classified as Khorat sandstone '
-   '(36' + PM + '15%) is required; the deeply weathered lithologies that now cover the plateau '
+   '(25' + PM + '15%) is required; the deeply weathered lithologies that now cover the plateau '
    '(saprolite, laterite, the diamicton itself) are not used; and the balance must be a '
    'fine-grained aluminous sediment carrying ~1.5' + EN + '2 wt% each of CaO and Na₂O ' + EN +
    ' which no sampled Khorat rock supplies, because all are intensely leached (median CaO ≤ '
-   '0.04 wt%). The model assigns that component to unweathered-shale (27' + PM + '23%) and '
-   'metatuff (10' + PM + '6%) proxies for unleached fine-grained material, i.e., the '
+   '0.04 wt%). The model assigns that component to unweathered shale (PAAS, 37' + PM + '17%) and '
+   'an unconstrained component (31' + PM + '15%) resembling unweathered greywacke, i.e., the '
    'tektite parent was much less weathered than anything now exposed.', None))
-P(('Basalt is permitted but not demanded: 4.8' + PM + '5.4% in the main run ' + EN + ' with an '
-   'unconstrained "random" component taking 18' + PM + '13%, itself a sign that the dictionary '
-   'lacks an adequate parent ' + EN + ' rising to 19' + PM + '9% and becoming required only when the model is denied that component. Trace-element ratios cap the basaltic contribution '
+P(('Basalt is permitted but not demanded: 3.8' + PM + '4.9% in the main run ' + EN + ' the size of the '
+   'unconstrained component being itself a sign that the dictionary '
+   'lacks an adequate parent ' + EN + ' rising to 24' + PM + '4% (and 25% with regional lithologies only) and becoming required only when the model is denied that component. The regional felsic "metatuff", pre-Khorat basement exposed only south of the plateau, is not used. Trace-element ratios cap the basaltic contribution '
    'independently ' + EN + ' ~10% tholeiite or ~20% alkali basalt brings Th/Sc down to the '
    'tektite value, and more alkali basalt pushes Eu/Eu* out of range ' + EN + ' while absolute '
    'Zr and Th are under-predicted by the posterior mixtures, mirroring the major-element result '
@@ -317,7 +317,7 @@ P(('The impact fell in the reversed, transitional latest Matuyama, so any clast 
    'cold.', None))
 H2('Implications for the Bolaven hypothesis')
 P(('The geochemistry points the same way as the magnetism. The tektite parent was a quartz-rich '
-   'sand plus a fine-grained, unleached aluminous sediment with ~5' + EN + '20% basalt permitted '
+   'sand plus a fine-grained, unleached aluminous sediment with ~4' + EN + '25% basalt permitted '
    'and ~10' + EN + '20% as the upper bound '
    + EN + ' consistent with a Khorat-type target anywhere in Indochina, and specifically '
    'inconsistent with the deeply weathered rocks now exposed on the plateau. A decisive '
@@ -344,7 +344,7 @@ P(('3. Magnetic polarity matches the ' + AR + ' ages at only three of six dated 
    'and PKS-K require redating, and no in-situ Brunhes' + EN + 'Matuyama boundary is confirmed. '
    'The chronology underpinning the burial argument needs revision.', None))
 P(('4. The tektite parent was a sediment-dominated, little-weathered Khorat-type target; basalt '
-   'is permitted at ~5' + EN + '20% and capped by trace-element ratios at ~10' + EN + '20%. No '
+   'is permitted at ~4' + EN + '25% and capped by trace-element ratios at ~10' + EN + '20%. No '
    'projectile signature is detectable at available limits. Nothing in either dataset '
    'discriminates Bolaven from other Indochinese candidates.', None))
 P(('The Bolaven impact hypothesis survives this first paleomagnetic test uncontradicted but '

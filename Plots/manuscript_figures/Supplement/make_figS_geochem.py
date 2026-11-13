@@ -18,7 +18,7 @@ def save(fig, name):
     for ext in ['svg', 'pdf', 'png']:
         fig.savefig(os.path.join(OUT, f'{name}.{ext}'), dpi=400 if ext == 'png' else None, bbox_inches='tight', pad_inches=0.03)
     plt.close(fig)
-SRC = ['Khorat sandstone', 'Khorat mudstone', 'Unweathered shale (PAAS)', 'Metatuff', 'Bolaven tholeiite', 'Bolaven alkali basalt',
+SRC = ['Khorat sandstone', 'Khorat mudstone', 'Unweathered shale (PAAS)', 'Bolaven tholeiite', 'Bolaven alkali basalt',
        'Lateritic saprolite', 'Sedimentary laterite', 'Diamicton / "catastro-loess"']
 SHORTN = {'Unweathered shale (PAAS)': 'Unweathered shale (PAAS)', 'Diamicton / "catastro-loess"': 'Diamicton / loess'}
 
@@ -73,7 +73,7 @@ l1 = lg.legend(handles=h1, loc='upper left', bbox_to_anchor=(0.005, 1.0), ncol=1
 l1._legend_box.align = 'left'; lg.add_artist(l1)
 h2 = [Line2D([], [], color=SCOL[n], ls='--', marker='*', ms=5, mec='k', mew=0.3, lw=0.8, label=SHORTN.get(n, LAB(n))) for n in SRC if n in tr and np.isfinite(tr[n].get('Th', np.nan))]
 l2 = lg.legend(handles=h2, loc='upper left', bbox_to_anchor=(0.42, 1.0), ncol=3, fontsize=5.4, frameon=False,
-               title='Source lithology medians (dashed in b, stars in c; felsic metatuff has no trace data)', title_fontsize=5.8)
+               title='Source lithology medians (dashed in b, stars in c)', title_fontsize=5.8)
 l2._legend_box.align = 'left'
 save(fig, 'FigS1_trace_elements')
 

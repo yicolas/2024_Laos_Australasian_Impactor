@@ -1,4 +1,14 @@
-# Sensitivity: rj-MCMC without the felsic metatuff (2026-11-13)
+# Metatuff removed from the dictionary (2026-11-13)
+
+**Decision (Nick, 2026-11-13): the felsic metatuff is excluded from all runs** (`load.sources_all`, override with
+`GEOCHEM_KEEP_METATUFF=1`). All four configurations were rerun (main 12 × 6e4; sensitivities 4 × 3e4) and
+`figures/summary.json`, Fig 5, Fig S1 and Table S5 regenerated. Final full-model result (12 chains): sandstone 25 ± 15,
+PAAS 37 ± 17, random 31 ± 15, basalt 3.8 ± 4.9 (thol 2.9 + alk 0.9; P 0.60), weathered regolith 2.6 %. Sensitivities:
+no random — basalt 24 ± 4 (required), mudstone 39; no Na/K — basalt 7 ± 9; regional only — basalt 25 ± 1 (required),
+mudstone 44. Note that the exploratory 4-chain test below over-stated the basalt in the full model (10 %): with 12 chains
+the random component (31 %), not basalt, takes over the metatuff's role.
+
+## Exploratory 4-chain test (before the decision)
 
 `python3 run.py no_metatuff 30000 4` and `python3 run.py local_no_metatuff 30000 4` (seeds 1000–1003), summarised with
 `summarize.summarise` (all chains within 50 log-likelihood units). Mean ± 1σ wt%, P = fraction of posterior samples > 1 %.

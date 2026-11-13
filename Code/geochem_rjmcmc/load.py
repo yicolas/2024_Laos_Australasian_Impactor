@@ -128,6 +128,10 @@ def sources_all():
     alk = (out.Na2O + out.K2O) > 0.37*(out.SiO2 - 39)
     out.loc[b & alk, 'type'] = 'Bolaven alkali basalt'
     out.loc[b & ~alk, 'type'] = 'Bolaven tholeiite'
+    # Metatuff excluded (2026-11-13): the felsic 'metatuff' of the compilation is Triassic (pre-Khorat) arc volcanics
+    # cropping out south of the plateau, buried by >=500 m of Khorat Group at the proposed crater, with no field context
+    # for 7 of 8 samples; see no_metatuff_sensitivity.md. Set GEOCHEM_KEEP_METATUFF=1 to restore it.
+    if os.environ.get('GEOCHEM_KEEP_METATUFF') != '1': out = out[out.type != 'Metatuff']
     return out
 
 # literature reference compositions (anhydrous, FeOt)

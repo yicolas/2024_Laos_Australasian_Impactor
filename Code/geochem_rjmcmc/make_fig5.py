@@ -117,7 +117,7 @@ l1 = lg.legend(handles=ht, loc='upper left', bbox_to_anchor=(0.005, 1.0), ncol=2
 l1._legend_box.align = 'left'; lg.add_artist(l1)
 hs = [Line2D([], [], ls='', marker='s', ms=5.5, mfc=SCOL[n], mec='k', mew=0.4, label=SHORT[n] if n != 'Random' else 'Random (unconstrained)') for n in names]
 l2 = lg.legend(handles=hs, loc='upper left', bbox_to_anchor=(0.41, 1.0), ncol=3, fontsize=5.6, frameon=False, handletextpad=0.3,
-               columnspacing=1.0, labelspacing=0.35, title='Source lithologies: medians (★, b–h; this study + Sieh et al., 2019; PAAS) and mixing components (k, m)', title_fontsize=6)
+               columnspacing=1.0, labelspacing=0.35, title='Source lithologies: medians (★, b–h; this study + Sieh et al. 2020; PAAS) and mixing components (k, m)', title_fontsize=6)
 l2._legend_box.align = 'left'
 for ext in ['svg', 'pdf', 'png']:
     fig.savefig(os.path.join(OUT, f'Fig5_tektite_geochem_rjMCMC.{ext}'), dpi=400 if ext == 'png' else None, bbox_inches='tight', pad_inches=0.03)
