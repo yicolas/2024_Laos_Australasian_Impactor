@@ -25,7 +25,8 @@ SHORTN = {'Unweathered shale (PAAS)': 'Unweathered shale (PAAS)', 'Diamicton / "
 # ======================= S1: trace elements =======================
 S = summarise(pickle.load(open(os.path.join(RES, 'res_main.pkl'), 'rb'))); tr = source_traces(); mixtr = mixture_traces(S, tr)
 l, _ = laicpms(); e = epma()
-lit = pd.read_csv("/mnt/user-data/uploads/2024_Laos_Australasian_Impactor/Paolo_Data/AAT Laos - Geochem data/Tektite data/AAT_master_list.csv", low_memory=False)
+from load import ROOT
+lit = pd.read_csv(ROOT + "Tektite data/AAT_master_list.csv", low_memory=False)
 lit = lit[lit.SheetName.isin(['Muong Nong', 'Indochinites', 'Indochinite', 'Hanoi', 'Vinh', 'Dalat', 'Saigon'])]
 fig = plt.figure(figsize=(7.09, 3.25))
 gs = fig.add_gridspec(1, 3, left=0.07, right=0.99, top=0.9, bottom=0.36, wspace=0.34, width_ratios=[1.25, 1, 1])
